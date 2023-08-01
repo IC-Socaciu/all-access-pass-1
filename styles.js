@@ -1,5 +1,4 @@
 import { createGlobalStyle } from "styled-components";
-
 export default createGlobalStyle`
   *,
   *::before,
@@ -14,10 +13,14 @@ export default createGlobalStyle`
 }
   body {
     margin: 0;
-    font-family: system-ui;
+    font-family: Roboto;
     background-color: #e9e9e9;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+
   }
   .interview-container {
+    
 align-items: center;
 justify-content: center
 
@@ -28,8 +31,9 @@ justify-content: center
   flex-direction: row;
   align-items: center;
   border-radius: 1.2rem;
-  margin: 10px;
+  margin: auto;
   border: solid 3px #95091B;
+
 
 
 }
@@ -49,25 +53,28 @@ justify-content: center
   height: 250px;
   text-align: center;
   padding-left: 20px;
-
-
+  
+      
 }
 .summary-container {
-  display: flex;
-  padding-left: 20px;
+  display: inline;
   width: 70%;
   height: 250px;
   padding-top: 30px;
   text-align: center;
-
-
+  margin-left: auto;
+    margin-right: auto;
+    word-wrap: break-word;
+    
 
 }
 .text-container {
   display: flex;
   padding-left: 20px;
   display: inline-block;
-
+  margin-left: auto;
+    margin-right: auto;
+   
 
 }
 

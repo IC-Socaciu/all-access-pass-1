@@ -14,8 +14,8 @@ export default function InterviewCard({ id, title, summary, text, image }) {
             style={{ maxWidth: "100%", maxHeight: "250px" }}
           />
         </div>
-        <div className="summary-container">
-          <p>{summary}</p>
+        <div>
+          <p className="summary-container">{summary}</p>
         </div>
         {/* <p className="text-container">{text}</p> */}
       </div>
