@@ -1,7 +1,10 @@
+import Heading from "@/Header";
+import InterviewCard from "@/components/InterviewCard";
+
 export default function HomePage() {
   return (
-    <div>
-      <h1>Hello from Next.js</h1>
-    </div>
+    <main>
+      <Heading>all access pass</Heading>
+    </main>
   );
 }
