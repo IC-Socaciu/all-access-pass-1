@@ -1,7 +1,6 @@
 import GlobalStyle from "../styles";
 import InterviewCard from "@/components/InterviewCard";
 import { interviews } from "@/public/interviews";
-import Heading from "@/Header";
 
 export default function App({ Component, pageProps }) {
   return (

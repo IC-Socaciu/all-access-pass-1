@@ -41,12 +41,10 @@ export default createGlobalStyle`
   height: 250px;
 }
 .summary-container {
-  float: right;
   display: block;
 
 }
 .text-container {
-  float: left;
   display: block;
 
 }

@@ -13,7 +13,7 @@ export const interviews = [
       "THE UNDERTAKER is a Japanese alternative rock band formed in 2021 in Hyakunincho/Shinjuku",
 
     image:
-      "https://all-access-pass.de/wp-content/uploads/2022/06/TRY1-684x456.jpg",
+      "https://all-access-pass.de/wp-content/uploads/2023/04/THE-UNDERTAKER-promo-2023.jpg",
 
     likes: 60,
     liked: false,
@@ -29,7 +29,7 @@ export const interviews = [
       "Founded in 2019, GODMORGON, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany).",
 
     image:
-      "https://all-access-pass.de/wp-content/uploads/2019/08/tezura-3-768x512.jpg",
+      "https://all-access-pass.de/wp-content/uploads/2022/06/GODMORGONBAND-360x270.jpeg",
     likes: 28,
     liked: false,
   },
@@ -44,7 +44,7 @@ export const interviews = [
       "Estonian studio and session guitar virtuoso and composer TOOMAS VANEM, started his music career in the 1980s.",
 
     image:
-      "https://all-access-pass.de/wp-content/uploads/2020/12/band-768x511.jpg",
+      "https://all-access-pass.de/wp-content/uploads/2022/02/MG_8495-1-e1644341807768-360x270.jpg",
     likes: 46,
     liked: false,
   },
