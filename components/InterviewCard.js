@@ -1,9 +1,10 @@
 export default function InterviewCard({ id, title, summary, text, image }) {
   return (
     <article>
-      <div>
-        <p>id={id}</p>
-        <h2 className="title-container">{title}</h2>
+      <div className="interview-container">
+        {/* <p>id={id}</p> */}
+        <div className="title-container"></div>
+        <h2 className="preview-title">{title}</h2>
         <div className="image-container">
           {/* <img src={image} alt={title} /> */}
 
@@ -13,8 +14,10 @@ export default function InterviewCard({ id, title, summary, text, image }) {
             style={{ maxWidth: "100%", maxHeight: "250px" }}
           />
         </div>
-        <p className="summary-container">{summary}</p>
-        <p className="text-container">{text}</p>
+        <div className="summary-container">
+          <p>{summary}</p>
+        </div>
+        {/* <p className="text-container">{text}</p> */}
       </div>
     </article>
   );

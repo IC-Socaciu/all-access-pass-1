@@ -17,36 +17,59 @@ export default createGlobalStyle`
     font-family: system-ui;
     background-color: #e9e9e9;
   }
+  .interview-container {
+align-items: center;
+justify-content: center
+
+}
+
   .interview-card {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   border-radius: 1.2rem;
   margin: 10px;
   border: solid 3px #95091B;
+
+
 }
-.title-container {
+.preview-title {
   display: flex;
   flex-direction: column;
   align-items: center;
-  color: darkred;
+  color: #95091B;
+
 }
 .image-container {
   display: flex;
   float: left;
-  padding-bottom: 5px;
   margin: auto;
   display: block;
   width: 250px;
   height: 250px;
+  text-align: center;
+  padding-left: 20px;
+
+
 }
 .summary-container {
-  display: block;
+  display: flex;
+  padding-left: 20px;
+  width: 70%;
+  height: 250px;
+  padding-top: 30px;
+  text-align: center;
+
+
 
 }
 .text-container {
-  display: block;
+  display: flex;
+  padding-left: 20px;
+  display: inline-block;
+
 
 }
+
 
 `;

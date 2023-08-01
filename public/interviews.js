@@ -26,7 +26,7 @@ export const interviews = [
     text: "Founded in 2019, GODMORGON, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany) was f and has developed into a death/sludge metal band combining harsh vocals, groovy riffs and raw, straightforward energy.",
 
     summary:
-      "Founded in 2019, GODMORGON, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany).",
+      "Founded in 2019, GODMORGON, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany). Founded in 2019, GODMORGON, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany). ",
 
     image:
       "https://all-access-pass.de/wp-content/uploads/2022/06/GODMORGONBAND-360x270.jpeg",
