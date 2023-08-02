@@ -19,33 +19,38 @@ export default function InterviewArticle() {
   );
 }
 
-const TextContainer = styled.p`
-  justify-content: right;
-  display: flex;
+const TextContainer = styled.div`
+  /* justify-content: right; */
+  /* display: flex; */
+  /* padding-left: 20px; */
+  /* display: inline-block; */
+  /* margin-left: auto; */
+  /* margin-right: auto; */
   padding-left: 20px;
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-top: 0;
+  word-break: normal;
 `;
 const ImageContainer = styled.div`
   max-width: 150px;
   max-height: 250px;
-  display: flex;
+  /* display: flex; */
   float: left;
-  margin: auto;
-  display: block;
-  width: 250px;
-  height: 250px;
-  text-align: center;
+  /* margin: auto; */
+  /* display: block; */
+  /* width: 250px; */
+  /* height: 250px; */
+  /* text-align: center; */
 `;
 const Image = styled.img`
-  max-width: 200px;
-  max-height: 250px;
-  display: flex;
-  float: left;
-  margin: auto;
-  display: block;
-  text-align: center;
+  /* max-width: 200px;
+  max-height: 250px; */
+  /* display: flex; */
+  /* float: left; */
+  /* margin: auto; */
+  /* display: block; */
+  /* text-align: center; */
+  max-width: 100%;
+  max-height: 100%;
 `;
 const TitleContainer = styled.h2`
   display: flex;
@@ -53,5 +58,6 @@ const TitleContainer = styled.h2`
   align-items: center;
   color: #95091b;
   line-height: 1.4;
-  margin: 0;
+  /* margin: 0; */
+  margin-top: 0;
 `;

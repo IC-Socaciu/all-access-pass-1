@@ -7,7 +7,28 @@ export const interviews = [
 
     title: "The Undertaker Interview",
 
-    text: "THE UNDERTAKER is a Japanese alternative rock band formed in 2021 in Hyakunincho/Shinjuku, consisting of veteran musicians; former members of world-fame bands such as Survive and Aggressive Dogs a.k.a. UZI-ONE. Their rich influences ranging from rock, blues, country, hardcore and punk are blended into a unique sound. The start of 2022 brought numerous local live performances and topped with the release of their first self-titled digital EP, “The Undertaker”, in July 2022. THE UNDERTAKER have also just inked a deal with Split Screen Management, and are aiming to release their full-length album in 2023. The band declared: “The Undertaker, aka Grave Diggers, is a heavy rock band that will bring out the darkness of this changing world and the pus of society. It is an organization formed for the purpose of burying this wild and FAKE society in a spectacular manner, provoking the world with sometimes serious, sometimes ridiculous actions. We are Rock ‘n’ Roll Beast. Listen to our first EP with all your heart!”The band comments on signing:“We are very happy to be part of the Split Screen Management family.  We look forward to seeing you all around the world and seeing what our band and Split Screen Management bring to the world.  Everyone who sees this, please support The Undertaker!",
+    text: `
+    
+    THE UNDERTAKER is a Japanese alternative rock band formed in 2021 in Hyakunincho/Shinjuku, consisting of veteran musicians; former members of world-fame bands such as Survive and Aggressive Dogs a.k.a. UZI-ONE.
+    
+    Their rich influences ranging from rock, blues, country, hardcore and punk are blended into a unique sound. The start of 2022 brought numerous local live performances and topped with the release of their first self-titled digital EP, “The Undertaker”, in July 2022. THE UNDERTAKER have also just inked a deal with Split Screen Management, and are aiming to release their full-length album in 2023.
+    
+    The band declared: “The Undertaker, aka Grave Diggers, is a heavy rock band that will bring out the darkness of this changing world and the pus of society. It is an organization formed for the purpose of burying this wild and FAKE society in a spectacular manner, provoking the world with sometimes serious, sometimes ridiculous actions. 
+    
+    We are Rock ‘n’ Roll Beast. Listen to our first EP with all your heart!”The band comments on signing:“We are very happy to be part of the Split Screen Management family.  We look forward to seeing you all around the world and seeing what our band and Split Screen Management bring to the world.  Everyone who sees this, please support The Undertaker! THE UNDERTAKER is a Japanese alternative rock band formed in 2021 in Hyakunincho/Shinjuku, consisting of veteran musicians; former members of world-fame bands such as Survive and Aggressive Dogs a.k.a. UZI-ONE.
+    
+    Their rich influences ranging from rock, blues, country, hardcore and punk are blended into a unique sound. The start of 2022 brought numerous local live performances and topped with the release of their first self-titled digital EP, “The Undertaker”, in July 2022. THE UNDERTAKER have also just inked a deal with Split Screen Management, and are aiming to release their full-length album in 2023.
+    
+    The band declared: “The Undertaker, aka Grave Diggers, is a heavy rock band that will bring out the darkness of this changing world and the pus of society. It is an organization formed for the purpose of burying this wild and FAKE society in a spectacular manner, provoking the world with sometimes serious, sometimes ridiculous actions. 
+    
+    We are Rock ‘n’ Roll Beast. Listen to our first EP with all your heart!”The band comments on signing:“We are very happy to be part of the Split Screen Management family.  We look forward to seeing you all around the world and seeing what our band and Split Screen Management bring to the world.  Everyone who sees this, please support The Undertaker!
+    THE UNDERTAKER is a Japanese alternative rock band formed in 2021 in Hyakunincho/Shinjuku, consisting of veteran musicians; former members of world-fame bands such as Survive and Aggressive Dogs a.k.a. UZI-ONE.
+    
+    Their rich influences ranging from rock, blues, country, hardcore and punk are blended into a unique sound. The start of 2022 brought numerous local live performances and topped with the release of their first self-titled digital EP, “The Undertaker”, in July 2022. THE UNDERTAKER have also just inked a deal with Split Screen Management, and are aiming to release their full-length album in 2023.
+    
+    The band declared: “The Undertaker, aka Grave Diggers, is a heavy rock band that will bring out the darkness of this changing world and the pus of society. It is an organization formed for the purpose of burying this wild and FAKE society in a spectacular manner, provoking the world with sometimes serious, sometimes ridiculous actions. 
+    
+    We are Rock ‘n’ Roll Beast. Listen to our first EP with all your heart!”The band comments on signing:“We are very happy to be part of the Split Screen Management family.  We look forward to seeing you all around the world and seeing what our band and Split Screen Management bring to the world.  Everyone who sees this, please support The Undertaker!`,
 
     summary:
       "THE UNDERTAKER is a Japanese alternative rock band formed in 2021 in Hyakunincho/Shinjuku. THE UNDERTAKER is a Japanese alternative rock band formed in 2021 in Hyakunincho/Shinjuku.",
@@ -30,6 +51,7 @@ export const interviews = [
 
     image:
       "https://all-access-pass.de/wp-content/uploads/2022/06/GODMORGONBAND-360x270.jpeg",
+
     likes: 28,
     liked: false,
   },
@@ -45,6 +67,59 @@ export const interviews = [
 
     image:
       "https://all-access-pass.de/wp-content/uploads/2022/02/MG_8495-1-e1644341807768-360x270.jpg",
+
+    likes: 46,
+    liked: false,
+  },
+  {
+    id: "4",
+
+    title: "The Undertaker Interview",
+
+    text: `Berlin based high-speed thrashers Reactory aligned their technicality, uncompromising variety and warp-like speed back in 2010. Having already released a Demo (2011), the “Killed by Thrash” EP (2013), full length albums “High on Radiation” (2014) and “Heavy” (2016), Reactory is currently working on their third full material.The four catalysts behind Reactory Thrash warhead are: Hänz Hazard (vox), Jerry Reactor (guitar),  Jonny Master (bass) and Caue Dos Santos (drums).As always, a huge *Thank You* to the band for their time, openness and availability!MAtW – Welcome Thrash masters, greetings from MAtW! It’s an honour to have you with us. What is the current mood in Reactory?Hello Cristina! Thanks for the interest in Reactory. 
+
+    Right now, to be honest, the mood is great. I mean, we are all tired as hell from a long ride back home to Berlin but very satisfied and proud after a week recording our new album nearby Köln. It was intense and we are really looking forward to bring it out. Personally I am still so pumped about it that I need some time to calm down. 
+    
+    Answering this interview is doing the job. MAtW – You guys are working on your 3rd full album – any spoilers?All we can say for now is that we put a lot of passion and energy into it during the whole process and some of the best songs we have written up until now are there. Of course we hope thrashers will dig it, but we follow our instinct and at the end of the day, it sounds like us.`,
+
+    summary:
+      "Berlin based high-speed thrashers Reactory aligned their technicality, uncompromising variety and warp-like speed back in 2010. Having already released a Demo (2011), the “Killed by Thrash” EP (2013), full length albums “High on Radiation” (2014) and “Heavy” (2016), Reactory is currently working on their third full material.",
+
+    image:
+      "https://all-access-pass.de/wp-content/uploads/2019/10/reactory-768x512.jpg",
+
+    likes: 60,
+    liked: false,
+  },
+  {
+    id: "5",
+
+    title: "HARDLAND – Band interview",
+
+    text: "Melodic Alternative Rock quintet HARDLAND blazing out of Utrecht, Netherlands, have just released a new single, ”Merry X-Mas Everybody”, a reinterpretation of Slade’s song, with a HARDLAND characteristic twist: turbulence and melodicity.Their most recent album, ”In Control”, was released on August 10ᵗʰ, 2019 via LO41 Records and it embodies 10 distinct tracks, cradling influences from Heavy Rock, AOR, bringing to life original, mature themes, with the 70’s and 80’s earmark.HARDLAND were open for a (too!) short conversation and a transcription is available below..",
+
+    summary:
+      "Melodic Alternative Rock quintet HARDLAND blazing out of Utrecht, Netherlands, have just released a new single, ”Merry X-Mas Everybody”, a reinterpretation of Slade’s song, with a HARDLAND characteristic twist: turbulence and melodicity.",
+
+    image:
+      "https://all-access-pass.de/wp-content/uploads/2020/12/band-768x511.jpg",
+
+    likes: 46,
+    liked: false,
+  },
+  {
+    id: "6",
+
+    title: "Christian Fischer – Infected Chaos",
+
+    text: "The austrian-german metalband INFECTED CHAOS rose from the ashes of former band Chaosreign in 2013 and directly started to write their own songs. After intense road-tests – among others supporting the legendary Possessed – the band entered the renowned Iguana Studio and could release its debut “The Wake of Ares” in 2015. Only two years later the successor “Killing Creator” was unleashed and led the band through the half of Europe. Well known festivals such as MetalDays, Winterdays of Metal and Aaargh!-Festival were haunted. In 2021 “Dead Aesthetics” was finally recorded and released by INFECTED CHAOS. At the moment the band is housing their own studio to create their next release.",
+
+    summary:
+      "Only two years later the successor “Killing Creator” was unleashed and led the band through the half of Europe. Well known festivals such as MetalDays, Winterdays of Metal and Aaargh!-Festival were haunted. In 2021 “Dead Aesthetics” was finally recorded and released by INFECTED CHAOS.",
+
+    image:
+      "https://all-access-pass.de/wp-content/uploads/2022/06/TRY1-684x456.jpg",
+
     likes: 46,
     liked: false,
   },
