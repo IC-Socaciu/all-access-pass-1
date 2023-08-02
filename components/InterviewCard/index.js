@@ -6,7 +6,7 @@ export default function InterviewCard({ id, title, summary, text, image }) {
   const router = useRouter();
 
   const handleReadMore = () => {
-    router.push(`/articles/${interiewId}`);
+    router.push(`/articles/${id}`);
   };
 
   return (
@@ -23,7 +23,7 @@ export default function InterviewCard({ id, title, summary, text, image }) {
           {/* <p className="text-container">{text}</p> */}
         </InterviewContainer>
       </article>
-      <ReadButton>Read more</ReadButton>
+      <ReadButton onClick={handleReadMore}>Read more</ReadButton>
     </>
   );
 }
@@ -38,7 +38,6 @@ const ImageContainer = styled.div`
   width: 250px;
   height: 250px;
   text-align: center;
-  padding-left: 20px;
 `;
 const Image = styled.img`
   max-width: 200px;
@@ -48,7 +47,6 @@ const Image = styled.img`
   margin: auto;
   display: block;
   text-align: center;
-  padding-left: 20px;
 `;
 const TitleContainer = styled.h2`
   display: flex;

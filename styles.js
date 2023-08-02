@@ -38,7 +38,6 @@ export default createGlobalStyle`
 
 .text-container {
   display: flex;
-  padding-left: 20px;
   display: inline-block;
    
 
