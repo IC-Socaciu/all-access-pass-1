@@ -6,7 +6,7 @@ export default function InterviewCard({ id, title, summary, text, image }) {
   const router = useRouter();
 
   const handleReadMore = () => {
-    router.push(`interviews/${id}`);
+    router.push(`/post/${id}`);
   };
 
   return (

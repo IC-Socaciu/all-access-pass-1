@@ -2,34 +2,33 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 import { styled } from "styled-components";
 import InterviewCard from "@/components/InterviewCard";
+import { interviews } from "@/public/interviews";
 
 export default function InterviewArticle() {
   const router = useRouter();
   const interviewId = router.query.interviewId;
-
+  const article = interviews.find((interview) => interview.id == interviewId);
+  console.log(interviewId);
   return (
     <>
       <article>
         <InterviewContainer>
-          <TitleContainer>{title}</TitleContainer>
+          <TitleContainer>{article?.title}</TitleContainer>
           <ImageContainer>
-            <Image src={image} alt={title} />
+            {/* <img src={image} alt={title} /> */}
+
+            <Image src={article?.image} alt={article?.title} />
           </ImageContainer>
-          <TextContainer>{text}</TextContainer>
+          <TextContainer>{article?.text}</TextContainer>
         </InterviewContainer>
       </article>
-      <button>
-        <Link href="/">⬅️ Home</Link>
-      </button>
     </>
   );
 }
 
 const TextContainer = styled.p`
-  display: flex;
-  display: inline-block;
+  justify-content: right;
 `;
-
 const ImageContainer = styled.div`
   max-width: 150px;
   max-height: 250px;
@@ -59,6 +58,14 @@ const TitleContainer = styled.h2`
   margin: 0;
 `;
 
+const SummaryContainer = styled.p`
+  display: inline;
+  width: 70%;
+  height: 250px;
+  padding-top: 30px;
+  text-align: right;
+  word-wrap: break-word;
+`;
 const InterviewContainer = styled.div`
   align-items: center;
   justify-content: right;
