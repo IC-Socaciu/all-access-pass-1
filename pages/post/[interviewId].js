@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
 import { styled } from "styled-components";
-import InterviewCard from "@/components/InterviewCard";
 import { interviews } from "@/public/interviews";
 
 export default function InterviewArticle() {
@@ -10,19 +9,13 @@ export default function InterviewArticle() {
   const article = interviews.find((interview) => interview.id == interviewId);
   console.log(interviewId);
   return (
-    <>
-      <article>
-        <InterviewContainer>
-          <TitleContainer>{article?.title}</TitleContainer>
-          <ImageContainer>
-            {/* <img src={image} alt={title} /> */}
-
-            <Image src={article?.image} alt={article?.title} />
-          </ImageContainer>
-          <TextContainer>{article?.text}</TextContainer>
-        </InterviewContainer>
-      </article>
-    </>
+    <article>
+      <TitleContainer>{article?.title}</TitleContainer>
+      <ImageContainer>
+        <Image src={article?.image} alt={article?.title} />
+      </ImageContainer>
+      <TextContainer>{article?.text}</TextContainer>
+    </article>
   );
 }
 
@@ -56,21 +49,4 @@ const TitleContainer = styled.h2`
   color: #95091b;
   line-height: 1.4;
   margin: 0;
-`;
-
-const SummaryContainer = styled.p`
-  display: inline;
-  width: 70%;
-  height: 250px;
-  padding-top: 30px;
-  text-align: right;
-  word-wrap: break-word;
-`;
-const InterviewContainer = styled.div`
-  align-items: center;
-  justify-content: right;
-  display: flex;
-  flex-direction: row;
-  max-width: 100%;
-  max-height: px;
 `;

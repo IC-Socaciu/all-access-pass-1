@@ -1,29 +1,19 @@
 import styled from "styled-components";
-import { useRouter } from "next/router";
 import Link from "next/link";
 
 export default function InterviewCard({ id, title, summary, text, image }) {
-  const router = useRouter();
-
-  const handleReadMore = () => {
-    router.push(`/post/${id}`);
-  };
-
   return (
     <>
       <article>
         <InterviewContainer>
           <TitleContainer>{title}</TitleContainer>
           <ImageContainer>
-            {/* <img src={image} alt={title} /> */}
-
             <Image src={image} alt={title} />
           </ImageContainer>
           <SummaryContainer>{summary}</SummaryContainer>
-          {/* <p className="text-container">{text}</p> */}
         </InterviewContainer>
       </article>
-      <ReadButton onClick={handleReadMore}>Read more</ReadButton>
+      <ReadLink href={`/post/${id}`}>Read more</ReadLink>
     </>
   );
 }
@@ -40,32 +30,37 @@ const ImageContainer = styled.div`
   text-align: center;
 `;
 const Image = styled.img`
-  max-width: 200px;
+  max-width: 250px;
   max-height: 250px;
+  background-color: #aaa;
   display: flex;
-  float: left;
+  /* float: left; */
   margin: auto;
   display: block;
   text-align: center;
 `;
 const TitleContainer = styled.h2`
   display: flex;
+  background-color: #bbb;
   flex-direction: column;
   align-items: center;
   color: #95091b;
   line-height: 1.4;
+  letter-spacing: 0.025em;
+
   margin: 0;
 `;
 
 const SummaryContainer = styled.p`
   display: inline;
-  width: 70%;
+  width: 50%;
+  background-color: gray;
   height: 250px;
   padding-top: 30px;
   text-align: right;
   word-wrap: break-word;
 `;
-const ReadButton = styled.button`
+const ReadLink = styled(Link)`
   width: 120px;
   height: 30px;
   font-weight: 600;
@@ -79,6 +74,7 @@ const ReadButton = styled.button`
 `;
 const InterviewContainer = styled.div`
   align-items: center;
+  background-color: lightgray;
   justify-content: right;
   display: flex;
   flex-direction: row;
