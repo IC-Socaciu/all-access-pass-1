@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="top_nav"></div>
       </div>
       <div class="bottom_nav">
-        <ul>
+        <LinkList>
           <NavLink>
             <Link href="/">Home</Link>
           </NavLink>
@@ -19,7 +19,7 @@ export default function Footer() {
           <NavLink>
             <Link href="/about">Discover</Link>
           </NavLink>
-        </ul>
+        </LinkList>
       </div>
     </StyledFooter>
   );
@@ -40,9 +40,14 @@ const NavLink = styled.li`
   color: white;
   font-size: 1em;
   font-weight: bolder;
-  /* display: inline-block; */
+  display: inline-block;
   display: flex;
-  /* justify-content: space-between; */
-  /* align-items: center; */
-  /* padding: 12px 10px; */
+  align-items: center;
+  padding: 12px 10px;
+  justify-content: space-evenly;
+`;
+const LinkList = styled.ul`
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
 `;

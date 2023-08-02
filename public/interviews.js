@@ -168,9 +168,86 @@ The band comments on signing:
 
     title: "Godmorgon Interview",
 
-    text: `Founded in 2019, GODMORGON, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany) was f and has developed into a death/sludge metal band combining harsh vocals, groovy riffs and raw, straightforward energy.
+    text: `Founded in 2019, **GODMORGON**, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany) that has developed into a death/sludge metal band combining harsh vocals, groovy riffs and raw, straightforward energy.
 
-    The bands sound has been shaped by the many different musical influences of the bands members: hardcore, punk, doom, extreme metal, grindcore and even black metal. Lyrical themes include feminism, anti-capitalism and warnings of an apocalyptic future if humanity continues to let this world go to shit.Current lineup: Itza (Vocals) Marvin (Gitarre) Jan (Bass/Vocals)Simon (Drums)`,
+The band's sound has been shaped by the many different musical influences of the band's members: hardcore, punk, doom, extreme metal, grindcore and even black metal. Lyrical themes include feminism, anti-capitalism and warnings of an apocalyptic future if humanity continues to let this world go to shit.
+
+Current **GODMORGON** lineup: 
+
+**Itza** (Vocals)
+
+**Marvin** (Gitarre)
+
+**Jan** (Bass/Vocals)
+
+**Simon*+ (Drums)
+
+As always, a huge *Thank You* to the band for their time, openness and availability!
+  
+
+**All Access Pass – Hello, GODMORGON and thank you for taking the time to talk to All Access Pass. It’s a pleasure to have you here!**
+
+  *Itza: Thank you for having us!*
+
+  
+**AAP – For newer fans, let’s meet everyone in GODMORGON!**
+
+  *I: The band consists of four people: Marvin on guitar, Jan on bass and backing vocals, Simon on the drums and me, Itza, as the lead vocalist.*
+
+  
+
+**AAP – Your latest material, the “Backlash” EP has been released at the beginning of 2022. A new single and video for the song “Cataclysm” has just been released in May. How does it feel to finally have your self-titled debut EP out, in the world?**
+
+*I: It was actually quite spontaneous. Our original plan was to record our first album sometime in 2022. But last winter we had an online gig where we had to submit 1-2 pre-recorded songs for a livestream, preferably with live shot videos. We didn’t have that until then and did the songs in one go. We were very happy with how the audio turned out and decided to put it up on Spotify and other streaming services together with our first recorded song from May 2021: “Backlash”. The videos are also on our GODMORGON YouTube channel.*
+
+  
+
+**AAP – You are already back in the saddle working on your first full album. How are things progressing?**
+
+*I: At the moment not as well as we’d like. We are currently quite busy with personal stuff and also preparing and looking forward to our next live show in August. It’s going to be at AZ Mülheim on 13th August! I’m actually organising the event.*
+
+  
+
+**AAP – What are some technical details regarding the album?**
+
+*I: As before we are recording and mixing everything ourselves again. Simon has become our “sound guy” and coordinates the recording and does the mixing, of course with feedback from the rest of the band. I think you can really hear the progress in terms of quality of the recordings if you compare e.g. “Backlash” and “Cataclysm”. There's a lot to learn when it comes to audio engineering. For the cover art we don't have a specific vision yet, but it is probably going to be in the style of the previous covers, so rather a photo than a drawing.*
+
+  
+
+**AAP – Your previous musical offerings were 100% DIY. There is a lot of work and effort but I can imagine rewarding as well. How are responsibilities shared within GODMORGON?**
+
+*I: As I just mentioned Simon takes care of the recordings. Jan did the Backlash video, in the future it would be cool to make a video together, featuring all band members. The guitar and bass parts of the songs are usually documented in GuitarPro which is done by Marvin. I take care of the management and communication side of things, including social media and write almost all of the lyrics. However, the lyrics for half of our pusblished songs, “Ritual Suicide” and “Backlash”, were written by Jan. So compared to other bands we really try to share the tasks and everyone has a special niche.*
+
+![Godmorgon](https://all-access-pass.de/wp-content/uploads/2022/06/DSC_5371_-684x456.jpg)
+
+**AAP – What do you find challenging in being an artist, both on a positive spin and a negative one?**
+
+*I: It takes time and time is what most of us are lacking. For the management and social media tasks I can always find time to squeeze it in between. But when you want to focus and be creative you usually need a bit more time and you cannot force it. This can be challenging. On the positive side it’s really cool to get feedback from people who listen to your music and be able to share that joy with others.*
+
+
+
+**AAP – Do you consider your voice as an instrument – tool?**
+
+*I: Definitely! Besides being able to express myself with my lyrics I think, especially with “extreme” vocals you can definitely create a certain atmosphere and get feelings across quite well.*
+
+
+
+**AAP – How much of your success do you think is achieved through social media?**
+
+*I: Unfortunately, I think it plays a big role unless you just happen to know lots of people in your local scene. When looking for bands for gigs people also look at your follower count to determine whether people would be interested in seeing your show. But first and foremost, we care about music and not generating content all the time. If there’s something worth sharing, we’ll share it though!*
+
+
+
+**AAP – Time for the last question, The Random Question: What is invisible but you wish people would see?**
+
+*I: How much of a positive impact just being friendly can have. It doesn’t cost a thing and we should all try to empower each other instead of trying to outdo one another.*
+
+
+
+**AAP – Thank you for taking the time to do this, it was really nice meeting you. In case there is anything else you would like to mention and send a message for your fans, please do so!**
+
+*I: Thank you so much for the interview, it was really fun! I just want to repeat that our next gig is on 13th August at AZ Mülheim. Also check out the other bands in the UNTIER Collective. And I want to encourage everyone who’s interested in making music to try it out!*
+  `,
 
     summary: `Founded in 2019, GODMORGON, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany). Founded in 2019, GODMORGON, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany).`,
 
