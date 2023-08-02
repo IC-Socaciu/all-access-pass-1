@@ -55,7 +55,6 @@ const ReadLink = styled(Link)`
 const InterviewContainer = styled.div`
   /* padding: 2rem 0; */
   padding: 3em;
-
   box-sizing: border-box;
   height: max-content;
   max-width: 100%;

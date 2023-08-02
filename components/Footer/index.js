@@ -38,13 +38,11 @@ const StyledFooter = styled.footer`
 `;
 const NavLink = styled.li`
   color: white;
-  font-size: 1.5em;
-  margin: 1em;
+  font-size: 1em;
   font-weight: bolder;
-  display: inline-block;
+  /* display: inline-block; */
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 12px 10px;
-  border-bottom: 1px solid #df9f23;
+  /* justify-content: space-between; */
+  /* align-items: center; */
+  /* padding: 12px 10px; */
 `;
