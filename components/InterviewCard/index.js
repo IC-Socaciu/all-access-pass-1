@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import Link from "next/link";
+import StyledFooter from "../Footer";
 
 export default function InterviewCard({ id, title, summary, text, image }) {
   return (
