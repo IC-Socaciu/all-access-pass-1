@@ -1,7 +1,6 @@
 import styled from "styled-components";
 import Link from "next/link";
-import StyledFooter from "../Footer";
-
+import Footer from "../Footer";
 export default function InterviewCard({ id, title, summary, text, image }) {
   return (
     <>
@@ -54,7 +53,9 @@ const ReadLink = styled(Link)`
   }
 `;
 const InterviewContainer = styled.div`
-  padding: 2rem 0;
+  /* padding: 2rem 0; */
+  padding: 3em;
+
   box-sizing: border-box;
   height: max-content;
   max-width: 100%;

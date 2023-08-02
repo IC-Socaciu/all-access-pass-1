@@ -27,8 +27,6 @@ export default function HomePage() {
           ))}
         </ul>
       </main>
-
-      <Footer />
     </>
   );
 }

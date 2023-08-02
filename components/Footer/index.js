@@ -10,15 +10,15 @@ export default function Footer() {
       </div>
       <div class="bottom_nav">
         <ul>
-          <li>
+          <NavLink>
             <Link href="/">Home</Link>
-          </li>
-          <li>
+          </NavLink>
+          <NavLink>
             <Link href="/interview">Events</Link>
-          </li>
-          <li>
+          </NavLink>
+          <NavLink>
             <Link href="/about">Discover</Link>
-          </li>
+          </NavLink>
         </ul>
       </div>
     </StyledFooter>
@@ -26,8 +26,25 @@ export default function Footer() {
 }
 const StyledFooter = styled.footer`
   background: darkgray;
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
   color: white;
   padding: 3em;
-  border-radius: 1em;
-  text-align: start;
+  position: relative;
+  text-align: justify;
+  left: 0;
+  bottom: 0;
+`;
+const NavLink = styled.li`
+  color: white;
+  font-size: 1.5em;
+  margin: 1em;
+  font-weight: bolder;
+  display: inline-block;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 10px;
+  border-bottom: 1px solid #df9f23;
 `;
