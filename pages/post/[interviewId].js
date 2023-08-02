@@ -2,19 +2,24 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 import { styled } from "styled-components";
 import { interviews } from "@/public/interviews";
+import Markdown from "markdown-to-jsx";
 
 export default function InterviewArticle() {
   const router = useRouter();
   const interviewId = router.query.interviewId;
   const article = interviews.find((interview) => interview.id == interviewId);
-  console.log(interviewId);
+  if (!article) {
+    return null;
+  }
   return (
     <article>
       <TitleContainer>{article?.title}</TitleContainer>
       <ImageContainer>
         <Image src={article?.image} alt={article?.title} />
       </ImageContainer>
-      <TextContainer>{article?.text}</TextContainer>
+      <TextContainer>
+        <Markdown>{article?.text}</Markdown>
+      </TextContainer>
     </article>
   );
 }
