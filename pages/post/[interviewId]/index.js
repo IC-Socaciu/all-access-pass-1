@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
 import { styled } from "styled-components";
+import InterviewCard from "@/components/InterviewCard";
 
 export default function InterviewArticle() {
   const router = useRouter();
@@ -8,33 +9,61 @@ export default function InterviewArticle() {
 
   return (
     <>
-      <h1>Details about interview {interviewId}</h1>
-      <p>
-        THE UNDERTAKER is a Japanese alternative rock band formed in 2021 in
-        Hyakunincho/Shinjuku, consisting of veteran musicians; former members of
-        world-fame bands such as Survive and Aggressive Dogs a.k.a. UZI-ONE.
-        Their rich influences ranging from rock, blues, country, hardcore and
-        punk are blended into a unique sound. The start of 2022 brought numerous
-        local live performances and topped with the release of their first
-        self-titled digital EP, “The Undertaker”, in July 2022. THE UNDERTAKER
-        have also just inked a deal with Split Screen Management, and are aiming
-        to release their full-length album in 2023. The band declared: “The
-        Undertaker, aka Grave Diggers, is a heavy rock band that will bring out
-        the darkness of this changing world and the pus of society. It is an
-        organization formed for the purpose of burying this wild and FAKE
-        society in a spectacular manner, provoking the world with sometimes
-        serious, sometimes ridiculous actions. We are Rock ‘n’ Roll Beast.
-        Listen to our first EP with all your heart!” The band comments on
-        signing: “We are very happy to be part of the Split Screen Management
-        family. We look forward to seeing you all around the world and seeing
-        what our band and Split Screen Management bring to the world. Everyone
-        who sees this, please support The Undertaker!” THE UNDERTAKER online:
-        FACEBOOK YOUTUBE TUNECORE THE UNDERTAKER line-up: Nemo – Guitar & Vocal
-        4410 – Guitar Gun-Chang – Session bassist Hon-D – Drums AAP –
-      </p>
+      <article>
+        <InterviewContainer>
+          <TitleContainer>{title}</TitleContainer>
+          <ImageContainer>
+            <Image src={image} alt={title} />
+          </ImageContainer>
+          <TextContainer>{text}</TextContainer>
+        </InterviewContainer>
+      </article>
       <button>
         <Link href="/">⬅️ Home</Link>
       </button>
     </>
   );
 }
+
+const TextContainer = styled.p`
+  display: flex;
+  display: inline-block;
+`;
+
+const ImageContainer = styled.div`
+  max-width: 150px;
+  max-height: 250px;
+  display: flex;
+  float: left;
+  margin: auto;
+  display: block;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+`;
+const Image = styled.img`
+  max-width: 200px;
+  max-height: 250px;
+  display: flex;
+  float: left;
+  margin: auto;
+  display: block;
+  text-align: center;
+`;
+const TitleContainer = styled.h2`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #95091b;
+  line-height: 1.4;
+  margin: 0;
+`;
+
+const InterviewContainer = styled.div`
+  align-items: center;
+  justify-content: right;
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+  max-height: px;
+`;

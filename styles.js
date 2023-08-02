@@ -36,12 +36,7 @@ export default createGlobalStyle`
 
 
 
-.text-container {
-  display: flex;
-  display: inline-block;
-   
 
-}
 
 
 `;

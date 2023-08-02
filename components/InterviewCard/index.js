@@ -6,7 +6,7 @@ export default function InterviewCard({ id, title, summary, text, image }) {
   const router = useRouter();
 
   const handleReadMore = () => {
-    router.push(`/articles/${id}`);
+    router.push(`interviews/${id}`);
   };
 
   return (
@@ -53,6 +53,8 @@ const TitleContainer = styled.h2`
   flex-direction: column;
   align-items: center;
   color: #95091b;
+  line-height: 1.4;
+  margin: 0;
 `;
 
 const SummaryContainer = styled.p`
