@@ -19,54 +19,50 @@ export default function InterviewCard({ id, title, summary, text, image }) {
 }
 
 const ImageContainer = styled.div`
-  max-width: 150px;
+  display: flex;
+  margin-right: 20px;
+  float: left;
+`;
+const Image = styled.img`
+  max-width: 250px;
   max-height: 250px;
   display: flex;
   float: left;
   margin: auto;
   display: block;
-  width: 250px;
-  height: 250px;
   text-align: center;
-`;
-const Image = styled.img`
-  max-width: 250px;
-  max-height: 250px;
-  background-color: #aaa;
   display: flex;
-  /* float: left; */
-  margin: auto;
-  display: block;
-  text-align: center;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style-type: none;
 `;
 const TitleContainer = styled.h2`
-  display: flex;
-  background-color: #bbb;
-  flex-direction: column;
-  align-items: center;
+  /* display: flex;
+  flex-direction: column; */
+  padding: 5px;
+  text-align: center;
   color: #95091b;
   line-height: 1.4;
   letter-spacing: 0.025em;
-
-  margin: 0;
+  margin: 0 auto;
 `;
 
 const SummaryContainer = styled.p`
-  display: inline;
-  width: 50%;
-  background-color: gray;
+  flex: 1;
   height: 250px;
-  padding-top: 30px;
-  text-align: right;
+  text-align: center;
   word-wrap: break-word;
+  margin-left: 20px;
 `;
 const ReadLink = styled(Link)`
-  width: 120px;
-  height: 30px;
-  font-weight: 600;
+  width: 110px;
+  height: 25px;
   box-shadow: 2px 2px grey;
   color: #95091b;
   border: solid 2px #95091b;
+  position: relative;
+  right: 80px;
+  top: 100px;
   &:hover {
     background-color: #099584;
     color: white;
@@ -74,10 +70,5 @@ const ReadLink = styled(Link)`
 `;
 const InterviewContainer = styled.div`
   align-items: center;
-  background-color: lightgray;
   justify-content: right;
-  display: flex;
-  flex-direction: row;
-  max-width: 100%;
-  max-height: px;
 `;

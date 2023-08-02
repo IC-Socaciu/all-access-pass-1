@@ -21,6 +21,11 @@ export default function InterviewArticle() {
 
 const TextContainer = styled.p`
   justify-content: right;
+  display: flex;
+  padding-left: 20px;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
 `;
 const ImageContainer = styled.div`
   max-width: 150px;
