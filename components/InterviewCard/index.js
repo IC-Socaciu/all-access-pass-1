@@ -20,15 +20,12 @@ export default function InterviewCard({ id, title, summary, text, image }) {
 
 const ImageContainer = styled.div`
   margin-right: 20px;
-  float: left;
   width: 25%;
-  padding-left: 20px;
 `;
 const Image = styled.img`
   max-width: 250px;
   max-height: 250px;
   /* display: flex; */
-  /* float: left; */
   /* margin: auto; */
   /* display: block; */
   /* display: flex; */
@@ -52,7 +49,6 @@ const TitleContainer = styled.h2`
 
 const SummaryContainer = styled.div`
   /* flex: 1; */
-  height: 250px;
   text-align: left;
   word-break: normal;
 
@@ -83,7 +79,7 @@ const InterviewContainer = styled.div`
   padding: 2rem 0;
   box-sizing: border-box;
   height: max-content;
-  /* width: 100%; */
+  max-width: 100%;
   /* height: 280px; */
   /* border-radius: 10px; */
 `;
