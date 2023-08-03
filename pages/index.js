@@ -6,23 +6,21 @@ import { interviews } from "@/public/interviews";
 
 export default function HomePage() {
   return (
-    <>
-      <main>
-        <Heading>all access pass</Heading>
-        <ul>
-          {interviews.map((interview) => (
-            <li className="interview-card" key={interview.id}>
-              <InterviewCard
-                id={interview.id}
-                title={interview.title}
-                summary={interview.summary}
-                text={interview.text}
-                image={interview.image}
-              />
-            </li>
-          ))}
-        </ul>
-      </main>
-    </>
+    <main>
+      <Heading>all access pass</Heading>
+      <ul>
+        {interviews.map((interview) => (
+          <li className="interview-card" key={interview.id}>
+            <InterviewCard
+              id={interview.id}
+              title={interview.title}
+              summary={interview.summary}
+              text={interview.text}
+              image={interview.image}
+            />
+          </li>
+        ))}
+      </ul>
+    </main>
   );
 }

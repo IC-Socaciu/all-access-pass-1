@@ -68,5 +68,4 @@ const SeparatorLine = styled.div`
   margin-top: 2rem;
   width: 100%;
   height: 1px;
-  background-color: #ccc;
 `;
