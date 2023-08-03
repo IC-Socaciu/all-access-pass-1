@@ -5,9 +5,6 @@ import { useRouter } from "next/router";
 import { interviews } from "@/public/interviews";
 
 export default function HomePage() {
-  const router = useRouter();
-  // router.push("/interview");
-
   return (
     <main>
       <Heading>all access pass</Heading>

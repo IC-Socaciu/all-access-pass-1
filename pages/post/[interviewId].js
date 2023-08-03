@@ -28,10 +28,15 @@ const TextContainer = styled.div`
   padding-left: 20px;
   margin-top: 0;
   word-break: normal;
+  margin-bottom: 120px;
+  margin-left: 20px;
 `;
 const ImageContainer = styled.div`
   max-width: 150px;
   max-height: 250px;
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
 
   float: left;
 `;
