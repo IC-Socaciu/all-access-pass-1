@@ -3,10 +3,12 @@ import InterviewCard from "@/components/InterviewCard";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import { interviews } from "@/public/interviews";
+import SearchInput from "@/components/Search/SearchInput";
 
 export default function HomePage() {
   return (
     <main>
+      <SearchInput />
       <Heading>all access pass</Heading>
       <ul>
         {interviews.map((interview) => (

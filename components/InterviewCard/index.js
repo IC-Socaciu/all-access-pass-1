@@ -1,18 +1,17 @@
 import styled from "styled-components";
 import Link from "next/link";
+
 export default function InterviewCard({ id, title, summary, text, image }) {
   return (
-    <>
-      <CardContainer>
-        <TitleContainer>{title}</TitleContainer>
-        <ImageContainer>
-          <Image src={image} alt={title} />
-        </ImageContainer>
-        <SummaryContainer>{summary}</SummaryContainer>
-        <ReadLink href={`/post/${id}`}>Read more</ReadLink>
-        <SeparatorLine />
-      </CardContainer>
-    </>
+    <CardContainer>
+      <TitleContainer>{title}</TitleContainer>
+      <ImageContainer>
+        <Image src={image} alt={title} />
+      </ImageContainer>
+      <SummaryContainer>{summary}</SummaryContainer>
+      <ReadLink href={`/post/${id}`}>Read more</ReadLink>
+      <SeparatorLine />
+    </CardContainer>
   );
 }
 
