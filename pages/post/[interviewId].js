@@ -28,6 +28,7 @@ const TextContainer = styled.div`
   padding-left: 20px;
   margin-top: 0;
   word-break: normal;
+  margin-bottom: 120px;
 `;
 const ImageContainer = styled.div`
   max-width: 150px;

@@ -28,6 +28,7 @@ const StyledFooter = styled.footer`
   background: darkgray;
   color: white;
   padding: 1.5em;
+
   position: fixed;
   width: 100%;
   bottom: 0;
@@ -37,6 +38,7 @@ const StyledFooter = styled.footer`
   flex-direction: row;
   list-style-type: none;
   height: 100px;
+  margin-top: -100px;
 `;
 
 const NavLink = styled.li`
