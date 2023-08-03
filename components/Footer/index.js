@@ -26,16 +26,19 @@ export default function Footer() {
 }
 const StyledFooter = styled.footer`
   background: darkgray;
+  color: white;
+  padding: 1.5em;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  z-index: 9999;
+  text-align: justify;
   display: flex;
   flex-direction: row;
   list-style-type: none;
-  color: white;
-  padding: 3em;
-  position: relative;
-  text-align: justify;
-  left: 0;
-  bottom: 0;
+  height: 100px;
 `;
+
 const NavLink = styled.li`
   color: white;
   font-size: 1em;
@@ -43,11 +46,22 @@ const NavLink = styled.li`
   display: inline-block;
   display: flex;
   align-items: center;
-  padding: 12px 10px;
+  padding: 0 10px;
   justify-content: space-evenly;
 `;
+
 const LinkList = styled.ul`
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+`;
+
+const Separator = styled.div`
+  color: white;
+  font-size: 1em;
+  font-weight: bolder;
+  display: inline-block;
+  padding: 0 10px;
 `;
