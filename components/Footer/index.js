@@ -13,12 +13,12 @@ export default function Footer() {
           <NavLink>
             <Link href="/">Home</Link>
           </NavLink>
-          <NavLink>
-            <Link href="/interview">Events</Link>
-          </NavLink>
-          <NavLink>
-            <Link href="/about">Discover</Link>
-          </NavLink>
+          <>
+            <li>Events</li>
+          </>
+          <>
+            <li>Discover</li>
+          </>
         </LinkList>
       </div>
     </StyledFooter>
