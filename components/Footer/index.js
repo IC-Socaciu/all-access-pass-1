@@ -13,12 +13,12 @@ export default function Footer() {
           <NavLink>
             <Link href="/">Home</Link>
           </NavLink>
-          <>
+          <LinkList>
             <li>Events</li>
-          </>
-          <>
+          </LinkList>
+          <LinkList>
             <li>Discover</li>
-          </>
+          </LinkList>
         </LinkList>
       </div>
     </StyledFooter>
@@ -50,6 +50,7 @@ const NavLink = styled.li`
   align-items: center;
   padding: 0 10px;
   justify-content: space-evenly;
+  list-style-type: none;
 `;
 
 const LinkList = styled.ul`
