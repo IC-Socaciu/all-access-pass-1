@@ -3,12 +3,8 @@ import InterviewCard from "@/components/InterviewCard";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import { interviews } from "@/public/interviews";
-import Footer from "@/components/Footer";
 
 export default function HomePage() {
-  const router = useRouter();
-  // router.push("/interview");
-
   return (
     <>
       <main>

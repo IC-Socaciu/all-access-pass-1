@@ -5,10 +5,10 @@ import styled from "styled-components";
 export default function Footer() {
   return (
     <StyledFooter>
-      <div class="wrapper">
-        <div className="top_nav"></div>
+      <div>
+        <div></div>
       </div>
-      <div class="bottom_nav">
+      <div>
         <LinkList>
           <NavLink>
             <Link href="/">Home</Link>
