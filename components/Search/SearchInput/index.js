@@ -19,9 +19,9 @@ export default function SearchInput({ searchTerm, onSearch }) {
             setSearchFieldValue(event.target.value);
           }}
         />
-        <button>
+        <StyledSearchButton>
           <span>🔍</span> Search
-        </button>
+        </StyledSearchButton>
       </form>
       <h3>
         {searchTerm
@@ -33,5 +33,18 @@ export default function SearchInput({ searchTerm, onSearch }) {
 }
 
 const StyledSearchBar = styled.input`
-  width: 150px;
+  width: 220px;
+  height: 30px;
+  border: solid 2px #95091b;
+  margin-top: 5px;
+`;
+const StyledSearchButton = styled.button`
+  background-color: #95091b;
+  color: white;
+  height: 30px;
+
+  &:hover {
+    background-color: #099584;
+    color: white;
+  }
 `;
