@@ -4,40 +4,52 @@ import Footer from "../Footer";
 export default function InterviewCard({ id, title, summary, text, image }) {
   return (
     <>
-      <article>
-        <InterviewContainer>
-          <TitleContainer>{title}</TitleContainer>
-          <ImageContainer>
-            <Image src={image} alt={title} />
-          </ImageContainer>
-          <SummaryContainer>{summary}</SummaryContainer>
-        </InterviewContainer>
-      </article>
-      <ReadLink href={`/post/${id}`}>Read more</ReadLink>
+      <CardContainer>
+        <TitleContainer>{title}</TitleContainer>
+        <ImageContainer>
+          <Image src={image} alt={title} />
+        </ImageContainer>
+        <SummaryContainer>{summary}</SummaryContainer>
+        <ReadLink href={`/post/${id}`}>Read more</ReadLink>
+        <SeparatorLine />
+      </CardContainer>
     </>
   );
 }
 
-const ImageContainer = styled.div`
-  margin-right: 20px;
-  width: 25%;
+const CardContainer = styled.article`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 0;
 `;
+
+const ImageContainer = styled.div`
+  margin: 1rem 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+`;
+
 const Image = styled.img`
-  max-width: 250px;
+  max-width: 100%;
   max-height: 250px;
 `;
+
 const TitleContainer = styled.h2`
   text-align: center;
   color: #95091b;
   line-height: 1.4;
   letter-spacing: 0.025em;
-  margin: 0 auto;
+  margin: 0 auto 1rem;
 `;
 
 const SummaryContainer = styled.div`
-  text-align: left;
+  text-align: justify;
   word-break: normal;
+  max-width: 80%;
 `;
+
 const ReadLink = styled(Link)`
   width: 110px;
   height: 25px;
@@ -45,17 +57,17 @@ const ReadLink = styled(Link)`
   color: #95091b;
   border: solid 2px #95091b;
   position: relative;
-  right: 80px;
-  top: 100px;
+  top: 1rem;
+  text-align: center;
   &:hover {
     background-color: #099584;
     color: white;
   }
 `;
-const InterviewContainer = styled.div`
-  /* padding: 2rem 0; */
-  padding: 3em;
-  box-sizing: border-box;
-  height: max-content;
-  max-width: 100%;
+
+const SeparatorLine = styled.div`
+  margin-top: 2rem;
+  width: 100%;
+  height: 1px;
+  background-color: #ccc;
 `;
