@@ -1,6 +1,3 @@
-// import interviews from "../dummydata/index.js";
-// import InterviewCard from "@/components/InterviewCard.js";
-
 export const interviews = [
   {
     id: "1",

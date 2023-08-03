@@ -1,14 +1,23 @@
 import Heading from "@/Header";
 import InterviewCard from "@/components/InterviewCard";
 import Link from "next/link";
-import { useRouter } from "next/router";
 import { interviews } from "@/public/interviews";
 import SearchInput from "@/components/Search/SearchInput";
+import SearchForm from "@/components/Search/SearchInput/SearchForm";
+import SearchResults from "@/public/interviews";
+import { useState } from "react";
 
 export default function HomePage() {
+  const [searchTerm, setSearchTerm] = useState("");
+
+  function handleSearch(term) {
+    setSearchTerm(term);
+  }
   return (
     <main>
       <SearchInput />
+      {/* <SearchForm searchTerm={searchTerm} onSearch={handleSearch} /> */}
+      {/* <SearchResults searchTerm={searchTerm} /> */}
       <Heading>all access pass</Heading>
       <ul>
         {interviews.map((interview) => (

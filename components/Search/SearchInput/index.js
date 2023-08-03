@@ -2,7 +2,7 @@ import { useState } from "react";
 import { styled } from "styled-components";
 
 export default function SearchInput({ searchTerm, onSearch }) {
-  const [searchFieldValue, setSearchFieldValue] = useState("");
+  const [searchFieldValue, setSearchFieldValue] = useState(" ");
 
   function handleSubmit(event) {
     event.preventDefault();
