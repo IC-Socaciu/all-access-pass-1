@@ -4,9 +4,13 @@
 export const interviews = [
   {
     id: "1",
-
+    page: "1",
+    tags: [
+      "undertaker",
+      "japanese alternative rock",
+      "Split Screen Management",
+    ],
     title: "The Undertaker Interview",
-
     text: `**THE UNDERTAKER** is a Japanese alternative rock band formed in 2021 in *Hyakunincho/Shinjuku*, consisting of veteran musicians; former members of world-fame bands such as **Survive** and **Aggressive Dogs** a.k.a. **UZI-ONE**.
 
 Their rich influences ranging from rock, blues, country, hardcore and punk are blended into a unique sound.
@@ -165,7 +169,7 @@ The band comments on signing:
   },
   {
     id: "2",
-
+    page: "1",
     title: "Godmorgon Interview",
 
     text: `Founded in 2019, **GODMORGON**, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany) that has developed into a death/sludge metal band combining harsh vocals, groovy riffs and raw, straightforward energy.
@@ -259,7 +263,7 @@ As always, a huge *Thank You* to the band for their time, openness and availabil
   },
   {
     id: "3",
-
+    page: "1",
     title: "Toomas Vanem Interview",
 
     text: `Estonian studio and session guitar virtuoso and composer TOOMAS VANEM, started his music career in the 1980s.Over the years Toomas has played in multiple rock bands and projects and has remarkable career also as session musician.
@@ -281,7 +285,7 @@ As always, a huge *Thank You* to the band for their time, openness and availabil
   },
   {
     id: "4",
-
+    page: "2",
     title: "The Undertaker Interview",
 
     text: `Berlin based high-speed thrashers Reactory aligned their technicality, uncompromising variety and warp-like speed back in 2010. Having already released a Demo (2011), the “Killed by Thrash” EP (2013), full length albums “High on Radiation” (2014) and “Heavy” (2016), Reactory is currently working on their third full material.
@@ -303,7 +307,7 @@ As always, a huge *Thank You* to the band for their time, openness and availabil
   },
   {
     id: "5",
-
+    page: "2",
     title: "HARDLAND – Band interview",
 
     text: `Melodic Alternative Rock quintet HARDLAND blazing out of Utrecht, Netherlands, have just released a new single, ”Merry X-Mas Everybody”, a reinterpretation of Slade's song, with a HARDLAND characteristic twist: turbulence and melodicity.
@@ -321,7 +325,7 @@ As always, a huge *Thank You* to the band for their time, openness and availabil
   },
   {
     id: "6",
-
+    page: "2",
     title: "Christian Fischer – Infected Chaos",
 
     text: `The austrian-german metalband INFECTED CHAOS rose from the ashes of former band Chaosreign in 2013 and directly started to write their own songs. 

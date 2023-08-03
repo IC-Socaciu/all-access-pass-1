@@ -17,7 +17,7 @@ export default function Footer() {
             <li>Events</li>
           </LinkList>
           <LinkList>
-            <li>Discover</li>
+            <li>Add Event</li>
           </LinkList>
         </LinkList>
       </div>
@@ -28,7 +28,6 @@ const StyledFooter = styled.footer`
   background: darkgray;
   color: white;
   padding: 1.5em;
-
   position: fixed;
   width: 100%;
   bottom: 0;
@@ -47,10 +46,10 @@ const NavLink = styled.li`
   font-weight: bolder;
   display: inline-block;
   display: flex;
+  flex-direction: row;
   align-items: center;
-  padding: 0 10px;
-  justify-content: space-evenly;
   list-style-type: none;
+  padding: 0px 5px;
 `;
 
 const LinkList = styled.ul`
