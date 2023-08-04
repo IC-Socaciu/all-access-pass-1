@@ -9,7 +9,7 @@ export default function InterviewCard({ id, title, summary, text, image }) {
         <Image src={image} alt={title} />
       </ImageContainer>
       <SummaryContainer>{summary}</SummaryContainer>
-      <ReadLink href={`/post/${id}`}>Read more</ReadLink>
+      <ReadMore href={`/post/${id}`}>Read more</ReadMore>
       <SeparatorLine />
     </CardContainer>
   );
@@ -48,7 +48,7 @@ const SummaryContainer = styled.div`
   max-width: 80%;
 `;
 
-const ReadLink = styled(Link)`
+const ReadMore = styled(Link)`
   width: 110px;
   height: 25px;
   box-shadow: 2px 2px grey;
