@@ -2,7 +2,9 @@ import { interviews } from "@/public/interviews";
 
 export default function SearchResults({ searchTerm }) {
   const results = interviews.filter((interview) =>
-    interview.tags.some((tag) => tag.includes(searchTerm))
+    interview.tags.some((tag) =>
+      tag.toLowerCase().includes(searchTerm.toLowerCase())
+    )
   );
 
   if (!searchTerm || !results.length) {

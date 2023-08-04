@@ -360,7 +360,7 @@ export default function SearchResults({ searchTerm }) {
   );
 
   if (!searchTerm || !results.length) {
-    return <p>No results</p>;
+    return <>No results</>;
   }
 
   return (

@@ -21,11 +21,11 @@ export default function SearchInput({ searchTerm, onSearch }) {
           <span>🔍</span> Search
         </StyledSearchButton>
       </form>
-      <h3>
+      <>
         {searchTerm
           ? `You searched for "${searchTerm}"`
           : "Please search for a keyword"}
-      </h3>
+      </>
     </>
   );
 }
