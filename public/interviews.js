@@ -346,7 +346,9 @@ As always, a huge *Thank You* to the band for their time, openness and availabil
 
 export default function SearchResults({ searchTerm }) {
   const results = interviews.filter((interview) =>
-    Object.values(interview).some((value) => value.includes(searchTerm))
+    Object.values(interview).some((value) =>
+      value.toString().includes(searchTerm)
+    )
   );
 
   if (!searchTerm || !results.length) {

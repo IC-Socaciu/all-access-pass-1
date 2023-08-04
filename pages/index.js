@@ -13,7 +13,8 @@ export default function HomePage() {
   }
   return (
     <main>
-      <SearchInput />
+      <SearchInput searchTerm={searchTerm} onSearch={handleSearch} />
+      {/* <SearchInput /> */}
       <SearchResults searchTerm={searchTerm} />
       <Heading>all access pass</Heading>
       <ul>
