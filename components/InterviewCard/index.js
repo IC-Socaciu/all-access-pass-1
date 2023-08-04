@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function InterviewCard({ id, title, summary, text, image }) {
   return (
     <CardContainer>
-      <TitleContainer>{title}</TitleContainer>
+      <Title>{title}</Title>
       <ImageContainer>
         <Image src={image} alt={title} />
       </ImageContainer>
@@ -34,7 +34,7 @@ const Image = styled.img`
   max-height: 250px;
 `;
 
-const TitleContainer = styled.h2`
+const Title = styled.h2`
   text-align: center;
   color: #95091b;
   line-height: 1.4;
