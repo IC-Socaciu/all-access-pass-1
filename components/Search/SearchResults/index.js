@@ -1,4 +1,5 @@
 import { interviews } from "@/public/interviews";
+import { styled } from "styled-components";
 
 export default function SearchResults({ searchTerm }) {
   const results = interviews.filter((interview) =>
@@ -16,7 +17,7 @@ export default function SearchResults({ searchTerm }) {
       {results.map((interview) => (
         <li key={interview.id}>
           <h3>{interview.title}</h3>
-          <p>{interview.text}</p>
+          <PreviewText>{interview.text}</PreviewText>
           <ul>
             {interview.tags.map((tag) => (
               <li key={tag}>{tag}</li>
@@ -27,3 +28,9 @@ export default function SearchResults({ searchTerm }) {
     </ul>
   );
 }
+
+const PreviewText = styled.p`
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+`;
