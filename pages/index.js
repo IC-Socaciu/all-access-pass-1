@@ -14,9 +14,7 @@ export default function HomePage() {
   return (
     <main>
       <SearchInput searchTerm={searchTerm} onSearch={handleSearch} />
-
-      {searchTerm && <SearchResults searchTerm={searchTerm} />}
-
+      {searchTerm && <SearchResults searchTerm={searchTerm} />}{" "}
       <Heading>all access pass</Heading>
       <ul>
         {interviews.map((interview) => (
