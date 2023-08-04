@@ -40,7 +40,6 @@ const StyledSearchButton = styled.button`
   background-color: #95091b;
   color: white;
   height: 30px;
-
   &:hover {
     background-color: #099584;
     color: white;

@@ -52,7 +52,8 @@ const ReadMore = styled(Link)`
   width: 110px;
   height: 25px;
   box-shadow: 2px 2px grey;
-  color: #95091b;
+  background-color: #95091b;
+  color: white;
   border: solid 2px #95091b;
   position: relative;
   top: 1rem;

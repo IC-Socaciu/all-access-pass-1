@@ -13,11 +13,14 @@ export default function SearchResults({ searchTerm }) {
   }
 
   return (
-    <ul>
+    <StyledResult>
       {results.map((interview) => (
         <li key={interview.id}>
           <h3>{interview.title}</h3>
-          <PreviewText>{interview.text}</PreviewText>
+          <h3>
+            <a href={interview.link}>{interview.title}</a>
+          </h3>
+          <PreviewText>{interview.summary}</PreviewText>
           <ul>
             {interview.tags.map((tag) => (
               <li key={tag}>{tag}</li>
@@ -25,7 +28,7 @@ export default function SearchResults({ searchTerm }) {
           </ul>
         </li>
       ))}
-    </ul>
+    </StyledResult>
   );
 }
 
@@ -33,4 +36,10 @@ const PreviewText = styled.p`
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
+  /* overflow-wrap: break-word; */
+`;
+const StyledResult = styled.ul`
+  max-width: 80%;
+  max-height: 250px;
+  border: 1px solid black;
 `;
