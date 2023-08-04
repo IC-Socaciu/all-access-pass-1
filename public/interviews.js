@@ -346,9 +346,7 @@ As always, a huge *Thank You* to the band for their time, openness and availabil
 
 export default function SearchResults({ searchTerm }) {
   const results = interviews.filter((interview) =>
-    Object.values(interview).some((value) =>
-      value.toString().includes(searchTerm)
-    )
+    interview.tags.some((tag) => tag.includes(searchTerm))
   );
 
   if (!searchTerm || !results.length) {
@@ -357,8 +355,16 @@ export default function SearchResults({ searchTerm }) {
 
   return (
     <ul>
-      {results.map((result) => (
-        <li key={result}>{result}</li>
+      {results.map((interview) => (
+        <li key={interview.id}>
+          <h3>{interview.title}</h3>
+          <p>{interview.text}</p>
+          <ul>
+            {interview.tags.map((tag) => (
+              <li key={tag}>{tag}</li>
+            ))}
+          </ul>
+        </li>
       ))}
     </ul>
   );

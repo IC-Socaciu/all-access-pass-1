@@ -2,7 +2,7 @@ import { useState } from "react";
 import { styled } from "styled-components";
 
 export default function SearchInput({ searchTerm, onSearch }) {
-  const [searchFieldValue, setSearchFieldValue] = useState(" ");
+  const [searchFieldValue, setSearchFieldValue] = useState("");
 
   function handleSubmit(event) {
     event.preventDefault();
@@ -15,11 +15,9 @@ export default function SearchInput({ searchTerm, onSearch }) {
       <form onSubmit={handleSubmit}>
         <StyledSearchBar
           value={searchFieldValue}
-          onChange={(event) => {
-            setSearchFieldValue(event.target.value);
-          }}
+          onChange={(event) => setSearchFieldValue(event.target.value)}
         />
-        <StyledSearchButton>
+        <StyledSearchButton type="submit">
           <span>🔍</span> Search
         </StyledSearchButton>
       </form>
