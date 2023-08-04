@@ -1,9 +1,7 @@
 import Heading from "@/Header";
 import InterviewCard from "@/components/InterviewCard";
-import Link from "next/link";
 import { interviews } from "@/public/interviews";
 import SearchInput from "@/components/Search/SearchInput";
-import SearchForm from "@/components/Search/SearchInput/SearchForm";
 import SearchResults from "@/public/interviews";
 import { useState } from "react";
 
@@ -16,8 +14,7 @@ export default function HomePage() {
   return (
     <main>
       <SearchInput />
-      {/* <SearchForm searchTerm={searchTerm} onSearch={handleSearch} /> */}
-      {/* <SearchResults searchTerm={searchTerm} /> */}
+      <SearchResults searchTerm={searchTerm} />
       <Heading>all access pass</Heading>
       <ul>
         {interviews.map((interview) => (

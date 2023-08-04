@@ -341,3 +341,23 @@ As always, a huge *Thank You* to the band for their time, openness and availabil
     liked: false,
   },
 ];
+
+// SEARCH FUNCTION TEST
+
+export default function SearchResults({ searchTerm }) {
+  const results = interviews.filter((interview) =>
+    Object.values(interview).some((value) => value.includes(searchTerm))
+  );
+
+  if (!searchTerm || !results.length) {
+    return <p>No results</p>;
+  }
+
+  return (
+    <ul>
+      {results.map((result) => (
+        <li key={result}>{result}</li>
+      ))}
+    </ul>
+  );
+}
