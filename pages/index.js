@@ -15,20 +15,23 @@ export default function HomePage() {
     <main>
       <SearchInput searchTerm={searchTerm} onSearch={handleSearch} />
       <Heading>all access pass</Heading>
-      <SearchResults searchTerm={searchTerm}></SearchResults>
-      <ul>
-        {interviews.map((interview) => (
-          <li className="interview-card" key={interview.id}>
-            <InterviewCard
-              id={interview.id}
-              title={interview.title}
-              summary={interview.summary}
-              text={interview.text}
-              image={interview.image}
-            />
-          </li>
-        ))}
-      </ul>
+      {searchTerm ? (
+        <SearchResults searchTerm={searchTerm} />
+      ) : (
+        <ul>
+          {interviews.map((interview) => (
+            <li className="interview-card" key={interview.id}>
+              <InterviewCard
+                id={interview.id}
+                title={interview.title}
+                summary={interview.summary}
+                text={interview.text}
+                image={interview.image}
+              />
+            </li>
+          ))}
+        </ul>
+      )}
     </main>
   );
 }
