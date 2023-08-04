@@ -1,5 +1,6 @@
 import { interviews } from "@/public/interviews";
 import { styled } from "styled-components";
+import Link from "react-router-dom";
 
 export default function SearchResults({ searchTerm }) {
   const results = interviews.filter((interview) =>
@@ -17,9 +18,6 @@ export default function SearchResults({ searchTerm }) {
       {results.map((interview) => (
         <li key={interview.id}>
           <h3>{interview.title}</h3>
-          <h3>
-            <a href={interview.link}>{interview.title}</a>
-          </h3>
           <PreviewText>{interview.summary}</PreviewText>
           <ul>
             {interview.tags.map((tag) => (
