@@ -2,7 +2,7 @@ import Heading from "@/Header";
 import InterviewCard from "@/components/InterviewCard";
 import { interviews } from "@/public/interviews";
 import SearchInput from "@/components/Search/SearchInput";
-import SearchResults from "@/public/interviews";
+import SearchResults from "@/components/Search/SearchInput";
 import { useState } from "react";
 
 export default function HomePage() {
@@ -14,8 +14,9 @@ export default function HomePage() {
   return (
     <main>
       <SearchInput searchTerm={searchTerm} onSearch={handleSearch} />
-      {/* <SearchInput /> */}
-      {searchTerm && <SearchResults searchTerm={searchTerm} />}{" "}
+
+      {searchTerm && <SearchResults searchTerm={searchTerm} />}
+
       <Heading>all access pass</Heading>
       <ul>
         {interviews.map((interview) => (
