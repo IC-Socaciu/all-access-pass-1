@@ -3,6 +3,8 @@ import React from "react";
 import styled from "styled-components";
 
 export default function Footer() {
+  const refresh = () => window.location.reload(true);
+
   return (
     <StyledFooter>
       <div>
@@ -11,7 +13,9 @@ export default function Footer() {
       <div>
         <LinkList>
           <NavLink>
-            <Link href="/">Home</Link>
+            <Link onClick={refresh} href="/">
+              Home
+            </Link>
           </NavLink>
           <LinkList>
             <li>Events</li>
