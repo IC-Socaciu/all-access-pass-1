@@ -2,11 +2,15 @@ import { useRouter } from "next/router";
 import React from "react";
 import styled from "styled-components";
 
-export default function Footer() {
+export default function Footer({ currentPath }) {
   const router = useRouter();
 
-  const handleHomeClick = () => {
-    router.push("/");
+  const handleButtonClick = () => {
+    if (currentPath == "/") {
+      window.location.reload();
+    } else {
+      router.push("/");
+    }
   };
 
   return (
@@ -17,7 +21,10 @@ export default function Footer() {
       <div>
         <LinkList>
           <NavLink>
-            <button onClick={handleHomeClick}>Home</button>
+            <button onClick={handleButtonClick}>
+              {" "}
+              {currentPath == "/" ? "All Interviews" : "Home"}
+            </button>
           </NavLink>
           <LinkList>
             <li>Events</li>

@@ -4,6 +4,7 @@ import { interviews } from "@/public/interviews";
 import SearchInput from "@/components/Search/SearchInput";
 import SearchResults from "@/components/Search/SearchResults";
 import { useState } from "react";
+import Footer from "@/components/Footer";
 
 export default function HomePage() {
   const [searchTerm, setSearchTerm] = useState("");
@@ -12,25 +13,28 @@ export default function HomePage() {
     setSearchTerm(term);
   }
   return (
-    <main>
-      <SearchInput searchTerm={searchTerm} onSearch={handleSearch} />
-      {searchTerm ? (
-        <SearchResults searchTerm={searchTerm} />
-      ) : (
-        <ul>
-          {interviews.map((interview) => (
-            <li className="interview-card" key={interview.id}>
-              <InterviewCard
-                id={interview.id}
-                title={interview.title}
-                summary={interview.summary}
-                text={interview.text}
-                image={interview.image}
-              />
-            </li>
-          ))}
-        </ul>
-      )}
-    </main>
+    <>
+      <main>
+        <SearchInput searchTerm={searchTerm} onSearch={handleSearch} />
+        {searchTerm ? (
+          <SearchResults searchTerm={searchTerm} />
+        ) : (
+          <ul>
+            {interviews.map((interview) => (
+              <li className="interview-card" key={interview.id}>
+                <InterviewCard
+                  id={interview.id}
+                  title={interview.title}
+                  summary={interview.summary}
+                  text={interview.text}
+                  image={interview.image}
+                />
+              </li>
+            ))}
+          </ul>
+        )}
+      </main>
+      <Footer currentPath="/" />
+    </>
   );
 }

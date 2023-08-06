@@ -1,6 +1,7 @@
 import { interviews } from "@/public/interviews";
 import { useRouter } from "next/router";
 import { styled } from "styled-components";
+import Footer from "@/components/Footer";
 
 export default function SearchResults({ searchTerm }) {
   const router = useRouter();
@@ -15,7 +16,7 @@ export default function SearchResults({ searchTerm }) {
   }
 
   return (
-    <StyledResult>
+    <StyledResult as="ul">
       {results.map((interview) => (
         <li key={interview.id}>
           <StyledTitle>{interview.title}</StyledTitle>
@@ -28,6 +29,7 @@ export default function SearchResults({ searchTerm }) {
           </StyledTags>
         </li>
       ))}
+      <Footer currentPath={router.asPath} />
     </StyledResult>
   );
 }
