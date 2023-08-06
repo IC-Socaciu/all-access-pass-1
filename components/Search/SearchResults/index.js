@@ -19,11 +19,12 @@ export default function SearchResults({ searchTerm }) {
         <li key={interview.id}>
           <h3>{interview.title}</h3>
           <PreviewText>{interview.summary}</PreviewText>
-          <ul>
+          <StyledTags>
+            <h3>Tags:</h3>
             {interview.tags.map((tag) => (
               <li key={tag}>{tag}</li>
             ))}
-          </ul>
+          </StyledTags>
         </li>
       ))}
     </StyledResult>
@@ -34,10 +35,12 @@ const PreviewText = styled.p`
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
-  /* overflow-wrap: break-word; */
 `;
 const StyledResult = styled.ul`
   max-width: 80%;
   max-height: 250px;
   border: 1px solid black;
+`;
+const StyledTags = styled.ul`
+  padding-bottom: 5ex;
 `;
