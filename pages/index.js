@@ -14,7 +14,6 @@ export default function HomePage() {
   return (
     <main>
       <SearchInput searchTerm={searchTerm} onSearch={handleSearch} />
-      <Heading>all access pass</Heading>
       {searchTerm ? (
         <SearchResults searchTerm={searchTerm} />
       ) : (

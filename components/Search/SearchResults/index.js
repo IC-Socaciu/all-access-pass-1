@@ -41,7 +41,8 @@ const StyledResult = styled.ul`
   max-height: 300px;
   margin-left: 10px;
   margin-right: 10px;
-  border: 2px solid #95091b;
+  border: solid 3px #95091b;
+  border-radius: 1.2rem;
 `;
 const StyledTags = styled.ul`
   padding-bottom: 20px;

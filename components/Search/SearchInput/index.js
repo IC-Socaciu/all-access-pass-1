@@ -21,11 +21,11 @@ export default function SearchInput({ searchTerm, onSearch }) {
           <span>🔍</span> Search
         </StyledSearchButton>
       </form>
-      <>
+      <StyledSearchResp>
         {searchTerm
           ? `You searched for "${searchTerm}"`
           : "Please search for a keyword"}
-      </>
+      </StyledSearchResp>
     </>
   );
 }
@@ -34,7 +34,8 @@ const StyledSearchBar = styled.input`
   width: 220px;
   height: 30px;
   border: solid 2px #95091b;
-  margin-top: 5px;
+  margin-top: 15px;
+  margin-left: 15px;
 `;
 const StyledSearchButton = styled.button`
   background-color: #95091b;
@@ -44,4 +45,8 @@ const StyledSearchButton = styled.button`
     background-color: #099584;
     color: white;
   }
+`;
+const StyledSearchResp = styled.div`
+  margin-left: 15px;
+  margin-top: 10px;
 `;
