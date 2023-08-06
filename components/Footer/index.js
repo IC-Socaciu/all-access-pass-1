@@ -1,9 +1,13 @@
-import Link from "next/link";
+import { useRouter } from "next/router";
 import React from "react";
 import styled from "styled-components";
 
 export default function Footer() {
-  const refresh = () => window.location.reload(true);
+  const router = useRouter();
+
+  const handleHomeClick = () => {
+    router.push("/");
+  };
 
   return (
     <StyledFooter>
@@ -13,9 +17,7 @@ export default function Footer() {
       <div>
         <LinkList>
           <NavLink>
-            <Link onClick={refresh} href="/">
-              Home
-            </Link>
+            <button onClick={handleHomeClick}>Home</button>
           </NavLink>
           <LinkList>
             <li>Events</li>
@@ -28,6 +30,7 @@ export default function Footer() {
     </StyledFooter>
   );
 }
+
 const StyledFooter = styled.footer`
   background: darkgray;
   color: white;
