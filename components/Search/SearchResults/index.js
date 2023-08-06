@@ -17,7 +17,7 @@ export default function SearchResults({ searchTerm }) {
     <StyledResult>
       {results.map((interview) => (
         <li key={interview.id}>
-          <h3>{interview.title}</h3>
+          <StyledTitle>{interview.title}</StyledTitle>
           <PreviewText>{interview.summary}</PreviewText>
           <StyledTags>
             <h3>Tags:</h3>
@@ -42,5 +42,8 @@ const StyledResult = styled.ul`
   border: 1px solid black;
 `;
 const StyledTags = styled.ul`
-  padding-bottom: 5ex;
+  padding-bottom: 20px;
+`;
+const StyledTitle = styled.h3`
+  list-style-type: none;
 `;
