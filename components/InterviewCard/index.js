@@ -20,6 +20,7 @@ const CardContainer = styled.article`
   flex-direction: column;
   align-items: center;
   padding: 2rem 0;
+  margin-bottom: 50px;
 `;
 
 const ImageContainer = styled.div`

@@ -1,8 +1,9 @@
 import { interviews } from "@/public/interviews";
+import { useRouter } from "next/router";
 import { styled } from "styled-components";
-import Link from "react-router-dom";
 
 export default function SearchResults({ searchTerm }) {
+  const router = useRouter();
   const results = interviews.filter((interview) =>
     interview.tags.some((tag) =>
       tag.toLowerCase().includes(searchTerm.toLowerCase())
