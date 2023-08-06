@@ -37,13 +37,16 @@ const PreviewText = styled.p`
   overflow: hidden;
 `;
 const StyledResult = styled.ul`
-  max-width: 80%;
-  max-height: 250px;
-  border: 1px solid black;
+  max-width: 100%;
+  max-height: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 2px solid #95091b;
 `;
 const StyledTags = styled.ul`
   padding-bottom: 20px;
 `;
 const StyledTitle = styled.h3`
   list-style-type: none;
+  color: #95091b;
 `;
