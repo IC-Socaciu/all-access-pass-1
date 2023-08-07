@@ -58,6 +58,7 @@ export default function Events() {
 const StyledSection = styled.section`
   width: 100%;
   height: 100vh;
+  margin-bottom: 50px;
 `;
 const StyledEvents = styled.div`
   position: relative;
