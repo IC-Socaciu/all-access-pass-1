@@ -1,14 +1,13 @@
 import styled from "styled-components";
 import { useState, useEffect } from "react";
 import useSWR from "swr";
+function formadDate(timestamp) {
+  const date = new Date(timestamp);
+  return date.toLocaleDateString();
+}
 
 export default function Events() {
   const { data: events, error, mutate } = useSWR("/api/events");
-
-  const handleAddEvent = (event) => {
-    setEvents([...events, newEvent]);
-    form.reset();
-  };
 
   if (!events) {
     return "loading...";
@@ -20,10 +19,7 @@ export default function Events() {
         <StyledEventList>
           {events.map((event, index) => (
             <li key={index}>
-              <StyledTime>
-                <h2>{event.date.split(" ")[0]}</h2>
-                <p>{event.date.split(" ")[1]}</p>
-              </StyledTime>
+              <StyledTime>{formadDate(event.date)}</StyledTime>
               <StyledDetails>
                 <h3>Band: {event.band}</h3>
                 <p>Venue: {event.venue}</p>
@@ -35,7 +31,6 @@ export default function Events() {
           ))}
         </StyledEventList>
       </StyledEvents>
-      {/* <AddEvent onAddEvent={handleAddEvent} /> */}
     </StyledSection>
   );
 }

@@ -7,7 +7,7 @@ const eventSchema = new Schema({
     type: Date,
     required: true,
   },
-  band: {
+  bandName: {
     type: String,
     required: true,
   },
@@ -17,15 +17,15 @@ const eventSchema = new Schema({
   },
   venueAddress: {
     type: String,
-    required: true,
+    // required: true,
   },
   time: {
     type: String,
-    required: true,
+    // required: true,
   },
-  ticketLink: {
+  ticketsLink: {
     type: String,
-    required: true,
+    // required: true,
   },
 });
 

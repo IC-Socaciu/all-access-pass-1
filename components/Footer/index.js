@@ -4,37 +4,19 @@ import styled from "styled-components";
 import Link from "next/link";
 
 export default function Footer({ currentPath }) {
-  const router = useRouter();
-
-  const handleButtonClick = () => {
-    if (currentPath == "/") {
-      window.location.reload();
-    } else {
-      router.push("/");
-    }
-  };
-
   return (
     <StyledFooter>
-      <div>
-        <div></div>
-      </div>
-      <div>
+      <LinkList>
         <NavLink>
-          <NavLink>
-            <button onClick={handleButtonClick}>
-              {" "}
-              {currentPath == "/" ? "" : "Home"}
-            </button>
-          </NavLink>
-          <NavLink>
-            <Link href="/events">Events</Link>
-          </NavLink>
-          <NavLink>
-            <Link href="/addevent">Add Event</Link>
-          </NavLink>
+          <Link href="/">Home</Link>
         </NavLink>
-      </div>
+        <NavLink>
+          <Link href="/events">Events</Link>
+        </NavLink>
+        <NavLink>
+          <Link href="/addevent">Add Event</Link>
+        </NavLink>
+      </LinkList>
     </StyledFooter>
   );
 }

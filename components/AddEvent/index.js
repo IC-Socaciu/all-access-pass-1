@@ -1,22 +1,33 @@
 import React from "react";
 import styled from "styled-components";
+import { useSWRConfig } from "swr";
+import { useRouter } from "next/router";
 
-export default function AddEvent(props) {
-  const handleSubmit = (event) => {
+export default function AddEvent() {
+  const { mutate } = useSWRConfig();
+  const router = useRouter();
+  const handleSubmit = async (event) => {
     event.preventDefault();
 
-    const newEvent = {
-      date: "",
-      band: event.target.elements["bandName"].value,
-      venue: event.target.elements["venue"].value,
-      address: "",
-      time: "",
-      ticketLink: event.target.elements["ticketsLink"].value,
-    };
+    const data = Object.fromEntries([...new FormData(event.target)]);
 
-    props.onAddEvent(newEvent);
-
-    event.target.reset();
+    try {
+      const response = await fetch("/api/events", {
+        method: "POST",
+        body: JSON.stringify(data),
+        headers: {
+          "Content-Type": "application/json",
+        },
+      });
+      if (!response.ok) {
+        console.log("Error creating event");
+        return;
+      }
+      mutate("/api/events");
+      router.push("/events");
+    } catch (error) {
+      console.log("Error creating event", error);
+    }
   };
 
   return (
@@ -26,16 +37,20 @@ export default function AddEvent(props) {
 
         <div>
           <label htmlFor="bandName">Band Name</label>
+          <input
+            id="bandName"
+            name="bandName"
+            placeholder="Add band"
+            type="text"
+            required
+          />
+        </div>
+        <div>
+          <label htmlFor="date">Date</label>
           <div>
-            <input
-              id="bandName"
-              name="bandName"
-              placeholder="Add band"
-              type="text"
-            />
+            <input id="date" name="date" type="date" />
           </div>
         </div>
-
         <div>
           <label htmlFor="musicStyle">Music Style</label>
           <div>
@@ -55,7 +70,7 @@ export default function AddEvent(props) {
               id="contactEmail"
               name="contactEmail"
               placeholder="E-Mail Address"
-              type="text"
+              type="email"
             />
           </div>
         </div>
@@ -73,9 +88,9 @@ export default function AddEvent(props) {
         </div>
 
         <div>
-          <label htmlFor="venue">Venue</label>
+          <label htmlFor="venueName">Venue</label>
           <div>
-            <select id="venue" name="venue">
+            <select id="venueName" name="venueName">
               <option value="">Select local venue</option>
               <option value="Musikkneipe Session">Musikkneipe Session</option>
               <option value="Hermann J. Abs Chamber Music Hall">
