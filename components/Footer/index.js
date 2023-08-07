@@ -1,6 +1,7 @@
 import { useRouter } from "next/router";
 import React from "react";
 import styled from "styled-components";
+import Link from "next/link";
 
 export default function Footer({ currentPath }) {
   const router = useRouter();
@@ -27,7 +28,7 @@ export default function Footer({ currentPath }) {
             </button>
           </NavLink>
           <LinkList>
-            <li>Events</li>
+            <Link href="/events">Events</Link>
           </LinkList>
           <LinkList>
             <li>Add Event</li>
