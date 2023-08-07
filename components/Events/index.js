@@ -1,64 +1,48 @@
 import styled from "styled-components";
+import { useState, useEffect } from "react";
+import useSWR from "swr";
 
 export default function Events() {
+  const { data: events, error, mutate } = useSWR("/api/events");
+
+  const handleAddEvent = (event) => {
+    setEvents([...events, newEvent]);
+    form.reset();
+  };
+
+  if (!events) {
+    return "loading...";
+  }
+
   return (
     <StyledSection>
       <StyledEvents>
         <StyledEventList>
-          <li>
-            <StyledTime>
-              <h2>12</h2>
-              <p>October</p>
-            </StyledTime>
-            <StyledDetails>
-              <h3>Band: Stables</h3>
-              <p>Venue: The Fiddlers</p>
-              <p>Address: Frongasse 9, 53121 Bonn</p>
-              <p>Time: 20:00</p>
-              <a href="https://www.songkick.com/de/concerts/41025203-stables-at-fiddlers">
-                Buy tickets
-              </a>
-            </StyledDetails>
-          </li>
-          <li>
-            <StyledTime>
-              <h2>12</h2>
-              <p>September</p>
-            </StyledTime>
-            <StyledDetails>
-              <h3>Band: REMBRANDT TRIO - Netherland Jazz Classical</h3>
-              <p>Venue: Harmonie Bonn</p>
-              <p>Address: Frongasse 28-30, 53121 Bonn</p>
-              <p>Time: 19:00</p>
-              <a href="https://www.beethovenfest.de/de/programm-tickets/rembrandt-trio/163">
-                Buy tickets
-              </a>
-            </StyledDetails>
-          </li>
-          <li>
-            <StyledTime>
-              <h2>12</h2>
-              <p>August</p>
-            </StyledTime>
-            <StyledDetails>
-              <h3>Band: IAN PAICE (DEEP PURPLE) - feat. Purpendicular</h3>
-              <p>Venue: Harmonie Bonn</p>
-              <p>Address:Frongasse 28-30, 53121 Bonn</p>
-              <p>Time: 20:00</p>
-              <a href="https://shop.derticketservice.de/harmonie-bonn-tickets/details/?evid=2697725&referer_info=&tId=&forwardingTicket=">
-                Buy tickets
-              </a>
-            </StyledDetails>
-          </li>
+          {events.map((event, index) => (
+            <li key={index}>
+              <StyledTime>
+                <h2>{event.date.split(" ")[0]}</h2>
+                <p>{event.date.split(" ")[1]}</p>
+              </StyledTime>
+              <StyledDetails>
+                <h3>Band: {event.band}</h3>
+                <p>Venue: {event.venue}</p>
+                <p>Address: {event.address}</p>
+                <p>Time: {event.time}</p>
+                <a href={event.ticketLink}>Buy tickets</a>
+              </StyledDetails>
+            </li>
+          ))}
         </StyledEventList>
       </StyledEvents>
+      {/* <AddEvent onAddEvent={handleAddEvent} /> */}
     </StyledSection>
   );
 }
 const StyledSection = styled.section`
   width: 100%;
   height: 100vh;
-  margin-bottom: 50px;
+  margin-bottom: 120px;
 `;
 const StyledEvents = styled.div`
   position: relative;

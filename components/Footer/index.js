@@ -24,7 +24,7 @@ export default function Footer({ currentPath }) {
           <NavLink>
             <button onClick={handleButtonClick}>
               {" "}
-              {currentPath == "/" ? "All Interviews" : "Home"}
+              {currentPath == "/" ? "" : "Home"}
             </button>
           </NavLink>
           <NavLink>

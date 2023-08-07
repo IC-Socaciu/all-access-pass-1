@@ -1,151 +1,167 @@
+import React from "react";
 import styled from "styled-components";
 
-export default function AddEvent() {
+export default function AddEvent(props) {
+  const handleSubmit = (event) => {
+    event.preventDefault();
+
+    const newEvent = {
+      date: "",
+      band: event.target.elements["bandName"].value,
+      venue: event.target.elements["venue"].value,
+      address: "",
+      time: "",
+      ticketLink: event.target.elements["ticketsLink"].value,
+    };
+
+    props.onAddEvent(newEvent);
+
+    event.target.reset();
+  };
+
   return (
-    <div>
-      <StyledForm>
-        <fieldset>
-          {/* Form Name */}
-          <legend>Add Your Event!</legend>
+    <StyledForm onSubmit={handleSubmit}>
+      <fieldset>
+        <legend>Add Your Event!</legend>
 
-          {/* Text input - Band Name */}
+        <div>
+          <label htmlFor="bandName">Band Name</label>
           <div>
-            <label>Band Name</label>
+            <input
+              id="bandName"
+              name="bandName"
+              placeholder="Add band"
+              type="text"
+            />
+          </div>
+        </div>
+
+        <div>
+          <label htmlFor="musicStyle">Music Style</label>
+          <div>
+            <input
+              id="musicStyle"
+              name="musicStyle"
+              placeholder="Add style"
+              type="text"
+            />
+          </div>
+        </div>
+
+        <div>
+          <label htmlFor="contactEmail">Contact E-mail</label>
+          <div>
+            <input
+              id="contactEmail"
+              name="contactEmail"
+              placeholder="E-Mail Address"
+              type="text"
+            />
+          </div>
+        </div>
+
+        <div>
+          <label htmlFor="contactPhone">Contact phone</label>
+          <div>
+            <input
+              id="contactPhone"
+              name="contactPhone"
+              placeholder="(123)456-7890"
+              type="text"
+            />
+          </div>
+        </div>
+
+        <div>
+          <label htmlFor="venue">Venue</label>
+          <div>
+            <select id="venue" name="venue">
+              <option value="">Select local venue</option>
+              <option value="Musikkneipe Session">Musikkneipe Session</option>
+              <option value="Hermann J. Abs Chamber Music Hall">
+                Hermann J. Abs Chamber Music Hall
+              </option>
+              <option value="Rock und Pop Zentrum Bonn">
+                Rock und Pop Zentrum Bonn
+              </option>
+              <option value="Harmonie Bonn">Harmonie Bonn</option>
+              <option value="BonnLive GmbH">BonnLive GmbH</option>
+              <option value="Jazz-Galerie">Jazz-Galerie</option>
+              <option value="Limes">Limes</option>
+              <option value="BLA">BLA</option>
+              <option value="The Fiddlers Pub">The Fiddlers Pub</option>
+            </select>
+          </div>
+        </div>
+
+        <div>
+          <label htmlFor="ticketsProvider">Ticket provider</label>
+          <div>
+            <select id="ticketsProvider" name="ticketsProvider">
+              <option value="">Select ticket provider</option>
+              <option value="Eventim">Eventim</option>
+              <option value="Ticketmaster">Ticketmaster</option>
+              <option value="Eventbrite">Eventbrite</option>
+              <option value="Songtick">Songtick</option>
+              <option value="Available at venue">Available at venue</option>
+            </select>
+          </div>
+        </div>
+
+        <div>
+          <label htmlFor="ticketsLink">External tickets link</label>
+          <div>
+            <input
+              id="ticketsLink"
+              name="ticketsLink"
+              placeholder="Add link"
+              type="text"
+            />
+          </div>
+        </div>
+
+        <div>
+          <label htmlFor="linkToMusic">Link to your music</label>
+          <div>
+            <input id="linkToMusic1" name="linkToMusic1" type="text" />
+          </div>
+          <div>
+            <input id="linkToMusic2" name="linkToMusic2" type="text" />
+          </div>
+          <div>
+            <input id="linkToMusic3" name="linkToMusic3" type="text" />
+          </div>
+        </div>
+
+        <div>
+          <label>Do you have a rider?</label>
+          <div>
             <div>
-              <div>
-                <input placeholder="add band" type="text" />
-              </div>
+              <label>
+                <input id="riderYes" name="rider" type="radio" value="yes" />{" "}
+                Yes
+              </label>
+            </div>
+            <div>
+              <label>
+                <input id="riderNo" name="rider" type="radio" value="no" /> No
+              </label>
             </div>
           </div>
+        </div>
 
-          {/* Text input - Music Style */}
+        <div>
+          <label htmlFor="membersInfo">Full members name and instruments</label>
           <div>
-            <label>Music Style</label>
-            <div>
-              <div>
-                <input placeholder="add style" type="text" />
-              </div>
-            </div>
+            <textarea id="membersInfo" name="membersInfo" />
           </div>
+        </div>
 
-          {/* Text input - Contact E-mail */}
-          <div>
-            <label>Contact E-mail</label>
-            <div>
-              <div>
-                <input placeholder="E-Mail Address" type="text" />
-              </div>
-            </div>
-          </div>
-
-          {/* Text input - Contact phone */}
-          <div>
-            <label>Contact phone</label>
-            <div>
-              <div>
-                <input placeholder="(123)456-7890" type="text" />
-              </div>
-            </div>
-          </div>
-
-          {/* Select Basic - Venue */}
-          <div>
-            <label>Venue</label>
-            <div>
-              <div>
-                <select>
-                  <option value=" ">select local venue</option>
-                  <option>Musikkneipe Session</option>
-                  <option>Hermann J. Abs Chamber Music Hall</option>
-                  <option>Rock und Pop Zentrum Bonn</option>
-                  <option>Harmonie Bonn</option>
-                  <option>BonnLive GmbH</option>
-                  <option>Jazz-Galerie</option>
-                  <option>Limes</option>
-                  <option>BLA</option>
-                  <option>The Fiddlers Pub</option>
-                </select>
-              </div>
-            </div>
-          </div>
-
-          {/* Select Basic - Ticket provider */}
-          <div>
-            <label>Ticket provider</label>
-            <div>
-              <div>
-                <select>
-                  <option value=" ">select ticket provider</option>
-                  <option>Eventim</option>
-                  <option>Ticketmaster</option>
-                  <option>Eventbrite</option>
-                  <option>Songtick</option>
-                  <option>Available at venue</option>
-                </select>
-              </div>
-            </div>
-          </div>
-
-          {/* Text input - External tickets link */}
-          <div>
-            <label>External tickets link</label>
-            <div>
-              <div>
-                <input placeholder="add link" type="text" />
-              </div>
-            </div>
-          </div>
-
-          {/* Text input - Link to your music */}
-          <div>
-            <label>Link to your music</label>
-            <div>
-              <div>
-                <input type="text" />
-              </div>
-              <div>
-                <input type="text" />
-              </div>
-              <div>
-                <input type="text" />
-              </div>
-            </div>
-          </div>
-
-          {/* radio checks - Do you have a rider? */}
-          <div>
-            <label>Do you have a rider?</label>
-            <div>
-              <div>
-                <label>
-                  <input type="radio" value="yes" /> Yes
-                </label>
-              </div>
-              <div>
-                <label>
-                  <input type="radio" value="no" /> No
-                </label>
-              </div>
-            </div>
-          </div>
-
-          {/* Text area - Full members name and instruments */}
-          <div>
-            <label>Full members name and instruments</label>
-            <div>
-              <div>
-                <textarea></textarea>
-              </div>
-            </div>
-          </div>
-
-          {/* Button */}
-          <div>
-            <button>Submit Event</button>
-          </div>
-        </fieldset>
-      </StyledForm>
-    </div>
+        <div>
+          <button type="submit">Submit Event</button>
+        </div>
+      </fieldset>
+    </StyledForm>
   );
 }
 
@@ -155,4 +171,35 @@ const StyledForm = styled.form`
   margin-bottom: 30px;
   justify-content: center;
   display: flex;
+  flex-direction: column;
+
+  label {
+    margin-top: 15px;
+    margin-bottom: 5px;
+  }
+
+  input[type="text"],
+  select {
+    margin-bottom: 10px;
+  }
+
+  textarea {
+    height: 100px;
+  }
+
+  button {
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 50px;
+
+    transition: background-color 0.3s;
+    &:hover {
+      background-color: #3e8e41;
+    }
+  }
 `;
