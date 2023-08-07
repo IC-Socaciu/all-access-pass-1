@@ -4,17 +4,17 @@ export default function Events() {
   return (
     <StyledSection>
       <StyledEvents>
-        <ul>
+        <StyledEventList>
           <li>
             <StyledTime>
               <h2>12</h2>
               <p>October</p>
             </StyledTime>
             <StyledDetails>
-              <h3>Stables</h3>
-              <p>The Fiddlers</p>
-              <p>Frongasse 9, 53121 Bonn</p>
-              <p>20:00</p>
+              <h3>Band: Stables</h3>
+              <p>Venue: The Fiddlers</p>
+              <p>Address: Frongasse 9, 53121 Bonn</p>
+              <p>Time: 20:00</p>
               <a href="https://www.songkick.com/de/concerts/41025203-stables-at-fiddlers">
                 Buy tickets
               </a>
@@ -26,10 +26,10 @@ export default function Events() {
               <p>September</p>
             </StyledTime>
             <StyledDetails>
-              <h3>REMBRANDT TRIO - Netherland Jazz Classical</h3>
-              <p>Harmonie Bonn</p>
-              <p>Frongasse 28-30, 53121 Bonn</p>
-              <p>19:00</p>
+              <h3>Band: REMBRANDT TRIO - Netherland Jazz Classical</h3>
+              <p>Venue: Harmonie Bonn</p>
+              <p>Address: Frongasse 28-30, 53121 Bonn</p>
+              <p>Time: 19:00</p>
               <a href="https://www.beethovenfest.de/de/programm-tickets/rembrandt-trio/163">
                 Buy tickets
               </a>
@@ -41,16 +41,16 @@ export default function Events() {
               <p>August</p>
             </StyledTime>
             <StyledDetails>
-              <h3>IAN PAICE (DEEP PURPLE) - feat. Purpendicular</h3>
-              <p>Harmonie Bonn</p>
-              <p>Frongasse 28-30, 53121 Bonn</p>
-              <p>20:00</p>
+              <h3>Band: IAN PAICE (DEEP PURPLE) - feat. Purpendicular</h3>
+              <p>Venue: Harmonie Bonn</p>
+              <p>Address:Frongasse 28-30, 53121 Bonn</p>
+              <p>Time: 20:00</p>
               <a href="https://shop.derticketservice.de/harmonie-bonn-tickets/details/?evid=2697725&referer_info=&tId=&forwardingTicket=">
                 Buy tickets
               </a>
             </StyledDetails>
           </li>
-        </ul>
+        </StyledEventList>
       </StyledEvents>
     </StyledSection>
   );
@@ -67,7 +67,7 @@ const StyledEvents = styled.div`
   background: rgba(0, 0, 0, 0.5);
   box-sizing: border-box;
 `;
-const StyledTime = styled.div`
+const StyledTime = styled.p`
   position: relative;
   padding: 20px;
   background: #95091b;
@@ -76,7 +76,11 @@ const StyledTime = styled.div`
   height: 100%;
   float: left;
   text-align: center;
-  transition: 0.5s;
+
+  &:hover {
+    background-color: #099584;
+    color: white;
+  }
 `;
 
 const StyledDetails = styled.p`
@@ -86,4 +90,7 @@ const StyledDetails = styled.p`
   width: 70%;
   height: 100%;
   float: left;
+`;
+const StyledEventList = styled.ul`
+  list-style-type: none;
 `;
