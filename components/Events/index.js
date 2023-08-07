@@ -21,11 +21,11 @@ export default function Events() {
             <li key={index}>
               <StyledTime>{formadDate(event.date)}</StyledTime>
               <StyledDetails>
-                <h3>Band: {event.band}</h3>
-                <p>Venue: {event.venue}</p>
-                <p>Address: {event.address}</p>
+                <h3>Band: {event.bandName}</h3>
+                <p>Venue: {event.venueName}</p>
+                <p>Address: {event.venueAddress}</p>
                 <p>Time: {event.time}</p>
-                <a href={event.ticketLink}>Buy tickets</a>
+                <a href={event.ticketsLink}>Buy tickets</a>
               </StyledDetails>
             </li>
           ))}
@@ -37,7 +37,7 @@ export default function Events() {
 const StyledSection = styled.section`
   width: 100%;
   height: 100vh;
-  margin-bottom: 120px;
+  margin-bottom: 200px;
 `;
 const StyledEvents = styled.div`
   position: relative;
