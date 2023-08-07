@@ -1,18 +1,17 @@
 import styled from "styled-components";
 import Link from "next/link";
+
 export default function InterviewCard({ id, title, summary, text, image }) {
   return (
-    <>
-      <CardContainer>
-        <TitleContainer>{title}</TitleContainer>
-        <ImageContainer>
-          <Image src={image} alt={title} />
-        </ImageContainer>
-        <SummaryContainer>{summary}</SummaryContainer>
-        <ReadLink href={`/post/${id}`}>Read more</ReadLink>
-        <SeparatorLine />
-      </CardContainer>
-    </>
+    <CardContainer>
+      <Title>{title}</Title>
+      <ImageContainer>
+        <Image src={image} alt={title} />
+      </ImageContainer>
+      <SummaryContainer>{summary}</SummaryContainer>
+      <ReadMore href={`/post/${id}`}>Read more</ReadMore>
+      <SeparatorLine />
+    </CardContainer>
   );
 }
 
@@ -21,6 +20,7 @@ const CardContainer = styled.article`
   flex-direction: column;
   align-items: center;
   padding: 2rem 0;
+  margin-bottom: 50px;
 `;
 
 const ImageContainer = styled.div`
@@ -35,7 +35,7 @@ const Image = styled.img`
   max-height: 250px;
 `;
 
-const TitleContainer = styled.h2`
+const Title = styled.h2`
   text-align: center;
   color: #95091b;
   line-height: 1.4;
@@ -49,11 +49,12 @@ const SummaryContainer = styled.div`
   max-width: 80%;
 `;
 
-const ReadLink = styled(Link)`
+const ReadMore = styled(Link)`
   width: 110px;
   height: 25px;
   box-shadow: 2px 2px grey;
-  color: #95091b;
+  background-color: #95091b;
+  color: white;
   border: solid 2px #95091b;
   position: relative;
   top: 1rem;

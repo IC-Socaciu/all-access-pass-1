@@ -1,8 +1,18 @@
-import Link from "next/link";
+import { useRouter } from "next/router";
 import React from "react";
 import styled from "styled-components";
 
-export default function Footer() {
+export default function Footer({ currentPath }) {
+  const router = useRouter();
+
+  const handleButtonClick = () => {
+    if (currentPath == "/") {
+      window.location.reload();
+    } else {
+      router.push("/");
+    }
+  };
+
   return (
     <StyledFooter>
       <div>
@@ -11,7 +21,10 @@ export default function Footer() {
       <div>
         <LinkList>
           <NavLink>
-            <Link href="/">Home</Link>
+            <button onClick={handleButtonClick}>
+              {" "}
+              {currentPath == "/" ? "All Interviews" : "Home"}
+            </button>
           </NavLink>
           <LinkList>
             <li>Events</li>
@@ -24,6 +37,7 @@ export default function Footer() {
     </StyledFooter>
   );
 }
+
 const StyledFooter = styled.footer`
   background: darkgray;
   color: white;

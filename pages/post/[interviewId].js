@@ -37,7 +37,6 @@ const ImageContainer = styled.div`
   float: left;
   margin-left: 20px;
   margin-right: 20px;
-
   float: left;
 `;
 const Image = styled.img`

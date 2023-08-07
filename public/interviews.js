@@ -1,15 +1,14 @@
-// import interviews from "../dummydata/index.js";
-// import InterviewCard from "@/components/InterviewCard.js";
-
 export const interviews = [
   {
     id: "1",
     page: "1",
     tags: [
-      "undertaker",
+      "Undertaker",
       "japanese alternative rock",
       "Split Screen Management",
     ],
+    link: "/interviews/interview-slug",
+
     title: "The Undertaker Interview",
     text: `**THE UNDERTAKER** is a Japanese alternative rock band formed in 2021 in *Hyakunincho/Shinjuku*, consisting of veteran musicians; former members of world-fame bands such as **Survive** and **Aggressive Dogs** a.k.a. **UZI-ONE**.
 
@@ -170,6 +169,7 @@ The band comments on signing:
   {
     id: "2",
     page: "1",
+    tags: ["Godmorgon", "punk"],
     title: "Godmorgon Interview",
 
     text: `Founded in 2019, **GODMORGON**, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany) that has developed into a death/sludge metal band combining harsh vocals, groovy riffs and raw, straightforward energy.
@@ -264,9 +264,11 @@ As always, a huge *Thank You* to the band for their time, openness and availabil
   {
     id: "3",
     page: "1",
+    tags: ["Toomas Vanem", "Merliis Järve"],
+
     title: "Toomas Vanem Interview",
 
-    text: `Estonian studio and session guitar virtuoso and composer TOOMAS VANEM, started his music career in the 1980s.Over the years Toomas has played in multiple rock bands and projects and has remarkable career also as session musician.
+    text: `Estonian studio and session guitar virtuoso and composer TOOMAS VANEM, started his music career in the 1980s. Over the years Toomas has played in multiple rock bands and projects and has remarkable career also as session musician.
 
   In 2014 Toomas Vanem wrote, recorded and produced his first solo instrumental progressive rock music album “Toomas Vanem I”, which features American bass legend Stu Hamm. The compositions on the album are harsh, but also varied and colorful. A collage of different stories / stories about the world and life written in the language of music. 
   
@@ -286,7 +288,9 @@ As always, a huge *Thank You* to the band for their time, openness and availabil
   {
     id: "4",
     page: "2",
-    title: "The Undertaker Interview",
+    tags: ["Reactory", "thrash"],
+
+    title: "Reactory Interview",
 
     text: `Berlin based high-speed thrashers Reactory aligned their technicality, uncompromising variety and warp-like speed back in 2010. Having already released a Demo (2011), the “Killed by Thrash” EP (2013), full length albums “High on Radiation” (2014) and “Heavy” (2016), Reactory is currently working on their third full material.
   
@@ -294,6 +298,7 @@ As always, a huge *Thank You* to the band for their time, openness and availabil
   
   I mean, we are all tired as hell from a long ride back home to Berlin but very satisfied and proud after a week recording our new album nearby Köln. It was intense and we are really looking forward to bring it out.
   
+
   Personally I am still so pumped about it that I need some time to calm down. Answering this interview is doing the job. MAtW – You guys are working on your 3rd full album – any spoilers?All we can say for now is that we put a lot of passion and energy into it during the whole process and some of the best songs we have written up until now are there. Of course we hope thrashers will dig it, but we follow our instinct and at the end of the day, it sounds like us.`,
 
     summary:
@@ -308,6 +313,8 @@ As always, a huge *Thank You* to the band for their time, openness and availabil
   {
     id: "5",
     page: "2",
+    tags: ["Hardland", "alternative rock"],
+
     title: "HARDLAND – Band interview",
 
     text: `Melodic Alternative Rock quintet HARDLAND blazing out of Utrecht, Netherlands, have just released a new single, ”Merry X-Mas Everybody”, a reinterpretation of Slade's song, with a HARDLAND characteristic twist: turbulence and melodicity.
@@ -326,6 +333,8 @@ As always, a huge *Thank You* to the band for their time, openness and availabil
   {
     id: "6",
     page: "2",
+    tags: ["Christian Fischer", "Infected Chaos"],
+
     title: "Christian Fischer – Infected Chaos",
 
     text: `The austrian-german metalband INFECTED CHAOS rose from the ashes of former band Chaosreign in 2013 and directly started to write their own songs. 
