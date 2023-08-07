@@ -31,7 +31,7 @@ export default function Footer({ currentPath }) {
             <Link href="/events">Events</Link>
           </LinkList>
           <LinkList>
-            <li>Add Event</li>
+            <Link href="/addevent">Add Event</Link>
           </LinkList>
         </LinkList>
       </div>
