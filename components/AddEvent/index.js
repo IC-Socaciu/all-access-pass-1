@@ -1,7 +1,9 @@
+import styled from "styled-components";
+
 export default function AddEvent() {
   return (
     <div>
-      <form>
+      <StyledForm>
         <fieldset>
           {/* Form Name */}
           <legend>Add Your Event!</legend>
@@ -142,7 +144,15 @@ export default function AddEvent() {
             <button>Submit Event</button>
           </div>
         </fieldset>
-      </form>
+      </StyledForm>
     </div>
   );
 }
+
+const StyledForm = styled.form`
+  background-color: darkgrey;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  justify-content: center;
+  display: flex;
+`;

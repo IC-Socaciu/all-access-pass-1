@@ -20,20 +20,20 @@ export default function Footer({ currentPath }) {
         <div></div>
       </div>
       <div>
-        <LinkList>
+        <NavLink>
           <NavLink>
             <button onClick={handleButtonClick}>
               {" "}
               {currentPath == "/" ? "All Interviews" : "Home"}
             </button>
           </NavLink>
-          <LinkList>
+          <NavLink>
             <Link href="/events">Events</Link>
-          </LinkList>
-          <LinkList>
+          </NavLink>
+          <NavLink>
             <Link href="/addevent">Add Event</Link>
-          </LinkList>
-        </LinkList>
+          </NavLink>
+        </NavLink>
       </div>
     </StyledFooter>
   );
