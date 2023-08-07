@@ -26,7 +26,7 @@ export default function Events() {
               <p>September</p>
             </StyledTime>
             <StyledDetails>
-              <h3>REMBRANDT TRIO - "Netherland Jazz Classical"</h3>
+              <h3>REMBRANDT TRIO - Netherland Jazz Classical</h3>
               <p>Harmonie Bonn</p>
               <p>Frongasse 28-30, 53121 Bonn</p>
               <p>19:00</p>
@@ -41,7 +41,7 @@ export default function Events() {
               <p>August</p>
             </StyledTime>
             <StyledDetails>
-              <h3>IAN PAICE (DEEP PURPLE) – feat. Purpendicular</h3>
+              <h3>IAN PAICE (DEEP PURPLE) - feat. Purpendicular</h3>
               <p>Harmonie Bonn</p>
               <p>Frongasse 28-30, 53121 Bonn</p>
               <p>20:00</p>
