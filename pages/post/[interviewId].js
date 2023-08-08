@@ -73,7 +73,7 @@ const TitleContainer = styled.h2`
   line-height: 1.4;
   margin-top: 0;
 `;
-const ThumbUpContainer = styled.div`
+const ThumbUpContainer = styled.button`
   display: flex;
   align-items: center;
   margin-top: 10px;
