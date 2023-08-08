@@ -56,15 +56,15 @@ export default function AddEvent() {
           <label htmlFor="time">Select a time:</label>
           <select id="time" name="time">
             <option value="">--Choose a time--</option>
-            <option value="19:00:00">19:00</option>
-            <option value="19:15:00">19:15</option>
-            <option value="19:30:00">19:30</option>
-            <option value="19:45:00">19:45</option>
-            <option value="20:00:00">20:00</option>
-            <option value="20:15:00">20:15</option>
-            <option value="20:30:00">20:30</option>
-            <option value="20:45:00">20:45</option>
-            <option value="21:00:00">21:00</option>
+            <option value="19:00">19:00</option>
+            <option value="19:15">19:15</option>
+            <option value="19:30">19:30</option>
+            <option value="19:45">19:45</option>
+            <option value="20:00">20:00</option>
+            <option value="20:15">20:15</option>
+            <option value="20:30">20:30</option>
+            <option value="20:45">20:45</option>
+            <option value="21:00">21:00</option>
           </select>
         </div>
 
