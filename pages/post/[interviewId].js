@@ -3,7 +3,7 @@ import { useRouter } from "next/router";
 import { styled } from "styled-components";
 import { interviews } from "@/public/interviews";
 import Markdown from "markdown-to-jsx";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import ThumbUps from "@/public/thumbs-up-regular.svg";
 
 export default function InterviewArticle() {
@@ -11,10 +11,23 @@ export default function InterviewArticle() {
   const interviewId = router.query.interviewId;
   const [likes, setLikes] = useState(0);
 
+  useEffect(() => {
+    const savedLikes = localStorage.getItem(`likes${interviewId}`);
+    if (savedLikes !== null) {
+      setLikes(parseInt(savedLikes));
+    }
+  }, [interviewId]);
+
   const article = interviews.find((interview) => interview.id == interviewId);
   if (!article) {
     return null;
   }
+
+  const handleLikeClick = () => {
+    const newLikes = likes + 1;
+    setLikes(newLikes);
+    localStorage.setItem(`likes${interviewId}`, newLikes.toString());
+  };
 
   return (
     <article>
@@ -25,7 +38,7 @@ export default function InterviewArticle() {
       <TextContainer>
         <Markdown>{article?.text}</Markdown>
         <ThumbUpContainer>
-          <ThumbUpIcon onClick={() => setLikes(likes + 1)} />
+          <ThumbUpIcon onClick={handleLikeClick} />
           <span>{likes}</span>
         </ThumbUpContainer>
       </TextContainer>
