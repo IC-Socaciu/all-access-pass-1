@@ -45,7 +45,7 @@ const StyledEvents = styled.div`
   background: rgba(0, 0, 0, 0.5);
   box-sizing: border-box;
 `;
-const StyledTime = styled.div`
+const StyledTime = styled.p`
   position: relative;
   padding: 20px;
   background: #95091b;
