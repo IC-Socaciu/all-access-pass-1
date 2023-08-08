@@ -1,7 +1,8 @@
 import styled from "styled-components";
 import { useState, useEffect } from "react";
 import useSWR from "swr";
-function formadDate(timestamp) {
+
+function formatDate(timestamp) {
   const date = new Date(timestamp);
   return date.toLocaleDateString();
 }
@@ -15,11 +16,11 @@ export default function Events() {
 
   return (
     <StyledSection>
-      <StyledEvents>
-        <StyledEventList>
+      <StyledEventsContainer>
+        <StyledEventsList>
           {events.map((event, index) => (
             <li key={index}>
-              <StyledTime>{formadDate(event.date)}</StyledTime>
+              <StyledTime>{formatDate(event.date)}</StyledTime>
               <StyledDetails>
                 <h3>Band: {event.bandName}</h3>
                 <p>Venue: {event.venueName}</p>
@@ -28,33 +29,41 @@ export default function Events() {
               </StyledDetails>
             </li>
           ))}
-        </StyledEventList>
-      </StyledEvents>
+        </StyledEventsList>
+      </StyledEventsContainer>
     </StyledSection>
   );
 }
+
 const StyledSection = styled.section`
   width: 100%;
   min-height: 100vh;
-  margin-bottom: 200px;
 `;
-const StyledEvents = styled.div`
-  position: relative;
-  width: 50%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.5);
-  box-sizing: border-box;
+
+const StyledEventsContainer = styled.div`
+  height: 700px;
+  overflow-y: scroll;
+  padding-right: 10px;
 `;
+
+const StyledEventsList = styled.ul`
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+`;
+
 const StyledTime = styled.p`
   position: relative;
-  padding: 20px;
+  padding: 10px;
   background: #95091b;
   box-sizing: border-box;
   width: 30%;
   height: 100%;
+  color: white;
   float: left;
+  margin-right: 10px;
+  margin-left: -5px;
   text-align: center;
-
   &:hover {
     background-color: #099584;
     color: white;
@@ -68,7 +77,6 @@ const StyledDetails = styled.div`
   width: 70%;
   height: 100%;
   float: left;
-`;
-const StyledEventList = styled.ul`
-  list-style-type: none;
+  margin-right: 10px;
+  margin-left: 30px;
 `;
