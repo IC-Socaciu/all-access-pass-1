@@ -23,7 +23,6 @@ export default function Events() {
               <StyledDetails>
                 <h3>Band: {event.bandName}</h3>
                 <p>Venue: {event.venueName}</p>
-                <p>Address: {event.venueAddress}</p>
                 <p>Time: {event.time}</p>
                 <a href={event.ticketsLink}>Buy tickets</a>
               </StyledDetails>

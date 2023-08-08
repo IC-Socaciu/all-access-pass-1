@@ -231,7 +231,7 @@ const StyledForm = styled.form`
     color: #fff;
     border: none;
     cursor: pointer;
-    margin-bottom: 50px;
+    margin-bottom: 150px;
 
     transition: background-color 0.3s;
     &:hover {
