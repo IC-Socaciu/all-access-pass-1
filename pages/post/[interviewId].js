@@ -32,15 +32,15 @@ export default function InterviewArticle() {
   return (
     <article>
       <TitleContainer>{article?.title}</TitleContainer>
+      <ThumbUpContainer>
+        <ThumbUpIcon onClick={handleLikeClick} />
+        <span>{likes}</span>
+      </ThumbUpContainer>
       <ImageContainer>
         <Image src={article?.image} alt={article?.title} />
       </ImageContainer>
       <TextContainer>
         <Markdown>{article?.text}</Markdown>
-        <ThumbUpContainer>
-          <ThumbUpIcon onClick={handleLikeClick} />
-          <span>{likes}</span>
-        </ThumbUpContainer>
       </TextContainer>
     </article>
   );
@@ -82,5 +82,6 @@ const ThumbUpIcon = styled(ThumbUps)`
   width: 20px;
   height: 20px;
   margin-right: 5px;
-  /* fill: #95091b; */
+  fill: #95091b;
+  margin-left: 20px;
 `;
