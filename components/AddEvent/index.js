@@ -42,15 +42,32 @@ export default function AddEvent() {
             name="bandName"
             placeholder="Add band"
             type="text"
-            required
           />
         </div>
+
         <div>
           <label htmlFor="date">Date</label>
           <div>
             <input id="date" name="date" type="date" />
           </div>
         </div>
+
+        <div>
+          <label htmlFor="time">Select a time:</label>
+          <select id="time" name="time">
+            <option value="">--Choose a time--</option>
+            <option value="09:00:00">19:00</option>
+            <option value="09:00:00">19:15</option>
+            <option value="09:00:00">19:30</option>
+            <option value="09:00:00">19:45</option>
+            <option value="09:00:00">20:00</option>
+            <option value="09:00:00">20:15</option>
+            <option value="09:00:00">20:30</option>
+            <option value="09:00:00">20:45</option>
+            <option value="09:00:00">21:00</option>
+          </select>
+        </div>
+
         <div>
           <label htmlFor="musicStyle">Music Style</label>
           <div>
@@ -181,7 +198,6 @@ export default function AddEvent() {
 }
 
 const StyledForm = styled.form`
-  background-color: darkgrey;
   margin-top: 30px;
   margin-bottom: 30px;
   justify-content: center;
@@ -195,6 +211,11 @@ const StyledForm = styled.form`
 
   input[type="text"],
   select {
+    margin-bottom: 10px;
+  }
+
+  label[for="time"] {
+    display: block;
     margin-bottom: 10px;
   }
 

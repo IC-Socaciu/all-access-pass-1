@@ -15,13 +15,13 @@ const eventSchema = new Schema({
     type: String,
     required: true,
   },
-  venueAddress: {
-    type: String,
-    required: true,
-  },
+  //   venueAddress: {
+  //     type: String,
+  //     required: true,
+  //   },
   time: {
     type: String,
-    required: true,
+    // required: true,
   },
   ticketsLink: {
     type: String,
