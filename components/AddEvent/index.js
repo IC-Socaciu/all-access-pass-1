@@ -56,15 +56,15 @@ export default function AddEvent() {
           <label htmlFor="time">Select a time:</label>
           <select id="time" name="time">
             <option value="">--Choose a time--</option>
-            <option value="09:00:00">19:00</option>
-            <option value="09:00:00">19:15</option>
-            <option value="09:00:00">19:30</option>
-            <option value="09:00:00">19:45</option>
-            <option value="09:00:00">20:00</option>
-            <option value="09:00:00">20:15</option>
-            <option value="09:00:00">20:30</option>
-            <option value="09:00:00">20:45</option>
-            <option value="09:00:00">21:00</option>
+            <option value="19:00:00">19:00</option>
+            <option value="19:15:00">19:15</option>
+            <option value="19:30:00">19:30</option>
+            <option value="19:45:00">19:45</option>
+            <option value="20:00:00">20:00</option>
+            <option value="20:15:00">20:15</option>
+            <option value="20:30:00">20:30</option>
+            <option value="20:45:00">20:45</option>
+            <option value="21:00:00">21:00</option>
           </select>
         </div>
 
@@ -99,7 +99,7 @@ export default function AddEvent() {
               id="contactPhone"
               name="contactPhone"
               placeholder="(123)456-7890"
-              type="text"
+              type="tel"
             />
           </div>
         </div>
@@ -155,13 +155,13 @@ export default function AddEvent() {
         <div>
           <label htmlFor="linkToMusic">Link to your music</label>
           <div>
-            <input id="linkToMusic1" name="linkToMusic1" type="text" />
+            <input id="linkToMusic" name="linkToMusic" type="text" />
           </div>
           <div>
-            <input id="linkToMusic2" name="linkToMusic2" type="text" />
+            <input id="linkToMusic" name="linkToMusic" type="text" />
           </div>
           <div>
-            <input id="linkToMusic3" name="linkToMusic3" type="text" />
+            <input id="linkToMusic" name="linkToMusic" type="text" />
           </div>
         </div>
 

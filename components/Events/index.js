@@ -35,7 +35,7 @@ export default function Events() {
 }
 const StyledSection = styled.section`
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
   margin-bottom: 200px;
 `;
 const StyledEvents = styled.div`
@@ -45,7 +45,7 @@ const StyledEvents = styled.div`
   background: rgba(0, 0, 0, 0.5);
   box-sizing: border-box;
 `;
-const StyledTime = styled.p`
+const StyledTime = styled.div`
   position: relative;
   padding: 20px;
   background: #95091b;
@@ -61,7 +61,7 @@ const StyledTime = styled.p`
   }
 `;
 
-const StyledDetails = styled.p`
+const StyledDetails = styled.div`
   padding: 20px;
   background: #fff;
   box-sizing: border-box;
