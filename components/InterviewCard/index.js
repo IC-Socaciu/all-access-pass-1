@@ -1,8 +1,7 @@
 import styled from "styled-components";
 import Link from "next/link";
 
-export default function InterviewCard({ id, title, summary, image, perPage }) {
-  const [page, setPage] = useState[1];
+export default function InterviewCard({ id, title, summary, image }) {
   return (
     <CardContainer>
       <Title>{title}</Title>
