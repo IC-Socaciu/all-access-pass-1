@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import Link from "next/link";
 
-export default function InterviewCard({ id, title, summary, text, image }) {
+export default function InterviewCard({ id, title, summary, image, perPage }) {
   return (
     <CardContainer>
       <Title>{title}</Title>
