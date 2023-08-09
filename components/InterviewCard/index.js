@@ -70,3 +70,97 @@ const SeparatorLine = styled.div`
   width: 100%;
   height: 1px;
 `;
+const InterviewCardContainer = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+`;
+
+export function InterviewCardList({ perPage }) {
+  const [page, setPage] = useState(1);
+
+  const startIndex = (page - 1) * perPage;
+  const endIndex = startIndex + perPage;
+
+  const filteredArticles = articles.slice(startIndex, endIndex);
+
+  const numPages = Math.ceil(articles.length / perPage);
+
+  const handlePrevPage = () => {
+    setPage(page - 1);
+  };
+  const handleNextPage = () => {
+    setPage(page + 1);
+  };
+
+  const handleFirstPage = () => {
+    setPage(1);
+  };
+
+  const handleLastPage = () => {
+    setPage(numPages);
+  };
+
+  return (
+    <>
+      <InterviewCardContainer>
+        {filteredArticles.map((article) => (
+          <InterviewCard
+            key={article.id}
+            id={article.id}
+            title={article.title}
+            summary={article.summary}
+            image={article.image}
+          />
+        ))}
+      </InterviewCardContainer>
+
+      {numPages > 1 && (
+        <PaginationContainer>
+          <PaginationButton onClick={handleFirstPage} disabled={page === 1}>
+            {"<<"}
+          </PaginationButton>
+          <PaginationButton onClick={handlePrevPage} disabled={page === 1}>
+            Prev
+          </PaginationButton>
+          {Array.from({ length: numPages }, (_, i) => (
+            <PaginationButton
+              key={i}
+              active={i + 1 === page}
+              onClick={() => setPage(i + 1)}
+            >
+              {i + 1}
+            </PaginationButton>
+          ))}
+          <PaginationButton
+            onClick={handleNextPage}
+            disabled={page === numPages}
+          >
+            Next
+          </PaginationButton>
+          <PaginationButton
+            onClick={handleLastPage}
+            disabled={page === numPages}
+          >
+            {">>"}
+          </PaginationButton>
+        </PaginationContainer>
+      )}
+    </>
+  );
+}
+
+const PaginationContainer = styled.div`
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+`;
+
+const PaginationButton = styled.button`
+  border: 2px solid #95091b;
+  background-color: greenyellow;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  margin: 0.25rem;
+`;
