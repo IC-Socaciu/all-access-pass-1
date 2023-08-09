@@ -77,20 +77,21 @@ const InterviewCardContainer = styled.div`
 `;
 
 export function InterviewCardList({ perPage }) {
-  const [page, setPage] = useState(1);
+  const [currentPage, setCurrentPage] = useState(1);
 
   const startIndex = (page - 1) * perPage;
   const endIndex = startIndex + perPage;
-
-  const filteredArticles = articles.slice(startIndex, endIndex);
+  const filteredArticles = articles.filter(
+    (article) => article.page === String(currentPage)
+  );
 
   const numPages = Math.ceil(articles.length / perPage);
 
   const handlePrevPage = () => {
-    setPage(page - 1);
+    setCurrentPage((prevPage) => Math.max(prevPage - 1, 1));
   };
   const handleNextPage = () => {
-    setPage(page + 1);
+    setCurrentPage((prevPage) => Math.min(prevPage + 1, numPages));
   };
 
   const handleFirstPage = () => {
