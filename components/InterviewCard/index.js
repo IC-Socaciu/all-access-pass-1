@@ -20,7 +20,9 @@ const CardContainer = styled.article`
   flex-direction: column;
   align-items: center;
   padding: 2rem 0;
-  margin-bottom: 50px;
+  margin-bottom: 5px;
+  height: calc(100vh - 200px);
+  overflow-y: auto;
 `;
 
 const ImageContainer = styled.div`
@@ -47,6 +49,7 @@ const SummaryContainer = styled.div`
   text-align: justify;
   word-break: normal;
   max-width: 80%;
+  margin-bottom: 10px;
 `;
 
 const ReadMore = styled(Link)`

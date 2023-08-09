@@ -20,12 +20,22 @@ export default function Events() {
         <StyledEventsList>
           {events.map((event, index) => (
             <li key={index}>
-              <StyledTime>{formatDate(event.date)}</StyledTime>
+              <StyledTime>
+                <strong>{formatDate(event.date)}</strong>
+              </StyledTime>
               <StyledDetails>
-                <h3>Band: {event.bandName}</h3>
-                <p>Venue: {event.venueName}</p>
-                <p>Time: {event.time}</p>
-                <a href={event.ticketsLink}>Buy tickets</a>
+                <h3>
+                  <strong>Band:</strong> {event.bandName}
+                </h3>
+                <p>
+                  <strong>Venue:</strong> {event.venueName}
+                </p>
+                <p>
+                  <strong>Time:</strong> {event.time}
+                </p>
+                <a href={event.ticketsLink}>
+                  <strong>Buy tickets</strong>
+                </a>
               </StyledDetails>
             </li>
           ))}
@@ -44,6 +54,7 @@ const StyledEventsContainer = styled.div`
   height: 700px;
   overflow-y: scroll;
   padding-right: 10px;
+  margin-left: 40px;
 `;
 
 const StyledEventsList = styled.ul`
@@ -62,8 +73,8 @@ const StyledTime = styled.p`
   color: white;
   float: left;
   margin-right: 10px;
-  margin-left: -5px;
   text-align: center;
+  margin-left: 10px;
   &:hover {
     background-color: #099584;
     color: white;
@@ -74,6 +85,8 @@ const StyledDetails = styled.div`
   padding: 20px;
   background: #fff;
   box-sizing: border-box;
+  border: 2px solid #95091b;
+  border-radius: 10px;
   width: 70%;
   height: 100%;
   float: left;

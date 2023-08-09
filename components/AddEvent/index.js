@@ -227,11 +227,12 @@ const StyledForm = styled.form`
     margin-top: 15px;
     padding: 10px;
     border-radius: 5px;
-    background-color: #4caf50;
+    background-color: #95091b;
     color: #fff;
     border: none;
     cursor: pointer;
     margin-bottom: 150px;
+    margin-left: 10px;
 
     transition: background-color 0.3s;
     &:hover {
