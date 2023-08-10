@@ -6,7 +6,7 @@ import { useState } from "react";
 import Footer from "@/components/Footer";
 import styled from "styled-components";
 
-const INTERVIEWS_PER_PAGE = 3;
+const INTERVIEWS_PER_PAGE = 2;
 export default function HomePage() {
   const [searchTerm, setSearchTerm] = useState("");
   const [currentPage, setCurrentPage] = useState(1);
@@ -40,16 +40,26 @@ export default function HomePage() {
               ))}
             </ul>
 
-            <PageNavBtn
-              onClick={() => setCurrentPage(currentPage === 1 ? totalPages : 1)}
-            >
-              {currentPage === 1 ? "next page" : "previous page"}
-            </PageNavBtn>
-            {/* {currentPage > 1 && (
-              // <button onClick={() => setCurrentPage(currentPage - 1)}>
-              //   previous page
-              // </button>
-            )} */}
+            {currentPage === 1 && (
+              <PageNavBtn onClick={() => setCurrentPage(2)}>
+                Next Page
+              </PageNavBtn>
+            )}
+            {currentPage === 2 && (
+              <>
+                <PageNavBtn onClick={() => setCurrentPage(1)}>
+                  Previous Page
+                </PageNavBtn>
+                <PageNavBtn onClick={() => setCurrentPage(3)}>
+                  Next Page
+                </PageNavBtn>
+              </>
+            )}
+            {currentPage === 3 && (
+              <PageNavBtn onClick={() => setCurrentPage(2)}>
+                Previous Page
+              </PageNavBtn>
+            )}
           </>
         )}
       </StyledMain>
