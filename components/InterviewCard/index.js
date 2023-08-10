@@ -81,20 +81,27 @@ const InterviewCardContainer = styled.div`
 export function InterviewCardList({ articlesPerPage = 3, articles }) {
   const [currentPage, setCurrentPage] = useState(1);
 
-  const indexOfLastArticle = currentPage * articlesPerPage;
-  const indexOfFirstArticle = indexOfLastArticle - articlesPerPage;
-  const currentArticles = articles.slice(
-    indexOfFirstArticle,
-    indexOfLastArticle
+  // const indexOfLastArticle = currentPage * articlesPerPage;
+  // const indexOfFirstArticle = indexOfLastArticle - articlesPerPage;
+  // const currentArticles = articles.slice(
+  //   indexOfFirstArticle,
+  //   indexOfLastArticle
+  // );
+
+  // const totalPages = Math.ceil(articles.length / articlesPerPage);
+
+  const paginatedArticles = articles.slice(
+    (currentPage - 1) * articlesPerPage,
+    currentPage * articlesPerPage
   );
+  console.log("p articles", paginatedArticles);
+  // const paginate = (pageNumber) => setCurrentPage(pageNumber);
 
-  const totalPages = Math.ceil(articles.length / articlesPerPage);
-
-  const paginate = (pageNumber) => setCurrentPage(pageNumber);
   return (
     <>
       <InterviewCardContainer>
-        {currentArticles.map((article) => (
+        Hello
+        {paginatedArticles.map((article) => (
           <InterviewCard
             key={article.id}
             id={article.id}

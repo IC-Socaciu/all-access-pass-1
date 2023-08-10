@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { useState } from "react";
-import { styled } from "styled-components";
+import styled from "styled-components";
 
 export default function SearchInput({ searchTerm, onSearch }) {
   const [searchFieldValue, setSearchFieldValue] = useState("");
