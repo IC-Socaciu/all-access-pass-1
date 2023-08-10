@@ -40,11 +40,11 @@ export default function HomePage() {
               ))}
             </ul>
 
-            <button
+            <PageNavBtn
               onClick={() => setCurrentPage(currentPage === 1 ? totalPages : 1)}
             >
               {currentPage === 1 ? "next page" : "previous page"}
-            </button>
+            </PageNavBtn>
             {/* {currentPage > 1 && (
               // <button onClick={() => setCurrentPage(currentPage - 1)}>
               //   previous page
@@ -60,4 +60,16 @@ export default function HomePage() {
 
 const StyledMain = styled.main`
   margin-bottom: 200px;
+`;
+const PageNavBtn = styled.button`
+  width: 110px;
+  height: 25px;
+  background-color: #95091b;
+  color: white;
+  display: block;
+  margin: 0 auto;
+  &:hover {
+    background-color: #099584;
+    color: white;
+  }
 `;
