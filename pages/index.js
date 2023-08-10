@@ -40,23 +40,14 @@ export default function HomePage() {
               ))}
             </ul>
 
-            {currentPage === 1 && (
-              <PageNavBtn onClick={() => setCurrentPage(2)}>
+            {currentPage < totalPages && (
+              <PageNavBtn onClick={() => setCurrentPage(currentPage + 1)}>
                 Next Page
               </PageNavBtn>
             )}
-            {currentPage === 2 && (
-              <>
-                <PageNavBtn onClick={() => setCurrentPage(1)}>
-                  Previous Page
-                </PageNavBtn>
-                <PageNavBtn onClick={() => setCurrentPage(3)}>
-                  Next Page
-                </PageNavBtn>
-              </>
-            )}
-            {currentPage === 3 && (
-              <PageNavBtn onClick={() => setCurrentPage(2)}>
+            {/* Show previous button if we are on any page greater than 1 */}
+            {currentPage > 1 && (
+              <PageNavBtn onClick={() => setCurrentPage(currentPage - 1)}>
                 Previous Page
               </PageNavBtn>
             )}
