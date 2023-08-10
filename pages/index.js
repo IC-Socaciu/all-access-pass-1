@@ -15,7 +15,6 @@ export default function HomePage() {
     (currentPage - 1) * INTERVIEWS_PER_PAGE,
     currentPage * INTERVIEWS_PER_PAGE
   );
-  console.log("total pages", totalPages);
   function handleSearch(term) {
     setSearchTerm(term);
   }
@@ -41,9 +40,16 @@ export default function HomePage() {
               ))}
             </ul>
 
-            <button onClick={() => setCurrentPage(currentPage + 1)}>
-              next page
+            <button
+              onClick={() => setCurrentPage(currentPage === 1 ? totalPages : 1)}
+            >
+              {currentPage === 1 ? "next page" : "previous page"}
             </button>
+            {/* {currentPage > 1 && (
+              // <button onClick={() => setCurrentPage(currentPage - 1)}>
+              //   previous page
+              // </button>
+            )} */}
           </>
         )}
       </StyledMain>
