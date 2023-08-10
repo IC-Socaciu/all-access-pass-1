@@ -1,10 +1,11 @@
-import Heading from "@/Header";
 import InterviewCard from "@/components/InterviewCard";
 import { interviews } from "@/public/interviews";
 import SearchInput from "@/components/Search/SearchInput";
 import SearchResults from "@/components/Search/SearchResults";
 import { useState } from "react";
 import Footer from "@/components/Footer";
+import styled from "styled-components";
+
 const INTERVIEWS_PER_PAGE = 3;
 export default function HomePage() {
   const [searchTerm, setSearchTerm] = useState("");
@@ -20,7 +21,7 @@ export default function HomePage() {
   }
   return (
     <>
-      <main>
+      <StyledMain>
         <SearchInput searchTerm={searchTerm} onSearch={handleSearch} />
         {searchTerm ? (
           <SearchResults searchTerm={searchTerm} />
@@ -45,8 +46,12 @@ export default function HomePage() {
             </button>
           </>
         )}
-      </main>
+      </StyledMain>
       <Footer currentPath="/" />
     </>
   );
 }
+
+const StyledMain = styled.main`
+  margin-bottom: 200px;
+`;

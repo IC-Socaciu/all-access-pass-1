@@ -72,87 +72,86 @@ const SeparatorLine = styled.div`
   height: 1px;
 `;
 
-const InterviewCardContainer = styled.div`
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-`;
+// const InterviewCardContainer = styled.div`
+//   display: flex;
+//   flex-wrap: wrap;
+//   justify-content: center;
+// `;
 
-export function InterviewCardList({ articlesPerPage = 3, articles }) {
-  const [currentPage, setCurrentPage] = useState(1);
+// export function InterviewCardList({ articlesPerPage = 3, articles }) {
+//   const [currentPage, setCurrentPage] = useState(1);
 
-  // const indexOfLastArticle = currentPage * articlesPerPage;
-  // const indexOfFirstArticle = indexOfLastArticle - articlesPerPage;
-  // const currentArticles = articles.slice(
-  //   indexOfFirstArticle,
-  //   indexOfLastArticle
-  // );
+//   // const indexOfLastArticle = currentPage * articlesPerPage;
+//   // const indexOfFirstArticle = indexOfLastArticle - articlesPerPage;
+//   // const currentArticles = articles.slice(
+//   //   indexOfFirstArticle,
+//   //   indexOfLastArticle
+//   // );
 
-  // const totalPages = Math.ceil(articles.length / articlesPerPage);
+//   // const totalPages = Math.ceil(articles.length / articlesPerPage);
 
-  const paginatedArticles = articles.slice(
-    (currentPage - 1) * articlesPerPage,
-    currentPage * articlesPerPage
-  );
-  console.log("p articles", paginatedArticles);
-  // const paginate = (pageNumber) => setCurrentPage(pageNumber);
+//   const paginatedArticles = articles.slice(
+//     (currentPage - 1) * articlesPerPage,
+//     currentPage * articlesPerPage
+//   );
+//   console.log("p articles", paginatedArticles);
 
-  return (
-    <>
-      <InterviewCardContainer>
-        Hello
-        {paginatedArticles.map((article) => (
-          <InterviewCard
-            key={article.id}
-            id={article.id}
-            title={article.title}
-            summary={article.summary}
-            image={article.image}
-          />
-        ))}
-      </InterviewCardContainer>
+//   return (
+//     <>
+//       <InterviewCardContainer>
 
-      <PaginationContainer>
-        <PaginationButton
-          onClick={() => setCurrentPage(currentPage - 1)}
-          disabled={currentPage === 1}
-        >
-          Prev
-        </PaginationButton>
-        {Array.from({ length: totalPages }, (_, i) => (
-          <PaginationButton
-            key={i + 1}
-            active={i + 1 === currentPage}
-            onClick={() => setCurrentPage(i + 1)}
-          >
-            {i + 1}
-          </PaginationButton>
-        ))}
-        <PaginationButton
-          onClick={() => setCurrentPage(currentPage + 1)}
-          disabled={currentPage === totalPages}
-        >
-          Next
-        </PaginationButton>
-      </PaginationContainer>
-    </>
-  );
-}
+//         {paginatedArticles.map((article) => (
+//           <InterviewCard
+//             key={article.id}
+//             id={article.id}
+//             title={article.title}
+//             summary={article.summary}
+//             image={article.image}
+//           />
+//         ))}
+//       </InterviewCardContainer>
 
-const PaginationContainer = styled.div`
-  display: flex;
-  justify-content: center;
-  margin-top: 2rem;
-`;
+//       <PaginationContainer>
+//         <PaginationButton
+//           onClick={() => setCurrentPage(currentPage - 1)}
+//           disabled={currentPage === 1}
+//         >
+//           Prev
+//         </PaginationButton>
+//         {Array.from({ length: totalPages }, (_, i) => (
+//           <PaginationButton
+//             key={i + 1}
+//             active={i + 1 === currentPage}
+//             onClick={() => setCurrentPage(i + 1)}
+//           >
+//             {i + 1}
+//           </PaginationButton>
+//         ))}
+//         <PaginationButton
+//           onClick={() => setCurrentPage(currentPage + 1)}
+//           disabled={currentPage === totalPages}
+//         >
+//           Next
+//         </PaginationButton>
+//       </PaginationContainer>
+//     </>
+//   );
+// }
 
-const PaginationButton = styled.button`
-  border: 2px solid #95091b;
-  font-size: 1rem;
-  padding: 0.5rem 1rem;
-  border-radius: 0.25rem;
-  margin: 0.25rem;
-  &:hover {
-    background-color: #099584;
-    color: white;
-  }
-`;
+// const PaginationContainer = styled.div`
+//   display: flex;
+//   justify-content: center;
+//   margin-top: 2rem;
+// `;
+
+// const PaginationButton = styled.button`
+//   border: 2px solid #95091b;
+//   font-size: 1rem;
+//   padding: 0.5rem 1rem;
+//   border-radius: 0.25rem;
+//   margin: 0.25rem;
+//   &:hover {
+//     background-color: #099584;
+//     color: white;
+//   }
+// `;
