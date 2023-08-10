@@ -16,6 +16,9 @@ export default function Footer({ currentPath }) {
         <NavLink>
           <Link href="/addevent">Add Event</Link>
         </NavLink>
+        <NavLink>
+          <Link href="/discover">Discover</Link>
+        </NavLink>
       </LinkList>
     </StyledFooter>
   );
@@ -38,7 +41,6 @@ const StyledFooter = styled.footer`
 `;
 
 const NavLink = styled.li`
-  color: white;
   font-size: 1em;
   font-weight: bolder;
   display: inline-block;
@@ -47,14 +49,26 @@ const NavLink = styled.li`
   align-items: center;
   list-style-type: none;
   padding: 0px 5px;
+  color: ${(props) => (props.active ? "#00ff00" : "#95091b")};
+  cursor: pointer;
+  a {
+    color: #95091b;
+    text-decoration: none;
+    &:hover {
+      color: #099584;
+      font-size: 1.1em;
+      transform: scale(1.1);
+    }
+  }
 `;
 
 const LinkList = styled.ul`
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   width: 100%;
+  padding: 0px 5px;
 `;
 
 const Separator = styled.div`
