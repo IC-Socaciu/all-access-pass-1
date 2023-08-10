@@ -180,10 +180,12 @@ const TextArea = styled.textarea`
   border: 1px solid #ccc;
   outline: none;
   resize: vertical;
+  height: 150px;
 `;
 const ButtonContainer = styled.div`
   text-align: right;
   margin-bottom: 20px;
+  margin-right: 10px;
 `;
 const SubmitButton = styled.button`
   padding: 10px 20px;

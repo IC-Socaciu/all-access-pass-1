@@ -1,3 +1,4 @@
+import React, { useState } from "react";
 import styled from "styled-components";
 import Link from "next/link";
 
@@ -70,42 +71,30 @@ const SeparatorLine = styled.div`
   width: 100%;
   height: 1px;
 `;
+
 const InterviewCardContainer = styled.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 `;
 
-export function InterviewCardList({ perPage }) {
+export function InterviewCardList({ articlesPerPage = 3, articles }) {
   const [currentPage, setCurrentPage] = useState(1);
 
-  const startIndex = (page - 1) * perPage;
-  const endIndex = startIndex + perPage;
-  const filteredArticles = articles.filter(
-    (article) => article.page === String(currentPage)
+  const indexOfLastArticle = currentPage * articlesPerPage;
+  const indexOfFirstArticle = indexOfLastArticle - articlesPerPage;
+  const currentArticles = articles.slice(
+    indexOfFirstArticle,
+    indexOfLastArticle
   );
 
-  const numPages = Math.ceil(articles.length / perPage);
+  const totalPages = Math.ceil(articles.length / articlesPerPage);
 
-  const handlePrevPage = () => {
-    setCurrentPage((prevPage) => Math.max(prevPage - 1, 1));
-  };
-  const handleNextPage = () => {
-    setCurrentPage((prevPage) => Math.min(prevPage + 1, numPages));
-  };
-
-  const handleFirstPage = () => {
-    setPage(1);
-  };
-
-  const handleLastPage = () => {
-    setPage(numPages);
-  };
-
+  const paginate = (pageNumber) => setCurrentPage(pageNumber);
   return (
     <>
       <InterviewCardContainer>
-        {filteredArticles.map((article) => (
+        {currentArticles.map((article) => (
           <InterviewCard
             key={article.id}
             id={article.id}
@@ -116,37 +105,29 @@ export function InterviewCardList({ perPage }) {
         ))}
       </InterviewCardContainer>
 
-      {numPages > 1 && (
-        <PaginationContainer>
-          <PaginationButton onClick={handleFirstPage} disabled={page === 1}>
-            {"<<"}
-          </PaginationButton>
-          <PaginationButton onClick={handlePrevPage} disabled={page === 1}>
-            Prev
-          </PaginationButton>
-          {Array.from({ length: numPages }, (_, i) => (
-            <PaginationButton
-              key={i}
-              active={i + 1 === page}
-              onClick={() => setPage(i + 1)}
-            >
-              {i + 1}
-            </PaginationButton>
-          ))}
+      <PaginationContainer>
+        <PaginationButton
+          onClick={() => setCurrentPage(currentPage - 1)}
+          disabled={currentPage === 1}
+        >
+          Prev
+        </PaginationButton>
+        {Array.from({ length: totalPages }, (_, i) => (
           <PaginationButton
-            onClick={handleNextPage}
-            disabled={page === numPages}
+            key={i + 1}
+            active={i + 1 === currentPage}
+            onClick={() => setCurrentPage(i + 1)}
           >
-            Next
+            {i + 1}
           </PaginationButton>
-          <PaginationButton
-            onClick={handleLastPage}
-            disabled={page === numPages}
-          >
-            {">>"}
-          </PaginationButton>
-        </PaginationContainer>
-      )}
+        ))}
+        <PaginationButton
+          onClick={() => setCurrentPage(currentPage + 1)}
+          disabled={currentPage === totalPages}
+        >
+          Next
+        </PaginationButton>
+      </PaginationContainer>
     </>
   );
 }
@@ -159,9 +140,12 @@ const PaginationContainer = styled.div`
 
 const PaginationButton = styled.button`
   border: 2px solid #95091b;
-  background-color: greenyellow;
   font-size: 1rem;
   padding: 0.5rem 1rem;
   border-radius: 0.25rem;
   margin: 0.25rem;
+  &:hover {
+    background-color: #099584;
+    color: white;
+  }
 `;
