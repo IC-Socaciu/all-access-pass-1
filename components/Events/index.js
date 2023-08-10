@@ -79,4 +79,6 @@ const StyledDetails = styled.div`
   float: left;
   margin-right: 10px;
   margin-left: 30px;
+  border: 2px solid #95091b;
+  border-radius: 0.25rem;
 `;

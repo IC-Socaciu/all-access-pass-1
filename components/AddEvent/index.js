@@ -32,7 +32,7 @@ export default function AddEvent() {
 
   return (
     <StyledForm onSubmit={handleSubmit}>
-      <fieldset>
+      <StyledFieldset>
         <legend>Add Your Event!</legend>
 
         <div>
@@ -192,7 +192,7 @@ export default function AddEvent() {
         <div>
           <button type="submit">Submit Event</button>
         </div>
-      </fieldset>
+      </StyledFieldset>
     </StyledForm>
   );
 }
@@ -238,4 +238,8 @@ const StyledForm = styled.form`
       background-color: #3e8e41;
     }
   }
+`;
+const StyledFieldset = styled.fieldset`
+  border-radius: 0.25rem;
+  border: 2px solid #95091b;
 `;
