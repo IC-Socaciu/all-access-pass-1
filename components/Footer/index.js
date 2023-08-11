@@ -2,7 +2,6 @@ import { useRouter } from "next/router";
 import React from "react";
 import styled from "styled-components";
 import Link from "next/link";
-import Rabbit from "@/public/year-of-rabbit.png";
 
 export default function Footer({ currentPath }) {
   return (
@@ -21,7 +20,6 @@ export default function Footer({ currentPath }) {
           <Link href="/discover">Discover</Link>
         </NavLink>
       </LinkList>
-      <Bunny src="/year-of-rabbit.png" alt="Bunny" />
     </StyledFooter>
   );
 }
@@ -79,9 +77,4 @@ const Separator = styled.div`
   font-weight: bolder;
   display: inline-block;
   padding: 0 10px;
-`;
-const Bunny = styled.img`
-  height: 20px;
-  margin-left: auto;
-  filter: invert(100%);
 `;
