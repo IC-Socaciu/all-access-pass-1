@@ -18,7 +18,9 @@ export default function Footer({ currentPath }) {
     <StyledFooter>
       <LinkList>
         <NavLink>
-          <button onClick={handleHomeClick}>Home</button>
+          <Link href="/" onClick={handleHomeClick}>
+            Home
+          </Link>
         </NavLink>
         <NavLink>
           <Link href="/events">Events</Link>
