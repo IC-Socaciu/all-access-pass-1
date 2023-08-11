@@ -77,7 +77,6 @@ const StyledDetails = styled.div`
   box-sizing: border-box;
   width: 70%;
   height: 100%;
-  float: left;
   margin-right: 10px;
   margin-left: 30px;
   border: 2px solid #95091b;
