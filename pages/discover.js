@@ -1,5 +1,3 @@
-import Footer from "@/components/Footer";
-import SearchInput from "@/components/Search/SearchInput";
 import { styled } from "styled-components";
 import useSWR from "swr";
 
