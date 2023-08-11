@@ -1,12 +1,68 @@
 import Footer from "@/components/Footer";
 import SearchInput from "@/components/Search/SearchInput";
+import { styled } from "styled-components";
+import useSWR from "swr";
+
+const URL = `https://binaryjazz.us/wp-json/genrenator/v1/genre/`;
 
 export default function Discover() {
+  const { data, error, mutate } = useSWR(
+    URL,
+    async (URL) => {
+      const response = await fetch(URL);
+      const data = await response.json();
+      return data;
+    },
+    []
+  );
+
+  const handleClick = () => {
+    mutate();
+  };
+
+  if (error) {
+    return <div>Error fetching data</div>;
+  }
+
+  if (!data) {
+    return <div>Loading data...</div>;
+  }
+
   return (
-    <>
-      <h2>Discover!</h2>
-      <h3>TextTextText</h3>
-      <button>Click to discover!</button>
-    </>
+    <MusicBox>
+      <DiscoverTitle>Discover!</DiscoverTitle>
+      <DiscoverText>Looking for a new style of music?</DiscoverText>
+      <StyleSuggestion className="musicGenre">{data}</StyleSuggestion>
+      <GenerateNewButton onClick={handleClick}>
+        Get New Genre
+      </GenerateNewButton>{" "}
+    </MusicBox>
   );
 }
+
+const MusicBox = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 0;
+  margin-bottom: 50px;
+  border: solid 2px #7c0716;
+  border-radius: 0.25em;
+`;
+const DiscoverTitle = styled.h2`
+  color: #95091b;
+`;
+const DiscoverText = styled.p``;
+const StyleSuggestion = styled.h4`
+  color: #95091b;
+`;
+
+const GenerateNewButton = styled.button`
+  background-color: #95091b;
+  color: white;
+  height: 30px;
+  &:hover {
+    background-color: #099584;
+    color: white;
+  }
+`;
