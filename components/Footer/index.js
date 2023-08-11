@@ -76,7 +76,6 @@ const NavLink = styled.li`
 
 const LinkList = styled.ul`
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
   align-items: center;
   width: 100%;
