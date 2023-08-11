@@ -64,6 +64,7 @@ const StyledTime = styled.p`
   margin-right: 10px;
   margin-left: -5px;
   text-align: center;
+  transition: background-color 0.3s;
   &:hover {
     background-color: #099584;
     color: white;
@@ -76,7 +77,8 @@ const StyledDetails = styled.div`
   box-sizing: border-box;
   width: 70%;
   height: 100%;
-  float: left;
   margin-right: 10px;
   margin-left: 30px;
+  border: 2px solid #95091b;
+  border-radius: 0.25rem;
 `;

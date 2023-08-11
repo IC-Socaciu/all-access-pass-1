@@ -146,13 +146,18 @@ const ThumbUpContainer = styled.button`
   display: flex;
   align-items: center;
   margin-top: 10px;
+  border: none;
+  outline: none;
 `;
 const ThumbUpIcon = styled(ThumbUps)`
   width: 20px;
   height: 20px;
   margin-right: 5px;
   fill: #95091b;
-  margin-left: 20px;
+  margin-left: 13px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  padding: 0;
 `;
 const CommentsContainer = styled.div`
   margin-top: 20px;
@@ -180,10 +185,12 @@ const TextArea = styled.textarea`
   border: 1px solid #ccc;
   outline: none;
   resize: vertical;
+  height: 150px;
 `;
 const ButtonContainer = styled.div`
   text-align: right;
   margin-bottom: 20px;
+  margin-right: 10px;
 `;
 const SubmitButton = styled.button`
   padding: 10px 20px;

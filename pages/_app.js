@@ -1,6 +1,7 @@
 import GlobalStyle from "../styles";
 import Footer from "@/components/Footer";
 import { SWRConfig } from "swr";
+import WebsiteTitle from "@/components/Header";
 
 const fetcher = async (...args) => {
   const response = await fetch(...args);
@@ -15,6 +16,7 @@ const fetcher = async (...args) => {
 export default function App({ Component, pageProps }) {
   return (
     <>
+      <WebsiteTitle />
       <SWRConfig value={{ fetcher }}>
         <GlobalStyle />
         <Component {...pageProps} />

@@ -1,7 +1,8 @@
+import { useState } from "react";
 import styled from "styled-components";
 import Link from "next/link";
 
-export default function InterviewCard({ id, title, summary, text, image }) {
+export default function InterviewCard({ id, title, summary, image }) {
   return (
     <CardContainer>
       <Title>{title}</Title>
@@ -53,9 +54,9 @@ const ReadMore = styled(Link)`
   width: 110px;
   height: 25px;
   box-shadow: 2px 2px grey;
-  background-color: #95091b;
+  background-color: #7c0716;
   color: white;
-  border: solid 2px #95091b;
+  border: solid 2px #7c0716;
   position: relative;
   top: 1rem;
   text-align: center;

@@ -4,18 +4,33 @@ import styled from "styled-components";
 import Link from "next/link";
 
 export default function Footer({ currentPath }) {
+  const router = useRouter();
+
+  const handleHomeClick = () => {
+    if (router.pathname === "/") {
+      router.reload();
+    } else {
+      router.push("/");
+    }
+  };
+
   return (
     <StyledFooter>
       <LinkList>
-        <NavLink>
-          <Link href="/">Home</Link>
-        </NavLink>
-        <NavLink>
+        <ListItem>
+          <Link href="/" onClick={handleHomeClick}>
+            Home
+          </Link>
+        </ListItem>
+        <ListItem>
           <Link href="/events">Events</Link>
-        </NavLink>
-        <NavLink>
+        </ListItem>
+        <ListItem>
           <Link href="/addevent">Add Event</Link>
-        </NavLink>
+        </ListItem>
+        <ListItem>
+          <Link href="/discover">Discover</Link>
+        </ListItem>
       </LinkList>
     </StyledFooter>
   );
@@ -37,8 +52,7 @@ const StyledFooter = styled.footer`
   margin-top: -100px;
 `;
 
-const NavLink = styled.li`
-  color: white;
+const ListItem = styled.li`
   font-size: 1em;
   font-weight: bolder;
   display: inline-block;
@@ -47,14 +61,25 @@ const NavLink = styled.li`
   align-items: center;
   list-style-type: none;
   padding: 0px 5px;
+  color: ${(props) => (props.active ? "#00ff00" : "#95091b")};
+  cursor: pointer;
+  a {
+    color: #95091b;
+    text-decoration: none;
+    &:hover {
+      color: #099584;
+      font-size: 1.1em;
+      transform: scale(1.1);
+    }
+  }
 `;
 
 const LinkList = styled.ul`
   display: flex;
-  flex-direction: row;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   width: 100%;
+  padding: 0px 5px;
 `;
 
 const Separator = styled.div`
