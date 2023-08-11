@@ -64,6 +64,7 @@ const StyledTime = styled.p`
   margin-right: 10px;
   margin-left: -5px;
   text-align: center;
+  transition: background-color 0.3s;
   &:hover {
     background-color: #099584;
     color: white;

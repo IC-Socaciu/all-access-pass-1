@@ -69,6 +69,7 @@ const PageNavBtn = styled.button`
   color: white;
   display: block;
   margin: 0 auto;
+  transition: background-color 0.3s;
   &:hover {
     background-color: #099584;
     color: white;

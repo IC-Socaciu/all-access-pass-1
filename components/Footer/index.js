@@ -4,11 +4,21 @@ import styled from "styled-components";
 import Link from "next/link";
 
 export default function Footer({ currentPath }) {
+  const router = useRouter();
+
+  const handleHomeClick = () => {
+    if (router.pathname === "/") {
+      router.reload();
+    } else {
+      router.push("/");
+    }
+  };
+
   return (
     <StyledFooter>
       <LinkList>
         <NavLink>
-          <Link href="/">Home</Link>
+          <button onClick={handleHomeClick}>Home</button>
         </NavLink>
         <NavLink>
           <Link href="/events">Events</Link>
