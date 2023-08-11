@@ -17,20 +17,20 @@ export default function Footer({ currentPath }) {
   return (
     <StyledFooter>
       <LinkList>
-        <NavLink>
+        <ListItem>
           <Link href="/" onClick={handleHomeClick}>
             Home
           </Link>
-        </NavLink>
-        <NavLink>
+        </ListItem>
+        <ListItem>
           <Link href="/events">Events</Link>
-        </NavLink>
-        <NavLink>
+        </ListItem>
+        <ListItem>
           <Link href="/addevent">Add Event</Link>
-        </NavLink>
-        <NavLink>
+        </ListItem>
+        <ListItem>
           <Link href="/discover">Discover</Link>
-        </NavLink>
+        </ListItem>
       </LinkList>
     </StyledFooter>
   );
@@ -52,7 +52,7 @@ const StyledFooter = styled.footer`
   margin-top: -100px;
 `;
 
-const NavLink = styled.li`
+const ListItem = styled.li`
   font-size: 1em;
   font-weight: bolder;
   display: inline-block;
