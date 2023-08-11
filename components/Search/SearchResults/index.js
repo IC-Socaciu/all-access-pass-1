@@ -44,13 +44,15 @@ const StyledResult = styled.ul`
   max-height: 300px;
   margin-left: 10px;
   margin-right: 10px;
-  border: solid 3px #95091b;
   border-radius: 1.2rem;
+  text-decoration: none;
+  list-style-type: none;
 `;
 const StyledTags = styled.ul`
   padding-bottom: 20px;
+  text-decoration: none;
 `;
 const StyledTitle = styled.h3`
-  list-style-type: none;
+  text-decoration: none;
   color: #95091b;
 `;
