@@ -1,29 +1,24 @@
-import { styled } from "styled-components";
+import styled from "styled-components";
 import useSWR from "swr";
 
 const URL = `https://binaryjazz.us/wp-json/genrenator/v1/genre/`;
 
 export default function Discover() {
-  const { data, error, mutate } = useSWR(
-    URL,
-    async (URL) => {
-      const response = await fetch(URL);
-      const data = await response.json();
-      return data;
-    },
-    []
-  );
+  const { data, error, mutate } = useSWR(URL, async (URL) => {
+    const response = await fetch(URL);
+    if (!response.ok) {
+      throw new Error("Failed to fetch data");
+    }
+    const data = await response.json();
+    return data;
+  });
 
   const handleClick = () => {
     mutate();
   };
 
-  if (error) {
-    return <div>Error fetching data</div>;
-  }
-
   if (!data) {
-    return <div>Loading data...</div>;
+    return <div>Loading and ...</div>;
   }
 
   return (
