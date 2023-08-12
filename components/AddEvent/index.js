@@ -226,10 +226,9 @@ const StyledForm = styled.form`
   button {
     margin-top: 15px;
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 0.25em;
     background-color: #95091b;
     color: #fff;
-    border: none;
     cursor: pointer;
     margin-bottom: 150px;
     transition: background-color 0.3s;
