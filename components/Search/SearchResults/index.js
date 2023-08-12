@@ -1,5 +1,4 @@
 import { useRouter } from "next/router";
-
 import { interviews } from "@/public/interviews";
 import Footer from "@/components/Footer";
 import {
