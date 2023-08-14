@@ -7,7 +7,6 @@ export const interviews = [
       "japanese alternative rock",
       "Split Screen Management",
     ],
-    link: "/interviews/interview-slug",
 
     title: "The Undertaker Interview",
     text: `**THE UNDERTAKER** is a Japanese alternative rock band formed in 2021 in *Hyakunincho/Shinjuku*, consisting of veteran musicians; former members of world-fame bands such as **Survive** and **Aggressive Dogs** a.k.a. **UZI-ONE**.
