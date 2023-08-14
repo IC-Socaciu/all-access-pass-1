@@ -37,7 +37,7 @@ export default function Footer({ currentPath }) {
 }
 
 const StyledFooter = styled.footer`
-  background: darkgray;
+  background-color: #fafafa;
   color: white;
   padding: 1.5em;
   position: fixed;
@@ -50,6 +50,7 @@ const StyledFooter = styled.footer`
   list-style-type: none;
   height: 100px;
   margin-top: -100px;
+  box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25);
 `;
 
 const ListItem = styled.li`

@@ -14,7 +14,7 @@ export default createGlobalStyle`
   body {
     margin: 0;
     font-family: Roboto;
-    background-color: #e9e9e9;
+    background-color: #FAFAFA;
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 

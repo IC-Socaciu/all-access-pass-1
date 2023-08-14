@@ -19,7 +19,7 @@ export default function Discover() {
   }, [mutate]);
 
   if (!data) {
-    return <div>Loading and ...</div>;
+    return <div>Loading ...</div>;
   }
 
   return (
