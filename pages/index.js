@@ -65,13 +65,14 @@ const StyledMain = styled.main`
 const PageNavBtn = styled.button`
   width: 110px;
   height: 25px;
-  background-color: #95091b;
-  color: white;
+  background-color: #fafafa;
+  border: solid 2px red;
+  color: red;
   display: block;
   margin: 0 auto;
   transition: background-color 0.3s;
   &:hover {
-    background-color: #099584;
-    color: white;
+    background-color: red;
+    color: #fafafa;
   }
 `;

@@ -55,19 +55,20 @@ const StyledEventsList = styled.ul`
 const StyledTime = styled.p`
   position: relative;
   padding: 10px;
-  background: #95091b;
+  background: #fafafa;
+  border: 2px solid red;
   box-sizing: border-box;
   width: 30%;
   height: 100%;
-  color: white;
+  color: red;
   float: left;
   margin-right: 10px;
-  margin-left: -5px;
+  margin-left: 5px;
   text-align: center;
   transition: background-color 0.3s;
   &:hover {
-    background-color: #099584;
-    color: white;
+    background-color: red;
+    color: #fafafa;
   }
 `;
 
@@ -79,6 +80,6 @@ const StyledDetails = styled.div`
   height: 100%;
   margin-right: 10px;
   margin-left: 30px;
-  border: 2px solid #95091b;
+  border: 2px solid red;
   border-radius: 0.25rem;
 `;

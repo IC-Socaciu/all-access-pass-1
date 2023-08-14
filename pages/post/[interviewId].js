@@ -195,15 +195,16 @@ const ButtonContainer = styled.div`
 const SubmitButton = styled.button`
   padding: 10px 20px;
   font-size: 16px;
-  border-radius: 5px;
-  background-color: #95091b;
+  border: solid 2px red;
+  border-radius: 0.25em;
+  background-color: #fafafa;
+  color: red;
   margin-top: 10px;
-  border: none;
-  color: #fff;
   cursor: pointer;
   transition: background-color 0.2s ease-in-out;
   &:hover {
-    background-color: #731c28;
+    background-color: red;
+    color: #fafafa;
   }
 `;
 const Comment = styled.div`

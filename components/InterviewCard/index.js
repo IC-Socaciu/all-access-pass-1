@@ -52,15 +52,15 @@ export const ReadMore = styled(Link)`
   width: 110px;
   height: 25px;
   box-shadow: 2px 2px grey;
-  background-color: #7c0716;
-  color: white;
-  border: solid 2px #7c0716;
+  background-color: #fafafa;
+  color: red;
+  border: solid 2px red;
   position: relative;
   top: 1rem;
   text-align: center;
   &:hover {
-    background-color: #099584;
-    color: white;
+    background-color: red;
+    color: #fafafa;
   }
 `;
 
