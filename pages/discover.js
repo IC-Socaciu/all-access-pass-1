@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import useSWR from "swr";
+import { useCallback } from "react";
 
 const URL = `https://binaryjazz.us/wp-json/genrenator/v1/genre/`;
 
@@ -13,9 +14,9 @@ export default function Discover() {
     return data;
   });
 
-  const handleClick = () => {
+  const handleClick = useCallback(() => {
     mutate();
-  };
+  }, [mutate]);
 
   if (!data) {
     return <div>Loading and ...</div>;
