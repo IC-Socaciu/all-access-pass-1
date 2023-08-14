@@ -53,13 +53,16 @@ export const ReadMore = styled(Link)`
   height: 25px;
   box-shadow: 2px 2px grey;
   background-color: #fafafa;
-  color: red;
+  color: #95091b;
   border: solid 2px #95091b;
   position: relative;
   top: 1rem;
   text-align: center;
+  text-decoration: none;
+  transition: background-color 0.3s;
+
   &:hover {
-    background-color: red;
+    background-color: #95091b;
     color: #fafafa;
   }
 `;

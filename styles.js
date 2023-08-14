@@ -6,9 +6,6 @@ export default createGlobalStyle`
     box-sizing: border-box;
   }
 
-  :root {
-    --button-color: #451420;
-  }
 
   @media screen and (max-width: 650px) {
   .column {
@@ -41,7 +38,7 @@ display: flex;
   align-items: center;
   border-radius: 1.2rem;
   margin: auto;
-  border: solid 3px #95091b;
+  border: solid 2px #95091b;
 margin-right: 30px;
 margin-top: 30px;
 

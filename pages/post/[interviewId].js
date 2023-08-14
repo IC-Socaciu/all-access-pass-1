@@ -195,7 +195,7 @@ const ButtonContainer = styled.div`
 const SubmitButton = styled.button`
   padding: 10px 20px;
   font-size: 16px;
-  border: solid 2px red;
+  border: solid 2px #95091b;
   border-radius: 0.25em;
   background-color: #fafafa;
   color: red;
@@ -203,7 +203,7 @@ const SubmitButton = styled.button`
   cursor: pointer;
   transition: background-color 0.2s ease-in-out;
   &:hover {
-    background-color: red;
+    background-color: #95091b;
     color: #fafafa;
   }
 `;

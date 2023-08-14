@@ -66,13 +66,13 @@ const PageNavBtn = styled.button`
   width: 110px;
   height: 25px;
   background-color: #fafafa;
-  border: solid 2px red;
-  color: red;
+  border: solid 2px #95091b;
+  color: #95091b;
   display: block;
   margin: 0 auto;
   transition: background-color 0.3s;
   &:hover {
-    background-color: red;
+    background-color: #95091b;
     color: #fafafa;
   }
 `;
