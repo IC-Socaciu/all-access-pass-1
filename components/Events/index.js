@@ -56,18 +56,19 @@ const StyledTime = styled.p`
   position: relative;
   padding: 10px;
   background: #fafafa;
-  border: 2px solid red;
+  border: 2px solid #95091b;
+  border-radius: 0.25em;
   box-sizing: border-box;
   width: 30%;
   height: 100%;
-  color: red;
+  color: #95091b;
   float: left;
   margin-right: 10px;
   margin-left: 5px;
   text-align: center;
   transition: background-color 0.3s;
   &:hover {
-    background-color: red;
+    background-color: #95091b;
     color: #fafafa;
   }
 `;
@@ -80,6 +81,6 @@ const StyledDetails = styled.div`
   height: 100%;
   margin-right: 10px;
   margin-left: 30px;
-  border: 2px solid red;
+  border: 2px solid #95091b;
   border-radius: 0.25rem;
 `;

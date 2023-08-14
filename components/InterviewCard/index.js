@@ -54,7 +54,7 @@ export const ReadMore = styled(Link)`
   box-shadow: 2px 2px grey;
   background-color: #fafafa;
   color: red;
-  border: solid 2px red;
+  border: solid 2px #95091b;
   position: relative;
   top: 1rem;
   text-align: center;

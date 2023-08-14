@@ -68,7 +68,6 @@ const ListItem = styled.li`
     color: #95091b;
     text-decoration: none;
     &:hover {
-      color: #099584;
       font-size: 1.1em;
       transform: scale(1.1);
     }

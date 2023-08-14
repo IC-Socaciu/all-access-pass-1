@@ -226,20 +226,20 @@ const StyledForm = styled.form`
   button {
     margin-top: 15px;
     padding: 10px;
-    border: 2px solid red;
+    border: 2px solid #95091b;
     border-radius: 0.25em;
     background-color: #fafafa;
-    color: red;
+    color: #95091b;
     cursor: pointer;
     margin-bottom: 150px;
     transition: background-color 0.3s;
     &:hover {
-      background-color: red;
+      background-color: #95091b;
       color: #fafafa;
     }
   }
 `;
 const StyledFieldset = styled.fieldset`
   border-radius: 0.25rem;
-  border: 2px solid red;
+  border: 2px solid #95091b;
 `;
