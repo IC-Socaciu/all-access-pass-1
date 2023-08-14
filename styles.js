@@ -5,6 +5,11 @@ export default createGlobalStyle`
   *::after {
     box-sizing: border-box;
   }
+
+  :root {
+    --button-color: #451420;
+  }
+  
   @media screen and (max-width: 650px) {
   .column {
     width: 100%;
