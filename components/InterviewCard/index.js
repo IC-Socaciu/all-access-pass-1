@@ -1,6 +1,5 @@
-import { useState } from "react";
-import styled from "styled-components";
 import Link from "next/link";
+import styled from "styled-components";
 
 export default function InterviewCard({ id, title, summary, image }) {
   return (
@@ -15,8 +14,7 @@ export default function InterviewCard({ id, title, summary, image }) {
     </CardContainer>
   );
 }
-
-const CardContainer = styled.article`
+export const CardContainer = styled.article`
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -24,19 +22,19 @@ const CardContainer = styled.article`
   margin-bottom: 50px;
 `;
 
-const ImageContainer = styled.div`
+export const ImageContainer = styled.div`
   margin: 1rem 0;
   width: 100%;
   display: flex;
   justify-content: center;
 `;
 
-const Image = styled.img`
+export const Image = styled.img`
   max-width: 100%;
   max-height: 250px;
 `;
 
-const Title = styled.h2`
+export const Title = styled.h2`
   text-align: center;
   color: #95091b;
   line-height: 1.4;
@@ -44,13 +42,13 @@ const Title = styled.h2`
   margin: 0 auto 1rem;
 `;
 
-const SummaryContainer = styled.div`
+export const SummaryContainer = styled.div`
   text-align: justify;
   word-break: normal;
   max-width: 80%;
 `;
 
-const ReadMore = styled(Link)`
+export const ReadMore = styled(Link)`
   width: 110px;
   height: 25px;
   box-shadow: 2px 2px grey;
@@ -66,7 +64,7 @@ const ReadMore = styled(Link)`
   }
 `;
 
-const SeparatorLine = styled.div`
+export const SeparatorLine = styled.div`
   margin-top: 2rem;
   width: 100%;
   height: 1px;
