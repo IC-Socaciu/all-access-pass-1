@@ -12,6 +12,20 @@ export default createGlobalStyle`
     width: 100%;
     display: block;
   }
+  @media only screen and (max-width: 768px) {
+    input[type="text"],
+    select {
+      width: 100%;
+    }
+    textarea {
+      width: 100%;
+      height: 150px;
+    }
+    button {
+      margin-bottom: 50px;
+    }
+  }
+
 }
   body {
     margin: 0;
