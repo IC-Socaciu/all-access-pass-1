@@ -51,6 +51,7 @@ const StyledFooter = styled.footer`
   height: 100px;
   margin-top: -100px;
   box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25);
+  filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));
 `;
 
 const ListItem = styled.li`

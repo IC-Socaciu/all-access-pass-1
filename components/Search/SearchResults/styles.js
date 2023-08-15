@@ -22,3 +22,6 @@ export const StyledTitle = styled.h3`
   text-decoration: none;
   color: #95091b;
 `;
+export const StyledOutput = styled.p`
+  color: #95091b;
+`;
