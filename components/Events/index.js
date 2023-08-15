@@ -22,10 +22,12 @@ export default function Events() {
             <li key={index}>
               <StyledTime>{formatDate(event.date)}</StyledTime>
               <StyledDetails>
-                <h3>Band: {event.bandName}</h3>
+                <StyledBand>Band: {event.bandName}</StyledBand>
                 <p>Venue: {event.venueName}</p>
                 <p>Time: {event.time}</p>
-                <a href={event.ticketsLink}>Buy tickets</a>
+                <StyledTickets href={event.ticketsLink}>
+                  Buy tickets
+                </StyledTickets>
               </StyledDetails>
             </li>
           ))}
@@ -38,6 +40,7 @@ export default function Events() {
 const StyledSection = styled.section`
   width: 100%;
   min-height: 100vh;
+  margin-bottom: 100px;
 `;
 
 const StyledEventsContainer = styled.div`
@@ -55,32 +58,37 @@ const StyledEventsList = styled.ul`
 const StyledTime = styled.p`
   position: relative;
   padding: 10px;
-  background: #fafafa;
+  background: #95091b;
   border: 2px solid #95091b;
   border-radius: 0.25em;
   box-sizing: border-box;
+  color: #fafafa;
   width: 30%;
   height: 100%;
-  color: #95091b;
   float: left;
   margin-right: 10px;
   margin-left: 5px;
   text-align: center;
-  transition: background-color 0.3s;
-  &:hover {
-    background-color: #95091b;
-    color: #fafafa;
-  }
 `;
 
 const StyledDetails = styled.div`
   padding: 20px;
-  background: #fff;
+  background-color: #dfdfdf;
   box-sizing: border-box;
-  width: 70%;
+  width: 85%;
   height: 100%;
   margin-right: 10px;
   margin-left: 30px;
+  margin-bottom: 5px;
+  margin-top: 30px;
   border: 2px solid #95091b;
   border-radius: 0.25rem;
+`;
+const StyledTickets = styled.a`
+  color: #393939;
+  border: solid 1px #393939;
+  text-decoration: none;
+`;
+const StyledBand = styled.h3`
+  color: #95091b;
 `;
