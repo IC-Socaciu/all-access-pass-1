@@ -25,7 +25,11 @@ export default function Events() {
                 <StyledBand>Band: {event.bandName}</StyledBand>
                 <StyledVenue>Venue: {event.venueName}</StyledVenue>
                 <p>Time: {event.time}</p>
-                <StyledTickets href={event.ticketsLink}>
+                <StyledTickets
+                  href={event.ticketsLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   Buy tickets
                 </StyledTickets>
               </StyledDetails>

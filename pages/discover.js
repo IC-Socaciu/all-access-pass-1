@@ -25,7 +25,10 @@ export default function Discover() {
   return (
     <MusicBox>
       <DiscoverTitle>Discover!</DiscoverTitle>
-      <DiscoverText>Looking for a new style of music?</DiscoverText>
+      <DiscoverText>
+        Interested in finding out new and original music? Click on the button
+        below to generate a new style of music!{" "}
+      </DiscoverText>
       <StyleSuggestion className="musicGenre">{data}</StyleSuggestion>
       <GenerateNewButton onClick={handleClick}>
         Get New Genre
