@@ -73,6 +73,7 @@ const PageNavBtn = styled.button`
   height: 25px;
   background-color: #fafafa;
   border: solid 2px #95091b;
+  border-radius: 0.25em;
   color: #95091b;
   display: block;
   margin: 0 auto;
