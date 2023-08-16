@@ -29,7 +29,6 @@ export default function SearchResults({ searchTerm }) {
           <Link href={`/post/${interview.id}`}>
             <StyledTitle>{interview.title}</StyledTitle>
           </Link>
-          {/* <PreviewText>{interview.summary}</PreviewText> */}
           <StyledTags>
             <h3>Tags:</h3>
             {interview.tags.map((tag) => (
