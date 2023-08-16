@@ -1,10 +1,12 @@
 import { useRouter } from "next/router";
 import { interviews } from "@/public/interviews";
+import Link from "next/link";
+
 import Footer from "@/components/Footer";
 import {
   StyledResult,
   StyledTitle,
-  PreviewText,
+  StyledLink,
   StyledTags,
 } from "@/components/Search/SearchResults/styles";
 
@@ -24,8 +26,9 @@ export default function SearchResults({ searchTerm }) {
     <StyledResult as="ul">
       {results.map((interview) => (
         <li key={interview.id}>
-          <StyledTitle>{interview.title}</StyledTitle>
-          <PreviewText>{interview.summary}</PreviewText>
+          <StyledLink href={`/post/${interview.id}`}>
+            <StyledTitle>{interview.title}</StyledTitle>
+          </StyledLink>
           <StyledTags>
             <h3>Tags:</h3>
             {interview.tags.map((tag) => (

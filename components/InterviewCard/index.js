@@ -19,7 +19,6 @@ export const CardContainer = styled.article`
   flex-direction: column;
   align-items: center;
   padding: 2rem 0;
-  margin-bottom: 50px;
 `;
 
 export const ImageContainer = styled.div`
@@ -46,21 +45,24 @@ export const SummaryContainer = styled.div`
   text-align: justify;
   word-break: normal;
   max-width: 80%;
+  margin-bottom: 1rem;
 `;
 
 export const ReadMore = styled(Link)`
   width: 110px;
   height: 25px;
-  box-shadow: 2px 2px grey;
-  background-color: #7c0716;
-  color: white;
-  border: solid 2px #7c0716;
+  background-color: #fafafa;
+  color: #95091b;
+  border: solid 2px #95091b;
+  border-radius: 0.25em;
   position: relative;
   top: 1rem;
   text-align: center;
+  text-decoration: none;
+  transition: background-color 0.3s;
   &:hover {
-    background-color: #099584;
-    color: white;
+    background-color: #95091b;
+    color: #fafafa;
   }
 `;
 

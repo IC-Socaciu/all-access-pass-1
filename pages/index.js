@@ -45,9 +45,11 @@ export default function HomePage() {
                 Next Page
               </PageNavBtn>
             )}
-            {/* Show previous button if we are on any page greater than 1 */}
             {currentPage > 1 && (
-              <PageNavBtn onClick={() => setCurrentPage(currentPage - 1)}>
+              <PageNavBtn
+                onClick={() => setCurrentPage(currentPage - 1)}
+                style={{ marginTop: "10px" }}
+              >
                 Previous Page
               </PageNavBtn>
             )}
@@ -60,18 +62,24 @@ export default function HomePage() {
 }
 
 const StyledMain = styled.main`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   margin-bottom: 200px;
 `;
 const PageNavBtn = styled.button`
   width: 110px;
   height: 25px;
-  background-color: #95091b;
-  color: white;
+  background-color: #fafafa;
+  border: solid 2px #95091b;
+  border-radius: 0.25em;
+  color: #95091b;
   display: block;
   margin: 0 auto;
   transition: background-color 0.3s;
   &:hover {
-    background-color: #099584;
-    color: white;
+    background-color: #95091b;
+    color: #fafafa;
   }
 `;

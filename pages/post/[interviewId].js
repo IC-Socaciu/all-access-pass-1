@@ -128,7 +128,6 @@ const ImageContainer = styled.div`
   float: left;
   margin-left: 20px;
   margin-right: 20px;
-  float: left;
 `;
 const Image = styled.img`
   max-width: 100%;
@@ -195,20 +194,21 @@ const ButtonContainer = styled.div`
 const SubmitButton = styled.button`
   padding: 10px 20px;
   font-size: 16px;
-  border-radius: 5px;
-  background-color: #95091b;
+  border: solid 2px #95091b;
+  border-radius: 0.25em;
+  background-color: #fafafa;
+  color: red;
   margin-top: 10px;
-  border: none;
-  color: #fff;
   cursor: pointer;
-  transition: background-color 0.2s ease-in-out;
+  transition: background-color 0.3s;
   &:hover {
-    background-color: #731c28;
+    background-color: #95091b;
+    color: #fafafa;
   }
 `;
 const Comment = styled.div`
   margin-bottom: 20px;
-  border: 1px solid #95091b;
+  border: 2px solid #95091b;
 `;
 const CommentName = styled.div`
   font-weight: bold;

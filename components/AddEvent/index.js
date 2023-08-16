@@ -226,14 +226,16 @@ const StyledForm = styled.form`
   button {
     margin-top: 15px;
     padding: 10px;
+    border: 2px solid #95091b;
     border-radius: 0.25em;
-    background-color: #95091b;
-    color: #fff;
+    background-color: #fafafa;
+    color: #95091b;
     cursor: pointer;
     margin-bottom: 150px;
     transition: background-color 0.3s;
     &:hover {
-      background-color: #099584;
+      background-color: #95091b;
+      color: #fafafa;
     }
   }
 `;
