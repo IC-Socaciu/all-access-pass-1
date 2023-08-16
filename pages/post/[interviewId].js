@@ -200,7 +200,7 @@ const SubmitButton = styled.button`
   color: red;
   margin-top: 10px;
   cursor: pointer;
-  transition: background-color 0.2s ease-in-out;
+  transition: background-color 0.3s;
   &:hover {
     background-color: #95091b;
     color: #fafafa;
@@ -208,7 +208,7 @@ const SubmitButton = styled.button`
 `;
 const Comment = styled.div`
   margin-bottom: 20px;
-  border: 1px solid #95091b;
+  border: 2px solid #95091b;
 `;
 const CommentName = styled.div`
   font-weight: bold;
