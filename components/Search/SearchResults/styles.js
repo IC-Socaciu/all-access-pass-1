@@ -26,6 +26,7 @@ export const StyledOutput = styled.p`
   color: #95091b;
 `;
 export const StyledLink = styled.a`
+  background-color: #95091b;
   text-align: left;
   text-decoration: none;
 `;

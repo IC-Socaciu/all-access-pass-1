@@ -69,6 +69,7 @@ const StyledTime = styled.p`
   margin-right: 10px;
   margin-left: 5px;
   text-align: center;
+  font-weight: 700;
 `;
 
 const StyledDetails = styled.div`
@@ -85,9 +86,19 @@ const StyledDetails = styled.div`
   border-radius: 0.25rem;
 `;
 const StyledTickets = styled.a`
-  color: #393939;
-  border: solid 1px #393939;
+  border: solid 2px #95091b;
+  border-radius: 0.25em;
   text-decoration: none;
+  background-color: #fafafa;
+  color: #95091b;
+  text-align: left;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: background-color 0.3s;
+  &:hover {
+    background-color: #95091b;
+    color: #fafafa;
+  }
 `;
 const StyledBand = styled.h3`
   color: #95091b;
