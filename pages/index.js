@@ -45,7 +45,6 @@ export default function HomePage() {
                 Next Page
               </PageNavBtn>
             )}
-            {/* Show previous button if we are on any page greater than 1 */}
             {currentPage > 1 && (
               <PageNavBtn onClick={() => setCurrentPage(currentPage - 1)}>
                 Previous Page
