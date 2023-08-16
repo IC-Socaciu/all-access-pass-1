@@ -4,8 +4,7 @@ export const StyledSearchBar = styled.input`
   width: 220px;
   height: 30px;
   border: solid 2px #95091b;
-  margin-top: 15px;
-  margin-left: 15px;
+  margin: 0 10px 0 15px;
 `;
 export const StyledSearchButton = styled.button`
   background-color: #fafafa;
