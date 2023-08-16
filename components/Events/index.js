@@ -23,7 +23,7 @@ export default function Events() {
               <StyledTime>{formatDate(event.date)}</StyledTime>
               <StyledDetails>
                 <StyledBand>Band: {event.bandName}</StyledBand>
-                <p>Venue: {event.venueName}</p>
+                <StyledVenue>Venue: {event.venueName}</StyledVenue>
                 <p>Time: {event.time}</p>
                 <StyledTickets href={event.ticketsLink}>
                   Buy tickets
@@ -91,4 +91,7 @@ const StyledTickets = styled.a`
 `;
 const StyledBand = styled.h3`
   color: #95091b;
+`;
+const StyledVenue = styled.p`
+  font-weight: 700;
 `;

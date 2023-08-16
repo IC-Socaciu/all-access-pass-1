@@ -46,7 +46,10 @@ export default function HomePage() {
               </PageNavBtn>
             )}
             {currentPage > 1 && (
-              <PageNavBtn onClick={() => setCurrentPage(currentPage - 1)}>
+              <PageNavBtn
+                onClick={() => setCurrentPage(currentPage - 1)}
+                style={{ marginTop: "10px" }}
+              >
                 Previous Page
               </PageNavBtn>
             )}

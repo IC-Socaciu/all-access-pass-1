@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 import {
   StyledResult,
   StyledTitle,
-  PreviewText,
+  StyledLink,
   StyledTags,
 } from "@/components/Search/SearchResults/styles";
 
@@ -26,9 +26,9 @@ export default function SearchResults({ searchTerm }) {
     <StyledResult as="ul">
       {results.map((interview) => (
         <li key={interview.id}>
-          <Link href={`/post/${interview.id}`}>
+          <StyledLink href={`/post/${interview.id}`}>
             <StyledTitle>{interview.title}</StyledTitle>
-          </Link>
+          </StyledLink>
           <StyledTags>
             <h3>Tags:</h3>
             {interview.tags.map((tag) => (

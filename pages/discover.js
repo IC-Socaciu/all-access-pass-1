@@ -40,24 +40,26 @@ const MusicBox = styled.div`
   align-items: center;
   padding: 2rem 0;
   margin-bottom: 50px;
-  border: solid 2px #451420;
+  border: solid 2px #95091b;
   border-radius: 0.25em;
 `;
 const DiscoverTitle = styled.h2`
-  color: #451420;
+  color: #95091b;
 `;
 const DiscoverText = styled.p``;
 const StyleSuggestion = styled.h4`
-  color: #451420;
+  color: #95091b;
 `;
 
 const GenerateNewButton = styled.button`
   background-color: #fafafa;
-  color: #451420;
-  border: 2px solid #451420;
+  color: #95091b;
+  border: 2px solid #95091b;
+  border-radius: 0.25em;
   height: 30px;
+  transition: background-color 0.3s;
   &:hover {
-    background-color: #451420;
+    background-color: #95091b;
     color: white;
   }
 `;
