@@ -120,8 +120,7 @@ const TextContainer = styled.div`
   padding-left: 20px;
   margin-top: 0;
   word-break: normal;
-  margin-right: 10px;
-  margin-left: 10px;
+  margin-inlsine: 10px;
 `;
 const ImageContainer = styled.div`
   max-width: 150px;
@@ -153,9 +152,8 @@ const ThumbUpContainer = styled.button`
 const ThumbUpIcon = styled(ThumbUps)`
   width: 20px;
   height: 20px;
-  margin-right: 5px;
   fill: #95091b;
-  margin-left: 15px;
+  margin-inline: 15px;
   text-decoration: none;
 `;
 const CommentsContainer = styled.div`
