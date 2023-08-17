@@ -27,7 +27,7 @@ The band declared:
 
 The band comments on signing:
 
-*“We are very happy to be part of the Split Screen Management family.  We look forward to seeing you all around the world and seeing what our band and Split Screen Management bring to the world.*
+*“We are very happy to be part of the Split Screen Management family.  We look forward to seeing you all around the world and seeing what our band and [Split Screen Management](http://www.splitscreenproduction.com/) bring to the world.*
 
 *Everyone who sees this, please support The Undertaker!”*
 
@@ -44,13 +44,13 @@ The band comments on signing:
 ![The Undertaker](https://all-access-pass.de/wp-content/uploads/2023/04/THE-UNDERTAKER-logo-1-300x224.jpg "The Undertaker logo")
 
 
-**AAP –  Thank you for your time. What is Undertaker doing now?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Thank you for your time. What is Undertaker doing now?</strong></p>
 
 *Hello, we’re currently doing a lot of live shows in Tokyo, the center of Japan. And now I’m writing a lot of songs. I’m writing it for the new album.*
 
 
 
-**AAP –  Let’s meet the band. Can you tell us a little bit about each member of the band and their role within the group?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Let’s meet the band. Can you tell us a little bit about each member of the band and their role within the group?</strong></p>
 
 *First of all, I’m NEMO, guitar vocalist. Mainly writing new riffs and writing lyrics. And at the live, this is the man who is venting his anger at the center.*
 
@@ -61,43 +61,43 @@ The band comments on signing:
 *The bassist is a session bassist, but he’s a genius. He can listen to the performance with peace of mind.*
 
 
-**AAP –  Is the current line-up stable or are there different musicians joining the live show?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Is the current line-up stable or are there different musicians joining the live show?</strong></p>
 
 *The bassist is a session member. The rest of the line-up is stable. Because we used to be friends. We often drink and play together.*
 
 
 
-**AAP –  For international readers unfamiliar with The Undertaker, can you tell us how it started?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  For international readers unfamiliar with The Undertaker, can you tell us how it started?</strong></p>
 
 *This band just let out what’s inside everyone in the midst of this damned pandemic. I started out playing. However, I made a lot of good songs, so I started showing them in front of everyone. I started playing like a party, but now I’m serious about it.*
 
 
 
-**AAP –  How would you describe your music to someone who has never heard it?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  How would you describe your music to someone who has never heard it?**
 
 *Our music is a mixture of 90’s alternative, hard rock, hardcore and rock. Of course, it also smells like good old rock. Think of it as a new sound playing with modern sounds.*
 
 
 
-**AAP –  Tell us more about your current EP.**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Tell us more about your current EP.</strong></p>
 
 *The current EP was originally a demo, but all 4 songs were great songs, so I dropped them into the world. The reaction was good. It was ranked #16 on iTunes. It’s sprinkled with psychedelic vibes, hardcore and rock sounds.*
 
 
 
-**AAP –  How are the songs written, are they collaborative or are they usually led by one of her members?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  How are the songs written, are they collaborative or are they usually led by one of her members?</strong></p>
 
 *Where NEMO usually writes riffs and melodies, we jam always. I don’t compromise, but I enjoy it.*
 
 
 
-**AAP –  Where do you get your musical inspiration from?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Where do you get your musical inspiration from?</strong></p>
 
 *We find new inspiration in everything we’ve heard, amazing scenery and good times. I like exciting things.*
 
 
 
-**AAP –  What do you like most and dislike about being a musician?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  What do you like most and dislike about being a musician?</strong></p>
 
 *What you like is to be able to live by doing what you like. Even if we are caught in something, it will break that frame. That’s why musicians can’t quit their jobs.* 
 
@@ -105,61 +105,61 @@ The band comments on signing:
 
 
 
-**AAP –  You just signed a new partnership with Split Screen Management. How did the collaboration come about?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  You just signed a new partnership with Split Screen Management. How did the collaboration come about?</strong></p>
 
 *They have been able to maintain a good partnership continuing from my previous band. They work hard for the band. That’s why I love it. Great management company.*
 
 
 
-**AAP –  What’s next for The Undertaker?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  What’s next for The Undertaker?</strong></p>
 
 *I want to make an album. And I want to tour a lot and make new trips!*
 
 
 
-**AAP –  How did you get into music? Was it always part of your life or did you focus on it later on?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  How did you get into music? Was it always part of your life or did you focus on it later on?</strong></p>
 
 *I love guitar and it’s been my life since the beginning.*
 
 
 
-**AAP –  Are either of you involved in musical or non-musical side projects?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Are either of you involved in musical or non-musical side projects?</strong></p>
 
 *Right now I’m just concentrating on this band.*
 
 
 
-**AAP –  The year started with quite a few live shows. How has the reaction been so far?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  The year started with quite a few live shows. How has the reaction been so far?</strong></p>
 
 *The reaction is good. People are very interested. However, it’s hard to categorize it because it’s a sound I had never heard before.*
 
 
 
-**AAP –  Do you have any upcoming shows?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Do you have any upcoming shows?</strong></p>
 
 *There are a lot of shows booked, mainly in Tokyo, until the fall. Of course I want to tour Europe if I have the chance.*
 
 
 
-**AAP –  You are a very visual band when playing live. What should fans expect from your show?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  You are a very visual band when playing live. What should fans expect from your show?</strong></p>
 
 *We double as a show-up to Rock’s bluntness. That’s why I’m progressing through stages that I can’t read every time. Is that more thrilling?*
 
 
 
-**AAP –  Do you get nervous before the show?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Do you get nervous before the show?</strong></p>
 
 *I’m having fun these days, so I’m not nervous. My previous band was always nervous and crazy enough to want to hurt someone. I’m quietly concentrating. I train the image of the stage all the time.*
 
 
 
-**AAP –  Do you have any funny or interesting stories from the show so far that you could share with us?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Do you have any funny or interesting stories from the show so far that you could share with us?</strong></p>
 
 *The support guitarist who was in the front drinks a lot. I drink all the time after loading in. And before the stage, after he checked his guitar, he disappeared. it was the best and the worst story so far.*
 
 
 
-**AAP –  Last Question Time – Random Questions. Name at least one thing about Japan that is 100% true and 100% nonsense.**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Last Question Time – Random Questions. Name at least one thing about Japan that is 100% true and 100% nonsense.</strong></p>
 
 *Japan is a very strange country and rock has yet to become a culture. All pop music and idols make me nauseous. This is serious.* 
 
@@ -167,7 +167,7 @@ The band comments on signing:
 
 
 
-**AAP –  If there is anything you would like to share and I may have missed, please do so. We look forward to seeing you in Europe.**
+<p style="background-color: #dfdfdf;"><strong>AAP –  If there is anything you would like to share and I may have missed, please do so. We look forward to seeing you in Europe.</strong></p>
 
 
 *See you in Europe! And thank you for your support!*`,

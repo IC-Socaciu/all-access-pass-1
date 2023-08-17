@@ -120,9 +120,8 @@ const TextContainer = styled.div`
   padding-left: 20px;
   margin-top: 0;
   word-break: normal;
-  margin-bottom: 120px;
-  /* margin-left: 20px; */
-  margin-right: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
 `;
 const ImageContainer = styled.div`
   max-width: 150px;
