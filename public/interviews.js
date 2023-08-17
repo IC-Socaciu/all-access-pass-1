@@ -35,7 +35,7 @@ The band comments on signing:
 
 **Hon-D** – Drums,
 
-![The Undertaker](https://all-access-pass.de/wp-content/uploads/2023/04/THE-UNDERTAKER-logo-1-300x224.jpg) 
+![The Undertaker](https://all-access-pass.de/wp-content/uploads/2023/04/THE-UNDERTAKER-logo-1-300x224.jpg "The Undertaker logo") 
 
 **AAP –  Thank you for your time. What is Undertaker doing now?**
 
