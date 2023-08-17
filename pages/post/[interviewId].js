@@ -67,12 +67,13 @@ export default function InterviewArticle() {
   };
 
   return (
-    <article>
+    <StyledArticle>
       <TitleContainer>{article?.title}</TitleContainer>
       <ThumbUpContainer>
         <ThumbUpIcon onClick={handleLikeClick} />
         <span>{likes}</span>
       </ThumbUpContainer>
+      <StyledSeparator />
       <ImageContainer>
         <Image src={article?.image} alt={article?.title} />
       </ImageContainer>
@@ -111,7 +112,7 @@ export default function InterviewArticle() {
           </Comment>
         ))}
       </CommentsContainer>
-    </article>
+    </StyledArticle>
   );
 }
 
@@ -120,7 +121,8 @@ const TextContainer = styled.div`
   margin-top: 0;
   word-break: normal;
   margin-bottom: 120px;
-  margin-left: 20px;
+  /* margin-left: 20px; */
+  margin-right: 20px;
 `;
 const ImageContainer = styled.div`
   max-width: 150px;
@@ -144,19 +146,18 @@ const TitleContainer = styled.h2`
 const ThumbUpContainer = styled.button`
   display: flex;
   align-items: center;
-  margin-top: 10px;
   border: none;
   outline: none;
+  text-decoration: none;
+  background-color: #fafafa;
 `;
 const ThumbUpIcon = styled(ThumbUps)`
   width: 20px;
   height: 20px;
   margin-right: 5px;
   fill: #95091b;
-  margin-left: 13px;
-  margin-bottom: 10px;
+  margin-left: 15px;
   text-decoration: none;
-  padding: 0;
 `;
 const CommentsContainer = styled.div`
   margin-top: 20px;
@@ -173,7 +174,7 @@ const TextInput = styled.input`
   padding: 5px;
   font-size: 16px;
   border-radius: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid #dfdfdf;
   outline: none;
 `;
 const TextArea = styled.textarea`
@@ -181,7 +182,7 @@ const TextArea = styled.textarea`
   padding: 5px;
   font-size: 16px;
   border-radius: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid #dfdfdf;
   outline: none;
   resize: vertical;
   height: 150px;
@@ -197,7 +198,7 @@ const SubmitButton = styled.button`
   border: solid 2px #95091b;
   border-radius: 0.25em;
   background-color: #fafafa;
-  color: red;
+  color: #95091b;
   margin-top: 10px;
   cursor: pointer;
   transition: background-color 0.3s;
@@ -220,4 +221,17 @@ const CommentMessage = styled.div`
 const CharCount = styled.div`
   font-size: 12px;
   margin-top: 5px;
+`;
+const StyledSeparator = styled.hr`
+  border-bottom: 1px solid #dfdfdf;
+  margin-bottom: 25px;
+  width: 280px;
+  box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25);
+  filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));
+`;
+const StyledArticle = styled.article`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
 `;
