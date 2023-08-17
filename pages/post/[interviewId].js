@@ -173,9 +173,8 @@ const TextInput = styled.input`
   width: 100%;
   padding: 5px;
   font-size: 16px;
-  border-radius: 5px;
+  border-radius: 0.25em;
   border: 1px solid #dfdfdf;
-  outline: none;
 `;
 const TextArea = styled.textarea`
   width: 100%;
@@ -183,9 +182,9 @@ const TextArea = styled.textarea`
   font-size: 16px;
   border-radius: 5px;
   border: 1px solid #dfdfdf;
-  outline: none;
+  border-radius: 0.25em;
   resize: vertical;
-  height: 150px;
+  height: 100px;
 `;
 const ButtonContainer = styled.div`
   text-align: right;
@@ -210,6 +209,7 @@ const SubmitButton = styled.button`
 const Comment = styled.div`
   margin-bottom: 20px;
   border: 2px solid #95091b;
+  border-radius: 0.25em;
 `;
 const CommentName = styled.div`
   font-weight: bold;

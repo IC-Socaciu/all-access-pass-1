@@ -9,21 +9,27 @@ export const interviews = [
     ],
 
     title: "The Undertaker Interview",
-    text: `**THE UNDERTAKER** is a Japanese alternative rock band formed in 2021 in *Hyakunincho/Shinjuku*, consisting of veteran musicians; former members of world-fame bands such as **Survive** and **Aggressive Dogs** a.k.a. **UZI-ONE**.
+    text: `[**THE UNDERTAKER**](https://www.facebook.com/rocktaker666) is a Japanese alternative rock band formed in 2021 in *Hyakunincho/Shinjuku*, consisting of veteran musicians; former members of world-fame bands such as [**Survive**](https://www.facebook.com/survive333) and [**Aggressive Dogs**](http://aggressive-dogs.com/) a.k.a. **UZI-ONE**.
 
 Their rich influences ranging from rock, blues, country, hardcore and punk are blended into a unique sound.
 
 The start of 2022 brought numerous local live performances and topped with the release of their first self-titled digital EP, **“The Undertaker”**, in July 2022. 
 
-**THE UNDERTAKER** have also just inked a deal with **Split Screen Management**, and are aiming to release their full-length album in 2023. 
+[**THE UNDERTAKER**](https://www.facebook.com/rocktaker666) have also just inked a deal with **Split Screen Management**, and are aiming to release their full-length album in 2023. 
 
 The band declared:
 
-*“The Undertaker, aka Grave Diggers, is a heavy rock band that will bring out the darkness of this changing world and the pus of society. It is an organization formed for the purpose of burying this wild and FAKE society in a spectacular manner, provoking the world with sometimes serious, sometimes ridiculous actions. We are Rock ‘n’ Roll Beast. Listen to our first EP with all your heart!”*
+*"The Undertaker, aka Grave Diggers, is a heavy rock band that will bring out the darkness of this changing world and the pus of society.*
+
+*It is an organization formed for the purpose of burying this wild and FAKE society in a spectacular manner, provoking the world with sometimes serious, sometimes ridiculous actions.* 
+
+*We are Rock ‘n’ Roll Beast. Listen to our first EP with all your heart!"*
 
 The band comments on signing:
 
-*“We are very happy to be part of the Split Screen Management family.  We look forward to seeing you all around the world and seeing what our band and Split Screen Management bring to the world.  Everyone who sees this, please support The Undertaker!”*
+*“We are very happy to be part of the Split Screen Management family.  We look forward to seeing you all around the world and seeing what our band and Split Screen Management bring to the world.*
+
+*Everyone who sees this, please support The Undertaker!”*
 
 **THE UNDERTAKER** line-up:
 
@@ -46,8 +52,13 @@ The band comments on signing:
 
 **AAP –  Let’s meet the band. Can you tell us a little bit about each member of the band and their role within the group?**
 
-*First of all, I’m NEMO, guitar vocalist. Mainly writing new riffs and writing lyrics. And at the live, this is the man who is venting his anger at the center. The guitarist is 4410. He is originally from classical music. He does the booking and arrangement publicity for the band. And the drummer is Hong. He is a very studious drummer who is studying a lot of music now. The bassist is a session bassist, but he’s a genius. He can listen to the performance with peace of mind.*
+*First of all, I’m NEMO, guitar vocalist. Mainly writing new riffs and writing lyrics. And at the live, this is the man who is venting his anger at the center.*
 
+*The guitarist is 4410. He is originally from classical music. He does the booking and arrangement publicity for the band.*
+
+*And the drummer is Hong. He is a very studious drummer who is studying a lot of music now.* 
+
+*The bassist is a session bassist, but he’s a genius. He can listen to the performance with peace of mind.*
 
 
 **AAP –  Is the current line-up stable or are there different musicians joining the live show?**
@@ -88,7 +99,9 @@ The band comments on signing:
 
 **AAP –  What do you like most and dislike about being a musician?**
 
-*What you like is to be able to live by doing what you like. Even if we are caught in something, it will break that frame. That’s why musicians can’t quit their jobs. What I don’t like is that the world is getting louder and louder. Maybe it’s mostly because of social net media.*
+*What you like is to be able to live by doing what you like. Even if we are caught in something, it will break that frame. That’s why musicians can’t quit their jobs.* 
+
+*What I don’t like is that the world is getting louder and louder. Maybe it’s mostly because of social net media.*
 
 
 
@@ -148,7 +161,9 @@ The band comments on signing:
 
 **AAP –  Last Question Time – Random Questions. Name at least one thing about Japan that is 100% true and 100% nonsense.**
 
-*Japan is a very strange country and rock has yet to become a culture. All pop music and idols make me nauseous. This is serious. Japan has a lot of weird rules. After that, we will act as a group. The audience gets excited, and if one person gets excited, everyone gets excited.*
+*Japan is a very strange country and rock has yet to become a culture. All pop music and idols make me nauseous. This is serious.* 
+
+*Japan has a lot of weird rules. After that, we will act as a group. The audience gets excited, and if one person gets excited, everyone gets excited.*
 
 
 
