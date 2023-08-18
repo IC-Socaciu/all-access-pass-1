@@ -427,8 +427,6 @@ Over the years Toomas has played in multiple rock bands and projects and has rem
 
 In 2014 [**Toomas Vanem**](https://www.facebook.com/ToomasGuitar/‚) wrote, recorded and produced his first solo instrumental progressive rock music album **“Toomas Vanem I”**, which features American bass legend *Stu Hamm*. 
 
-<img src="https://all-access-pass.de/wp-content/uploads/2022/02/ToomasVanem-II_Digital-Release-Vinyl-Cover_3000px_ver02-1-684x684.jpg" alt="Toomas Vanem II album cover" style="max-width: 300px; max-height: 300px;"> 
-
 
 The compositions on the album are harsh, but also varied and colorful. A collage of different stories / stories about the world and life written in the language of music.
 
@@ -481,6 +479,7 @@ Looking back to your previous solo material “Toomas Vanem I” do the new idea
 
 *I try to avoid that with my albums. I like stories! It keeps things fresh for me! With that in mind, my albums are conceptual, just I have a different concept!*
 
+<img src="https://all-access-pass.de/wp-content/uploads/2022/02/ToomasVanem-II_Digital-Release-Vinyl-Cover_3000px_ver02-1-684x684.jpg" alt="Toomas Vanem II album cover" style="max-width: 300px; max-height: 300px;"> 
 
 <p style="background-color: #dfdfdf;"><strong>AAP – How did the collaboration with Andrus Lillepea, Kyle Hughes, Henno Kelp, Runno Tamra come about?</strong></p>
 
@@ -540,7 +539,8 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 *But of course everything that is around influences you, by that I mean everything, not just music.*
 
 
-<p style="background-color: #dfdfdf;"><strong>AAP – What is your guitar practice routine?</strong></p>
+
+<img src="https://all-access-pass.de/wp-content/uploads/2022/02/MG_8603-1-683x1024.jpg" alt="Toomas Vanem II album cover" style="max-width: 500px; max-height: 500px;"> 
 
 *TV – When I was younger then I think I had some practice routine, But now I just practice when it is needed.* 
 
