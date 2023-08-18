@@ -9,21 +9,35 @@ export const interviews = [
     ],
 
     title: "The Undertaker Interview",
-    text: `**THE UNDERTAKER** is a Japanese alternative rock band formed in 2021 in *Hyakunincho/Shinjuku*, consisting of veteran musicians; former members of world-fame bands such as **Survive** and **Aggressive Dogs** a.k.a. **UZI-ONE**.
+    text: `[**THE UNDERTAKER**](https://www.facebook.com/rocktaker666) is a Japanese alternative rock band formed in 2021 in *Hyakunincho/Shinjuku*, consisting of veteran musicians; former members of world-fame bands such as [**Survive**](https://www.facebook.com/survive333) and [**Aggressive Dogs**](http://aggressive-dogs.com/) a.k.a. **UZI-ONE**.
 
 Their rich influences ranging from rock, blues, country, hardcore and punk are blended into a unique sound.
 
 The start of 2022 brought numerous local live performances and topped with the release of their first self-titled digital EP, **“The Undertaker”**, in July 2022. 
 
-**THE UNDERTAKER** have also just inked a deal with **Split Screen Management**, and are aiming to release their full-length album in 2023. 
+[**THE UNDERTAKER**](https://www.facebook.com/rocktaker666) have also just inked a deal with **Split Screen Management**, and are aiming to release their full-length album in 2023. 
 
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 The band declared:
 
-*“The Undertaker, aka Grave Diggers, is a heavy rock band that will bring out the darkness of this changing world and the pus of society. It is an organization formed for the purpose of burying this wild and FAKE society in a spectacular manner, provoking the world with sometimes serious, sometimes ridiculous actions. We are Rock ‘n’ Roll Beast. Listen to our first EP with all your heart!”*
+
+*"The Undertaker, aka Grave Diggers, is a heavy rock band that will bring out the darkness of this changing world and the pus of society.*
+
+*It is an organization formed for the purpose of burying this wild and FAKE society in a spectacular manner, provoking the world with sometimes serious, sometimes ridiculous actions.* 
+
+*We are Rock ‘n’ Roll Beast. Listen to our first EP with all your heart!"*
 
 The band comments on signing:
 
-*“We are very happy to be part of the Split Screen Management family.  We look forward to seeing you all around the world and seeing what our band and Split Screen Management bring to the world.  Everyone who sees this, please support The Undertaker!”*
+*“We are very happy to be part of the Split Screen Management family.  We look forward to seeing you all around the world and seeing what our band and [Split Screen Management](http://www.splitscreenproduction.com/) bring to the world.*
+
+*Everyone who sees this, please support The Undertaker!”*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
 
 **THE UNDERTAKER** line-up:
 
@@ -35,123 +49,138 @@ The band comments on signing:
 
 **Hon-D** – Drums,
 
-![The Undertaker](https://all-access-pass.de/wp-content/uploads/2023/04/THE-UNDERTAKER-logo-1-300x224.jpg) 
+![The Undertaker](https://all-access-pass.de/wp-content/uploads/2023/04/THE-UNDERTAKER-logo-1-300x224.jpg "The Undertaker logo")
 
-**AAP –  Thank you for your time. What is Undertaker doing now?**
+
+<p style="background-color: #dfdfdf;"><strong>AAP –  Thank you for your time. What is Undertaker doing now?</strong></p>
 
 *Hello, we’re currently doing a lot of live shows in Tokyo, the center of Japan. And now I’m writing a lot of songs. I’m writing it for the new album.*
 
 
+<p style="background-color: #dfdfdf;"><strong>AAP –  Let’s meet the band. Can you tell us a little bit about each member of the band and their role within the group?</strong></p>
 
-**AAP –  Let’s meet the band. Can you tell us a little bit about each member of the band and their role within the group?**
+*First of all, I’m NEMO, guitar vocalist. Mainly writing new riffs and writing lyrics. And at the live, this is the man who is venting his anger at the center.*
 
-*First of all, I’m NEMO, guitar vocalist. Mainly writing new riffs and writing lyrics. And at the live, this is the man who is venting his anger at the center. The guitarist is 4410. He is originally from classical music. He does the booking and arrangement publicity for the band. And the drummer is Hong. He is a very studious drummer who is studying a lot of music now. The bassist is a session bassist, but he’s a genius. He can listen to the performance with peace of mind.*
+*The guitarist is 4410. He is originally from classical music. He does the booking and arrangement publicity for the band.*
+
+*And the drummer is Hong. He is a very studious drummer who is studying a lot of music now.* 
+
+*The bassist is a session bassist, but he’s a genius. He can listen to the performance with peace of mind.*
 
 
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-**AAP –  Is the current line-up stable or are there different musicians joining the live show?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Is the current line-up stable or are there different musicians joining the live show?</strong></p>
 
 *The bassist is a session member. The rest of the line-up is stable. Because we used to be friends. We often drink and play together.*
 
 
 
-**AAP –  For international readers unfamiliar with The Undertaker, can you tell us how it started?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  For international readers unfamiliar with The Undertaker, can you tell us how it started?</strong></p>
 
 *This band just let out what’s inside everyone in the midst of this damned pandemic. I started out playing. However, I made a lot of good songs, so I started showing them in front of everyone. I started playing like a party, but now I’m serious about it.*
 
 
 
-**AAP –  How would you describe your music to someone who has never heard it?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  How would you describe your music to someone who has never heard it?**
 
 *Our music is a mixture of 90’s alternative, hard rock, hardcore and rock. Of course, it also smells like good old rock. Think of it as a new sound playing with modern sounds.*
 
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-
-**AAP –  Tell us more about your current EP.**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Tell us more about your current EP.</strong></p>
 
 *The current EP was originally a demo, but all 4 songs were great songs, so I dropped them into the world. The reaction was good. It was ranked #16 on iTunes. It’s sprinkled with psychedelic vibes, hardcore and rock sounds.*
 
 
 
-**AAP –  How are the songs written, are they collaborative or are they usually led by one of her members?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  How are the songs written, are they collaborative or are they usually led by one of her members?</strong></p>
 
 *Where NEMO usually writes riffs and melodies, we jam always. I don’t compromise, but I enjoy it.*
 
 
 
-**AAP –  Where do you get your musical inspiration from?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Where do you get your musical inspiration from?</strong></p>
 
 *We find new inspiration in everything we’ve heard, amazing scenery and good times. I like exciting things.*
 
 
 
-**AAP –  What do you like most and dislike about being a musician?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  What do you like most and dislike about being a musician?</strong></p>
 
-*What you like is to be able to live by doing what you like. Even if we are caught in something, it will break that frame. That’s why musicians can’t quit their jobs. What I don’t like is that the world is getting louder and louder. Maybe it’s mostly because of social net media.*
+*What you like is to be able to live by doing what you like. Even if we are caught in something, it will break that frame. That’s why musicians can’t quit their jobs.* 
 
+*What I don’t like is that the world is getting louder and louder. Maybe it’s mostly because of social net media.*
 
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-**AAP –  You just signed a new partnership with Split Screen Management. How did the collaboration come about?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  You just signed a new partnership with Split Screen Management. How did the collaboration come about?</strong></p>
 
 *They have been able to maintain a good partnership continuing from my previous band. They work hard for the band. That’s why I love it. Great management company.*
 
 
 
-**AAP –  What’s next for The Undertaker?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  What’s next for The Undertaker?</strong></p>
 
 *I want to make an album. And I want to tour a lot and make new trips!*
 
 
 
-**AAP –  How did you get into music? Was it always part of your life or did you focus on it later on?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  How did you get into music? Was it always part of your life or did you focus on it later on?</strong></p>
 
 *I love guitar and it’s been my life since the beginning.*
 
 
 
-**AAP –  Are either of you involved in musical or non-musical side projects?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Are either of you involved in musical or non-musical side projects?</strong></p>
 
 *Right now I’m just concentrating on this band.*
 
 
 
-**AAP –  The year started with quite a few live shows. How has the reaction been so far?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  The year started with quite a few live shows. How has the reaction been so far?</strong></p>
 
 *The reaction is good. People are very interested. However, it’s hard to categorize it because it’s a sound I had never heard before.*
 
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-
-**AAP –  Do you have any upcoming shows?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Do you have any upcoming shows?</strong></p>
 
 *There are a lot of shows booked, mainly in Tokyo, until the fall. Of course I want to tour Europe if I have the chance.*
 
 
 
-**AAP –  You are a very visual band when playing live. What should fans expect from your show?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  You are a very visual band when playing live. What should fans expect from your show?</strong></p>
 
 *We double as a show-up to Rock’s bluntness. That’s why I’m progressing through stages that I can’t read every time. Is that more thrilling?*
 
 
 
-**AAP –  Do you get nervous before the show?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Do you get nervous before the show?</strong></p>
 
 *I’m having fun these days, so I’m not nervous. My previous band was always nervous and crazy enough to want to hurt someone. I’m quietly concentrating. I train the image of the stage all the time.*
 
 
 
-**AAP –  Do you have any funny or interesting stories from the show so far that you could share with us?**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Do you have any funny or interesting stories from the show so far that you could share with us?</strong></p>
 
 *The support guitarist who was in the front drinks a lot. I drink all the time after loading in. And before the stage, after he checked his guitar, he disappeared. it was the best and the worst story so far.*
 
 
 
-**AAP –  Last Question Time – Random Questions. Name at least one thing about Japan that is 100% true and 100% nonsense.**
+<p style="background-color: #dfdfdf;"><strong>AAP –  Last Question Time – Random Questions. Name at least one thing about Japan that is 100% true and 100% nonsense.</strong></p>
 
-*Japan is a very strange country and rock has yet to become a culture. All pop music and idols make me nauseous. This is serious. Japan has a lot of weird rules. After that, we will act as a group. The audience gets excited, and if one person gets excited, everyone gets excited.*
+*Japan is a very strange country and rock has yet to become a culture. All pop music and idols make me nauseous. This is serious.* 
+
+*Japan has a lot of weird rules. After that, we will act as a group. The audience gets excited, and if one person gets excited, everyone gets excited.*
 
 
 
-**AAP –  If there is anything you would like to share and I may have missed, please do so. We look forward to seeing you in Europe.**
+<p style="background-color: #dfdfdf;"><strong>AAP –  If there is anything you would like to share and I may have missed, please do so. We look forward to seeing you in Europe.</strong></p>
 
 
 *See you in Europe! And thank you for your support!*`,
@@ -171,85 +200,157 @@ The band comments on signing:
     tags: ["Godmorgon", "punk"],
     title: "Godmorgon Interview",
 
-    text: `Founded in 2019, **GODMORGON**, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany) that has developed into a death/sludge metal band combining harsh vocals, groovy riffs and raw, straightforward energy.
+    text: `Founded in 2019, GODMORGON, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany) that has developed into a death/sludge metal band combining harsh vocals, groovy riffs and raw, straightforward energy.
 
-The band's sound has been shaped by the many different musical influences of the band's members: hardcore, punk, doom, extreme metal, grindcore and even black metal. Lyrical themes include feminism, anti-capitalism and warnings of an apocalyptic future if humanity continues to let this world go to shit.
+The band’s sound has been shaped by the many different musical influences of the band’s members: hardcore, punk, doom, extreme metal, grindcore and even black metal. Lyrical themes include feminism, anti-capitalism and warnings of an apocalyptic future if humanity continues to let this world go to shit.
 
-Current **GODMORGON** lineup: 
+Current lineup: 
 
-**Itza** (Vocals)
+Itza (Vocals)
 
-**Marvin** (Gitarre)
+Marvin (Gitarre)
 
-**Jan** (Bass/Vocals)
+Jan (Bass/Vocals)
 
-**Simon*+ (Drums)
+Simon (Drums)
 
 As always, a huge *Thank You* to the band for their time, openness and availability!
 
+ 
 
-**All Access Pass – Hello, GODMORGON and thank you for taking the time to talk to All Access Pass. It’s a pleasure to have you here!**
+All Access Pass – Hello, GODMORGON and thank you for taking the time to talk to All Access Pass. It’s a pleasure to have you here!
 
-*Itza: Thank you for having us!*
+ Itza: Thank you for having us!
 
+ 
 
-**AAP – For newer fans, let’s meet everyone in GODMORGON!**
+AAP – For newer fans, let’s meet everyone in GODMORGON!
 
-*I: The band consists of four people: Marvin on guitar, Jan on bass and backing vocals, Simon on the drums and me, Itza, as the lead vocalist.*
+ I: The band consists of four people: Marvin on guitar, Jan on bass and backing vocals, Simon on the drums and me, Itza, as the lead vocalist.
 
+ 
 
+AAP – Your latest material, the “Backlash” EP has been released at the beginning of 2022. A new single and video for the song “Cataclysm” has just been released in May.         How does it feel to finally have your self-titled debut EP out, in the world?
 
-**AAP – Your latest material, the “Backlash” EP has been released at the beginning of 2022. A new single and video for the song “Cataclysm” has just been released in May. How does it feel to finally have your self-titled debut EP out, in the world?**
+I: It was actually quite spontaneous. Our original plan was to record our first album sometime in 2022. But last winter we had an online gig where we had to submit 1-2 pre-recorded songs for a livestream, preferably with live shot videos. We didn’t have that until then and did the songs in one go. We were very happy with how the audio turned out and decided to put it up on Spotify and other streaming services together with our first recorded song from May 2021: “Backlash”. The videos are also on our GODMORGON YouTube channel.
 
-*I: It was actually quite spontaneous. Our original plan was to record our first album sometime in 2022. But last winter we had an online gig where we had to submit 1-2 pre-recorded songs for a livestream, preferably with live shot videos. We didn’t have that until then and did the songs in one go. We were very happy with how the audio turned out and decided to put it up on Spotify and other streaming services together with our first recorded song from May 2021: “Backlash”. The videos are also on our GODMORGON YouTube channel.*
+ 
 
+AAP – You are already back in the saddle working on your first full album. How are things progressing?
 
+I: At the moment not as well as we’d like. We are currently quite busy with personal stuff and also preparing and looking forward to our next live show in August. It’s going to be at AZ Mülheim on 13th August! I’m actually organising the event.
 
-**AAP – You are already back in the saddle working on your first full album. How are things progressing?**
+ 
 
-*I: At the moment not as well as we’d like. We are currently quite busy with personal stuff and also preparing and looking forward to our next live show in August. It’s going to be at AZ Mülheim on 13th August! I’m actually organising the event.*
+AAP – What are some technical details regarding the album? 
 
+I: As before we are recording and mixing everything ourselves again. Simon has become our “sound guy” and coordinates the recording and does the mixing, of course with feedback from the rest of the band. I think you can really hear the progress in terms of quality of the recordings if you compare e.g. “Backlash” and “Cataclysm”. There’s a lot to learn when it comes to audio engineering. For the cover art we don’t have a specific vision yet, but it is probably going to be in the style of the previous covers, so rather a photo than a drawing. 
 
+ 
 
-**AAP – What are some technical details regarding the album?**
+AAP – Your previous musical offerings were 100% DIY. There is a lot of work and effort but I can imagine rewarding as well. How are responsibilities shared within GODMORGON? 
 
-*I: As before we are recording and mixing everything ourselves again. Simon has become our “sound guy” and coordinates the recording and does the mixing, of course with feedback from the rest of the band. I think you can really hear the progress in terms of quality of the recordings if you compare e.g. “Backlash” and “Cataclysm”. There's a lot to learn when it comes to audio engineering. For the cover art we don't have a specific vision yet, but it is probably going to be in the style of the previous covers, so rather a photo than a drawing.*
+I: As I just mentioned Simon takes care of the recordings. Jan did the Backlash video, in the future it would be cool to make a video together, featuring all band members. The guitar and bass parts of the songs are usually documented in GuitarPro which is done by Marvin. I take care of the management and communication side of things, including social media and write almost all of the lyrics. However, the lyrics for half of our pusblished songs, “Ritual Suicide” and “Backlash”, were written by Jan. So compared to other bands we really try to share the tasks and everyone has a special niche.
 
+ 
 
+AAP . How are new ideas being created? And does usually the musical backbone or the lyrics come first?
 
-**AAP – Your previous musical offerings were 100% DIY. There is a lot of work and effort but I can imagine rewarding as well. How are responsibilities shared within GODMORGON?**
+I: If someone has a new idea we try to document and send it around or just show it during the next band practice session. Then the others chime in and do their parts. Some of the songs were created based on lyrics but most of the times the instrumentals come first.
 
-*I: As I just mentioned Simon takes care of the recordings. Jan did the Backlash video, in the future it would be cool to make a video together, featuring all band members. The guitar and bass parts of the songs are usually documented in GuitarPro which is done by Marvin. I take care of the management and communication side of things, including social media and write almost all of the lyrics. However, the lyrics for half of our pusblished songs, “Ritual Suicide” and “Backlash”, were written by Jan. So compared to other bands we really try to share the tasks and everyone has a special niche.*
+ 
 
-![Godmorgon](https://all-access-pass.de/wp-content/uploads/2022/06/DSC_5371_-684x456.jpg)
+AAP  – Do you have a practice routine as a band or individually?
 
-**AAP – What do you find challenging in being an artist, both on a positive spin and a negative one?**
+I: We usually meet once a week and most of the practice is done there. We are also quite effective during these sessions. No drinking and just hanging out – we really practice!
 
-*I: It takes time and time is what most of us are lacking. For the management and social media tasks I can always find time to squeeze it in between. But when you want to focus and be creative you usually need a bit more time and you cannot force it. This can be challenging. On the positive side it’s really cool to get feedback from people who listen to your music and be able to share that joy with others.*
+ 
 
+AAP – Is every idea taken into consideration when writing music? 
 
+I: Everybody is free to suggest something but everyone in the band has to be ok with it. So if we write new parts everyone has to like it. Otherwise, it will be reworked until everyone is fine with it.
 
-**AAP – Do you consider your voice as an instrument – tool?**
+ 
 
-*I: Definitely! Besides being able to express myself with my lyrics I think, especially with “extreme” vocals you can definitely create a certain atmosphere and get feelings across quite well.*
+AAP – Your musical styles are quite eclectic. Did the musical direction come natural for you or was it something you decided upon?
 
+I: It’s funny because we all listen to different styles of music and have different influences and I think you can really hear it in the finished songs. Marvin really likes musical complexity and is usually the one to suggest a sudden change of pace among other things. Jan has a very different vocal style from me and does long shouts, whereas I usually have a lot to say and pack a lot of lyrics into the songs. There are a lot of other ways in which we differ musically but I think this is what makes our music interesting – it doesn’t exactly fit one specific genre.
 
+ 
 
-**AAP – How much of your success do you think is achieved through social media?**
+AAP – What does GODMORGON find cliche on the metal scene?
 
-*I: Unfortunately, I think it plays a big role unless you just happen to know lots of people in your local scene. When looking for bands for gigs people also look at your follower count to determine whether people would be interested in seeing your show. But first and foremost, we care about music and not generating content all the time. If there’s something worth sharing, we’ll share it though!*
+That metal is only for tough guys! I think that’s very outdated but a lot of bands you see still try to fit this image. For our live show in August, (link redirects to the Facebook event with lineup consisting in Pisscharge and GVLA at AZ Mülheim on 13.8.2022- event organized by Violent Witch Events) I wanted bands with at least one female member to play with us as most shows just have men on stage. And I found a lot of very cool bands!
 
+ 
 
+AAP – What are some unwritten rules in the industry that you have experienced?
 
-**AAP – Time for the last question, The Random Question: What is invisible but you wish people would see?**
+Not too many as we are still very underground, but so far, I think networking is – as in any industry – very important and helpful. It’s really beneficial to know some people in the scene and it’s also cool for us to get more and more involved. 
 
-*I: How much of a positive impact just being friendly can have. It doesn’t cost a thing and we should all try to empower each other instead of trying to outdo one another.*
+ 
 
+AAP – Which skills or exp have you gained that help you perform effectively as a musician since the beginning how do they feel that they have evolved as musicians or organisational wise?
 
+I: Apart from improving our musical skills, our songwriting skills have improved too and nowadays we are very fast. Like any other skill, you just improve with practice. As mentioned before, we’ve also learned how important networking is within the local scene. Over time we got to know more and more people which also leads to more opportunities. It was just announced that GODMORGON also joined the local UNTIER Collective. It’s a collective of local bands within the realm of metal and noise because we realised that as bands without labels, we are just stronger together.
 
-**AAP – Thank you for taking the time to do this, it was really nice meeting you. In case there is anything else you would like to mention and send a message for your fans, please do so!**
+ 
 
-*I: Thank you so much for the interview, it was really fun! I just want to repeat that our next gig is on 13th August at AZ Mülheim. Also check out the other bands in the UNTIER Collective. And I want to encourage everyone who’s interested in making music to try it out!*
+AAP – What piece of advice would you give bands who are at beginning of their musical road?
+
+Don’t focus on fitting a certain genre and which label to give yourselves. Your musical style will develop by writing more and more songs. Be creative and be yourselves!
+
+ 
+
+AAP – Is either of you involved in any musical or non-musical side-projects?
+
+I: Yes, Simon, Jan and I have two other projects together. One riot grrrl inspired project I initiated because this is also music I listen to and some songs I’ve written just fall into this category. The other one is a grindcore project. Marvin is interested in starting a hardcore side-project.
+
+ 
+
+AAP – What do you find challenging in being an artist, both on a positive spin and a negative one?
+
+I: It takes time and time is what most of us are lacking. For the management and social media tasks I can always find time to squeeze it in between. But when you want to focus and be creative you usually need a bit more time and you cannot force it. This can be challenging. On the positive side it’s really cool to get feedback from people who listen to your music and be able to share that joy with others.
+
+ 
+
+AAP – Do you consider your voice as an instrument – tool?
+
+I: Definitely! Besides being able to express myself with my lyrics I think, especially with “extreme” vocals you can definitely create a certain atmosphere and get feelings across quite well.
+
+ 
+
+AAP – How much of your success do you think is achieved through social media? 
+
+I: Unfortunately, I think it plays a big role unless you just happen to know lots of people in your local scene. When looking for bands for gigs people also look at your follower count to determine whether people would be interested in seeing your show. But first and foremost, we care about music and not generating content all the time. If there’s something worth sharing, we’ll share it though!
+
+ 
+
+AAP – Time for the last question, The Random Question: What is invisible but you wish people would see?
+
+I: How much of a positive impact just being friendly can have. It doesn’t cost a thing and we should all try to empower each other instead of trying to outdo one another.
+
+ 
+
+AAP – Thank you for taking the time to do this, it was really nice meeting you. In case there is anything else you would like to mention and send a message for your fans, please do so!
+
+I: Thank you so much for the interview, it was really fun! I just want to repeat that our next gig is on 13th August at AZ Mülheim. Also check out the other bands in the UNTIER Collective. And I want to encourage everyone who’s interested in making music to try it out!
+
+ 
+
+GODMORGON ONLINE:
+
+FACEBOOK
+
+INSTAGRAM
+
+BANDCAMP
+
+SPOTIFY
+
+SOUNDCLOUD
+
+YOUTUBE
 `,
 
     summary: `Founded in 2019, GODMORGON, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany). `,

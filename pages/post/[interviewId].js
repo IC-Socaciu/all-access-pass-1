@@ -67,12 +67,13 @@ export default function InterviewArticle() {
   };
 
   return (
-    <article>
+    <StyledArticle>
       <TitleContainer>{article?.title}</TitleContainer>
       <ThumbUpContainer>
         <ThumbUpIcon onClick={handleLikeClick} />
         <span>{likes}</span>
       </ThumbUpContainer>
+      <StyledSeparator />
       <ImageContainer>
         <Image src={article?.image} alt={article?.title} />
       </ImageContainer>
@@ -111,23 +112,20 @@ export default function InterviewArticle() {
           </Comment>
         ))}
       </CommentsContainer>
-    </article>
+    </StyledArticle>
   );
 }
 
 const TextContainer = styled.div`
-  padding-left: 20px;
+  padding: 10px;
+
   margin-top: 0;
   word-break: normal;
-  margin-bottom: 120px;
-  margin-left: 20px;
+  margin-inline: 10px;
+  text-align: justify;
 `;
 const ImageContainer = styled.div`
-  max-width: 150px;
-  max-height: 250px;
-  float: left;
-  margin-left: 20px;
-  margin-right: 20px;
+  max-width: 100%;
 `;
 const Image = styled.img`
   max-width: 100%;
@@ -144,23 +142,23 @@ const TitleContainer = styled.h2`
 const ThumbUpContainer = styled.button`
   display: flex;
   align-items: center;
-  margin-top: 10px;
   border: none;
   outline: none;
+  text-decoration: none;
+  background-color: #fafafa;
 `;
 const ThumbUpIcon = styled(ThumbUps)`
   width: 20px;
   height: 20px;
-  margin-right: 5px;
   fill: #95091b;
-  margin-left: 13px;
-  margin-bottom: 10px;
+  margin-inline: 15px;
   text-decoration: none;
-  padding: 0;
 `;
 const CommentsContainer = styled.div`
   margin-top: 20px;
   margin-bottom: 200px;
+
+  margin-bottom: 100px;
 `;
 const InputContainer = styled.div`
   margin-bottom: 10px;
@@ -172,19 +170,18 @@ const TextInput = styled.input`
   width: 100%;
   padding: 5px;
   font-size: 16px;
-  border-radius: 5px;
-  border: 1px solid #ccc;
-  outline: none;
+  border-radius: 0.25em;
+  border: 1px solid #dfdfdf;
 `;
 const TextArea = styled.textarea`
   width: 100%;
   padding: 5px;
   font-size: 16px;
   border-radius: 5px;
-  border: 1px solid #ccc;
-  outline: none;
+  border: 1px solid #dfdfdf;
+  border-radius: 0.25em;
   resize: vertical;
-  height: 150px;
+  height: 100px;
 `;
 const ButtonContainer = styled.div`
   text-align: right;
@@ -197,7 +194,7 @@ const SubmitButton = styled.button`
   border: solid 2px #95091b;
   border-radius: 0.25em;
   background-color: #fafafa;
-  color: red;
+  color: #95091b;
   margin-top: 10px;
   cursor: pointer;
   transition: background-color 0.3s;
@@ -209,6 +206,7 @@ const SubmitButton = styled.button`
 const Comment = styled.div`
   margin-bottom: 20px;
   border: 2px solid #95091b;
+  border-radius: 0.25em;
 `;
 const CommentName = styled.div`
   font-weight: bold;
@@ -220,4 +218,17 @@ const CommentMessage = styled.div`
 const CharCount = styled.div`
   font-size: 12px;
   margin-top: 5px;
+`;
+const StyledSeparator = styled.hr`
+  border-bottom: 1px solid #dfdfdf;
+  margin-bottom: 25px;
+  width: 280px;
+  box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25);
+  filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));
+`;
+const StyledArticle = styled.article`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
 `;
