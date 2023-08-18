@@ -412,7 +412,12 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
   {
     id: "3",
     page: "1",
-    tags: ["Toomas Vanem", "Merliis Järve"],
+    tags: [
+      "Toomas Vanem",
+      "Merliis Järve",
+      "RoundSound Studios",
+      "Maris Savik",
+    ],
 
     title: "Toomas Vanem Interview",
 
@@ -420,13 +425,16 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 Over the years Toomas has played in multiple rock bands and projects and has remarkable career also as session musician.
 
-In 2014 Toomas Vanem wrote, recorded and produced his first solo instrumental progressive rock music album **“Toomas Vanem I”**, which features American bass legend *Stu Hamm*. The compositions on the album are harsh, but also varied and colorful. A collage of different stories / stories about the world and life written in the language of music.
+In 2014 [**Toomas Vanem**](https://www.facebook.com/ToomasGuitar/‚) wrote, recorded and produced his first solo instrumental progressive rock music album **“Toomas Vanem I”**, which features American bass legend *Stu Hamm*. 
 
-**“Toomas Vanem II”**, was released at the beginning of 2022 and it is self described as *“unique blend of styles from jazz to metal fusion music that is far beyond the limits of your imagination”*. 
-**“Toomas Vanem II”** was mixed and produced by **Toomas Vanem** and mastered by **Keijo Koppel** at **RoundSound Studios**. 
-The cover art is signed by **Merliis Järve** and the album design was realized by **Maris Savik**.
+The compositions on the album are harsh, but also varied and colorful. A collage of different stories / stories about the world and life written in the language of music.
 
-In recent news, [TOOMAS VANEM](https://www.facebook.com/ToomasGuitar/‚) has been invited to play on festival **SÕRU JAZZ FESTIVAL**, which will be held on 18.06.2022 on the Estonian island of Hiiumaa.
+**“Toomas Vanem II”**, was released at the beginning of 2022 and it is self described as *"a unique blend of styles from jazz to metal fusion music that is far beyond the limits of your imagination”*. 
+
+**“Toomas Vanem II”** was mixed and produced by [**Toomas Vanem**](https://www.facebook.com/ToomasGuitar/‚) and mastered by **Keijo Koppel** at [**RoundSound Studios**](https://de-de.facebook.com/RoundSoundStuudio). 
+The cover art is signed by [**Merliis Järve**](https://www.instagram.com/merliisart/?hl=de) and the album design was realized by [**Maris Savik**](https://www.instagram.com/preilimaris/?hl=de).
+
+In recent news, [**Toomas Vanem**](https://www.facebook.com/ToomasGuitar/‚) has been invited to play on festival [**SÕRU JAZZ FESTIVAL**](https://www.facebook.com/sorujazz), which will be held on 18.06.2022 on the Estonian island of Hiiumaa.
 
 
 *As always, a huge **Thank You** for your time, openness and availability!*
@@ -448,72 +456,143 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 *I am very grateful to all the fabulous people that helped and supported me to finish **“Toomas Vanem II”** and pushed me towards the release. Thank you so much!*
 
 
-<p style="background-color: #dfdfdf;"><strong>AAP – The tracks on the “Toomas Vanem II” album are just as assorted style-wise but the sound and approach are slightly darker and heavier. The influences appear to be infiltrated even more subtly in each song. Looking back to your previous solo material “Toomas Vanem I” do the new ideas start spontaneous or you start with a vision of what you want the album to sound like?</strong></p>
+<p style="background-color: #dfdfdf;"><strong>AAP – The tracks on the “Toomas Vanem II” album are just as assorted style-wise but the sound and approach are slightly darker and heavier. 
 
-*TV – Well there is both! I write music quite spontaneously, whatever comes to my mind and whatever mood I am in, and so on. I usually come up with composing about 12-15 songs for album. At some point I stop and start looking back what I have written, and choose tracks that will end up on the album, and finish them. I might change also the arrangements to fit the overall mood a bit for album.
+The influences appear to be infiltrated even more subtly in each song. 
 
-In general I want my album to sound happy and make people feeling good while listening to it. On my first solo album I was experimenting with different styles. On new album the experimenting continues and to be honest my vision or goal for the great instrumental guitar album is kind of old school maybe, but I like Jeff Beck records for instance, where tracks wary little bit genre or style-wise, but there is still Jeff’s guitar playing on top all of them. And you don’t get bored listening. Those are different stories that guitar player is telling you through his music on the album. I have listened to some so called conceptual albums, where for me, there is really only one song happening on the album, all the other tracks are kind of versions of that same song. I try to avoid that with my albums. I like stories! It keeps things fresh for me! With that in mind, my albums are conceptual, just I have a different concept!*
+Looking back to your previous solo material “Toomas Vanem I” do the new ideas start spontaneous or you start with a vision of what you want the album to sound like?</strong></p>
+
+*TV – Well there is both! I write music quite spontaneously, whatever comes to my mind and whatever mood I am in, and so on.*
+ 
+*I usually come up with composing about 12-15 songs for album. At some point I stop and start looking back what I have written, and choose tracks that will end up on the album, and finish them* 
+
+*I might change also the arrangements to fit the overall mood a bit for album.*
+
+*In general I want my album to sound happy and make people feeling good while listening to it. On my first solo album I was experimenting with different styles.* 
+
+*On new album the experimenting continues and to be honest my vision or goal for the great instrumental guitar album is kind of old school maybe, but I like Jeff Beck records for instance, where tracks wary little bit genre or style-wise, but there is still Jeff’s guitar playing on top all of them.* 
+
+*And you don’t get bored listening. Those are different stories that guitar player is telling you through his music on the album.* 
+
+*I have listened to some so called conceptual albums, where for me, there is really only one song happening on the album, all the other tracks are kind of versions of that same song.* 
+
+*I try to avoid that with my albums. I like stories! It keeps things fresh for me! With that in mind, my albums are conceptual, just I have a different concept!*
 
 
 <p style="background-color: #dfdfdf;"><strong>AAP – How did the collaboration with Andrus Lillepea, Kyle Hughes, Henno Kelp, Runno Tamra come about?</strong></p>
 
-* TV – Andrus and Henno are good buddies of mine and hell of a great professional musicians. They are my partners to do also live shows with when we have a chance to play my music. Kyle Hughes appears on the album as quest star. He somehow heard my first album and liked it so much that contacted me and offered to play tracks to my new album. I said why not, lets do it, and Kyle did his brilliant drumming at UK and send files to me over the internet.*
+*TV – Andrus and Henno are good buddies of mine and hell of a great professional musicians. They are my partners to do also live shows with when we have a chance to play my music.* 
 
+*Kyle Hughes appears on the album as quest star. He somehow heard my first album and liked it so much that contacted me and offered to play tracks to my new album.* 
+
+*I said why not, lets do it, and Kyle did his brilliant drumming at UK and send files to me over the internet.*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Do you have a personal favorite track off the “Toomas Vanem II” album? And why?</strong></p>
 
 *TV – Well, not really. I dig them all.*
 
 
-<p style="background-color: #dfdfdf;"><strong>AAP – As an artist that masters both, would you tip the scales in favour of melody or virtuosity? Which one is more important or if this is the same case for you?</strong></p>
+<p style="background-color: #dfdfdf;"><strong>AAP – As an artist that masters both, would you tip the scales in favour of melody or virtuosity? 
 
-*TV – For me, music is melody! The melody could be simple and It could be super complex, but it has to touch your ears as a listener on emotional basis. Music without melody is not music at all for me. There exists music without a melody but I am not super excited about that. I think some sort of virtuosity is also needed to impress listeners and entertain your audience or public. But it does not mean that you must or have play fast. Virtuosity is much more than just random fast shred on the neck of the guitar.*
+Which one is more important or if this is the same case for you?</strong></p>
 
-<p style="background-color: #dfdfdf;"><strong>AAP – What is you composing approach, you seem to use lot of scales and unusual chords and harmonies. Tell us more about how you write your music?</strong></p>
+*TV – For me, music is melody! The melody could be simple and It could be super complex, but it has to touch your ears as a listener on emotional basis.*
 
-*TV – The chords and scales are the same thing really. For my compositional concept chords and harmonies comes from scales. On both my albums I have used plenty of unusual exotic scales. By that I mean I try to look away, to the different direction from major/minor or blues scale. Which are also fine. I have used Indian scales (Pantuvarali) and Modes of melodic minor and other stuff. Thing is, I take a scale and write it down on the paper, all the different chords that are possible to construct from that scale notes. Then I start experimenting and playing around with those chords, and compose melodies or riffs out of that scale, and modulate and do other crazy stuff. This is nothing new to jazz musicians or players. But in rock music this is not so common.*
+*Music without melody is not music at all for me. There exists music without a melody but I am not super excited about that. I think some sort of virtuosity is also needed to impress listeners and entertain your audience or public.* 
 
+*But it does not mean that you must or have play fast. Virtuosity is much more than just random fast shred on the neck of the guitar.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – What is you composing approach, you seem to use lot of scales and unusual chords and harmonies. 
+
+Tell us more about how you write your music?</strong></p>
+
+*TV – The chords and scales are the same thing really. For my compositional concept chords and harmonies comes from scales.* 
+
+*On both my albums I have used plenty of unusual exotic scales. By that I mean I try to look away, to the different direction from major/minor or blues scale. Which are also fine.*
+
+*I have used Indian scales (Pantuvarali) and Modes of melodic minor and other stuff.* 
+
+*Thing is, I take a scale and write it down on the paper, all the different chords that are possible to construct from that scale notes.* 
+
+*Then I start experimenting and playing around with those chords, and compose melodies or riffs out of that scale, and modulate and do other crazy stuff.* 
+
+*This is nothing new to jazz musicians or players. But in rock music this is not so common.*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – When writing new music do you seclude yourself from any influences or, on the contrary, listen to more music and expose yourself to more styles and new artists?</strong></p>
 
-*TV – I think that I can not seclude myself from the influences that I have, cause they are deep inside of me anyway. But what I do when I am writing, I try to let go of everything that I have heard and let my imagination fly free. And move fast to the directions that my creative mind wants to go. I don’t want to finish the details as I write, cause this would put breaks and stop the creative juice flowing. I can always come back later, next day and re-polish things when I am arranging/producing the song.
+*TV – I think that I can not seclude myself from the influences that I have, cause they are deep inside of me anyway. But what I do when I am writing, I try to let go of everything that I have heard and let my imagination fly free.* 
 
-And another thing is that I am constantly trying to grow to not sound as other artists and would like to have my own style. But of course everything that is around influences you, by that I mean everything, not just music.*
+*And move fast to the directions that my creative mind wants to go. I don’t want to finish the details as I write, cause this would put breaks and stop the creative juice flowing.* 
+
+*I can always come back later, next day and re-polish things when I am arranging/producing the song.*
+
+*And another thing is that I am constantly trying to grow to not sound as other artists and would like to have my own style.* 
+
+*But of course everything that is around influences you, by that I mean everything, not just music.*
 
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What is your guitar practice routine?</strong></p>
 
-*TV – When I was younger then I think I had some practice routine, But now I just practice when it is needed. And It always happens to be in the last minute…hahaha… Like before new gig with my music from my albums. Try to figure out, how the hell I am gonna play this stuff. But seriously just to get my fingers moving I do from time to time some exercising. It could be Frank Gambali’s „Chop Builder“ video that will get me in shape pretty quickly or some other stuff.*
+*TV – When I was younger then I think I had some practice routine, But now I just practice when it is needed.* 
+
+*And It always happens to be in the last minute…hahaha… Like before new gig with my music from my albums. Try to figure out, how the hell I am gonna play this stuff.* 
+
+*But seriously just to get my fingers moving I do from time to time some exercising. It could be Frank Gambali’s „Chop Builder“ video that will get me in shape pretty quickly or some other stuff.*
 
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Do you have any favourite gear piece / setup? You also seem to be quite open to 6+ stringed guitars and instruments.</strong></p>
 
-*TV – My gear is changing constantly and I have a ton of it. Tube amps, cabinets, pedals, effects… But one thing that I use constantly over the past 20 years or so is IBANEZ guitars. I own some great „Prestige“ series Japan made RG series axes, and the playability and quality of those is perfect for my. I have some 7 string instruments also but to be honest I prefer 6 string. I use 7 string for lower notes mainly.*
+*TV – My gear is changing constantly and I have a ton of it. Tube amps, cabinets, pedals, effects… But one thing that I use constantly over the past 20 years or so is IBANEZ guitars.* 
+
+*I own some great „Prestige“ series Japan made RG series axes, and the playability and quality of those is perfect for my. I have some 7 string instruments also but to be honest I prefer 6 string. I use 7 string for lower notes mainly.*
 
 
 
 
 <p style="background-color: #dfdfdf;"><strong>AAP – When you listen to a new guitar player for the first time what are some of the elements that you for?</strong></p>
 
-*TV – I think the most important thing that tunes me on is tone. And this comes from the fingers of the player, and has nothing to do with the gear that he or she is using. Not even from the guitar. Believe or not, but I can hear the players fingers. And when I like what I hear, I am IN. Next thing is the note choice, or how tasteful the player is. Then I might listen to the technical skills of the musician and how clean is the performance or is it muddy as hell.*
+*TV – I think the most important thing that tunes me on is tone. And this comes from the fingers of the player, and has nothing to do with the gear that he or she is using.* 
+
+*Not even from the guitar. Believe or not, but I can hear the players fingers. And when I like what I hear, I am IN.* 
+
+*Next thing is the note choice, or how tasteful the player is. Then I might listen to the technical skills of the musician and how clean is the performance or is it muddy as hell.*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP –  You’ve been playing and writing music for a great deal of time. Since it is a tool, how do you feel that the guitar has changed over time?</strong></p>
 
-*TV – This is a good question. When I was a kid I listened to the bands like Led Zeppelin and Deep Purple…and the guitar was essential part of every rock even pop productions. There were great guitar heroes, Richie Blackmore, Eddie Van Halen…
+*TV – This is a good question. When I was a kid I listened to the bands like Led Zeppelin and Deep Purple… and the guitar was essential part of every rock even pop productions.* 
 
-and guitar playing thing happened and evolved super fast, it was invented most of it, back then! 80,s 90,s were the golden area. When you listened back even pop hit songs of that era, the impressive and great guitar solo was always the part of the big production. It was like a cherry on the cake. Somehow winds did change late 90-s and you did not hear anymore those solos as a part of production. Even radio stations started fade out songs when the guitar solo kicks in. Fortunately today we have metal and progressive rock bands like Dream Theatre, who holds the guitar playing flag high enough. And I think there are plenty of fantastic solo guitar players out there, so lets hope for the best, for guitar!*
+*There were great guitar heroes, Richie Blackmore, Eddie Van Halen… and guitar playing thing happened and evolved super fast, it was invented most of it, back then!*
+
+*80,s 90,s were the golden era. When you listened back even pop hit songs of that era, the impressive and great guitar solo was always the part of the big production.* 
+
+*It was like a cherry on the cake. Somehow winds did change late 90-s and you did not hear anymore those solos as a part of production.* 
+
+*Even radio stations started fade out songs when the guitar solo kicks in.* 
+
+*Fortunately today we have metal and progressive rock bands like Dream Theatre, who holds the guitar playing flag high enough. And I think there are plenty of fantastic solo guitar players out there, so lets hope for the best, for guitar!*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What do you consider as the essential elements of your music?</strong></p>
 
-*TV – The thing is melody, it has to have it. It is sometimes simple, sometimes more complex but melody is needed, even on solo sections.
+*TV – The thing is melody, it has to have it. It is sometimes simple, sometimes more complex but melody is needed, even on solo sections.*
 
-And another thing is the inner power (or emotion, vibe), by that I mean it needs to have that amount of power to touch or shake somebody on an emotional level. Even me.*
+*And another thing is the inner power (or emotion, vibe), by that I mean it needs to have that amount of power to touch or shake somebody on an emotional level. Even me.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – As a solo artist does the direct attention make you feel more exposed? As opposed to being part of a joint effort in a band?</strong></p>
 
-*TV – As a solo artist It makes you feel super responsible for the whole show. You have to hold the thing together. Everybody’s eyes are on you 100% of the time. You can’t fail! As opposed to be a part of the band, you will have your moments, but 100% attention will be always on the frontman, and he/she has the heavy load on the shoulders.
+*TV – As a solo artist It makes you feel super responsible for the whole show. You have to hold the thing together. Everybody’s eyes are on you 100% of the time. You can’t fail!* 
 
-I learned this lesson when I started my solo artist live gigs and it is super hard at first, but it gets better with the time.*
+*As opposed to be a part of the band, you will have your moments, but 100% attention will be always on the frontman, and he/she has the heavy load on the shoulders.*
+
+*I learned this lesson when I started my solo artist live gigs and it is super hard at first, but it gets better with the time.*
 
 
 
@@ -521,13 +600,22 @@ I learned this lesson when I started my solo artist live gigs and it is super ha
 
 *TV – Metal! and Jazz! And Classical music!* 
 
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
 <p style="background-color: #dfdfdf;"><strong>AAP – How would you comment on the experience as a solo artist vs. being a band member?</strong></p>
 
 *TV – The experience is amazing and when you get positive feedback It makes you feel that you are doing the right thing. That someone was entertained because of you! This is wonderful feeling!*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – You studies clarinet as a child but were motivated as a teenager you pick up the guitar after seeing a rehearsal. Tell us about your first memory picking up the guitar? Would you choose a different path now?</strong></p>
 
-*TV – As long as I remember it was earth shaking feeling. The first memories are that I pick up the guitar, on the local high school band casting, that I was invited buy and they somehow thought that I know how to play a guitar. I did not! I only knew how to play clarinet, and this was totally different animal. Ok I plugged it to an amplifier and I probably knew how to finger open Em chord. And that was it, I was in the band. And I don’t regret anything, I would not choose different path.*
+*TV – As long as I remember it was earth shaking feeling. The first memories are that I pick up the guitar, on the local high school band casting, that I was invited buy and they somehow thought that I know how to play a guitar.*
+
+*I did not!* 
+
+*I only knew how to play clarinet, and this was totally different animal. Ok I plugged it to an amplifier and I probably knew how to finger open Em chord.* 
+
+*And that was it, I was in the band. And I don’t regret anything, I would not choose different path.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – How often does overdubbing come to play?</strong></p>
 
@@ -535,17 +623,21 @@ I learned this lesson when I started my solo artist live gigs and it is super ha
 
 <p style="background-color: #dfdfdf;"><strong>AAP – When do you feel a song is done and can be added on an album?</strong></p>
 
-*TV – I don’t know? I just feel at some point that all the building blocks are in right places and I have to make that decision, otherwise my music will never be released, cause you always can find those little pieces that you want to fix. It is also like you have to let go of your baby, when you feel that it is the time. And the peace of mind follows.*
+*TV – I don’t know? I just feel at some point that all the building blocks are in right places and I have to make that decision, otherwise my music will never be released, cause you always can find those little pieces that you want to fix.* 
+
+*It is also like you have to let go of your baby, when you feel that it is the time. And the peace of mind follows.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Are you your biggest and ultimate critic?</strong></p>
 
-*TV – Ooo yes, I am. When I record something, I constantly discover myself in a moment that I need to stop myself not to over improve stuff, that is perfectly fine already.
+*TV – Ooo yes, I am. When I record something, I constantly discover myself in a moment that I need to stop myself not to over improve stuff, that is perfectly fine already.*
 
-And as my good friend, great guitar guru, wise man once said, “you can’t play better than somebody, the only one that you can play better than is yourself” …I am in that trap forever.*
+*And as my good friend, great guitar guru, wise man once said, “you can’t play better than somebody, the only one that you can play better than is yourself” …I am in that trap forever.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What did you find to be the biggest challenges during the creation process?</strong></p>
 
-*TV – Maybe the greatest challenge is to get or set yourself in the right mood, to let the creative flow happen. Sometimes it happens, sometimes not. And you have to accept that! This was not the day. Simple as that and move on.*
+*TV – Maybe the greatest challenge is to get or set yourself in the right mood, to let the creative flow happen.* 
+
+*Sometimes it happens, sometimes not. And you have to accept that! This was not the day. Simple as that and move on.*
 
 
 
@@ -555,21 +647,29 @@ And as my good friend, great guitar guru, wise man once said, “you can’t pla
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Outside the music realm, what are some other activities that Toomas enjoys just as much?**
 
-*TV – As I live countryside, not far from the big city I have my property, and in summertime I like to build stuff. I have some good quality tools for woodworking and I name it constructing. I enjoy it really. I also have a 7,2m long motor boat and in summer the best time is on the sea just cruising or sometimes even try to catch some fish.*
+*TV – As I live countryside, not far from the big city I have my property, and in summertime I like to build stuff.* 
 
-<p style="background-color: #dfdfdf;"><strong>AAP – Time for the last questions, THE RANDOM QUESTION. Name at least 1 “fact” about Estonia that is 100% true and one that is 100% nonsense?</strong></p>
+*I have some good quality tools for woodworking and I name it constructing. I enjoy it really.* 
+
+*I also have a 7,2m long motor boat and in summer the best time is on the sea just cruising or sometimes even try to catch some fish.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Time for the last questions, THE RANDOM QUESTION.* 
+
+*Name at least 1 “fact” about Estonia that is 100% true and one that is 100% nonsense?</strong></p>
 
 *TV – For that answer I did some googling.
 
-This fact is 100% true: „The world’s most performed living composer, Arvo Pärt, is an Estonian.“
+This fact is 100% true: „The world’s most performed living composer, Arvo Pärt, is an Estonian.“*
 
-The fact that is completely nonsense to me is: “Estonia has the highest number of supermodels per capita”.*
+*The fact that is completely nonsense to me is: “Estonia has the highest number of supermodels per capita”.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Toomas, thank you once again for your time and interest in speaking to us.</strong></p>
 
-*TV – Thank you and If you have an interest to my music please have listen to it on Spotify or other digital platforms. In case you have interest to physical copies you can find me on Facebook or Instagram and order those from me directly.
+*TV – Thank you and If you have an interest to my music please have listen to it on Spotify or other digital platforms.* 
 
-Take care and good luck!*`,
+*In case you have interest to physical copies you can find me on Facebook or Instagram and order those from me directly.*
+
+*Take care and good luck!*`,
 
     summary:
       "Berlin based high-speed thrashers Reactory aligned their technicality, uncompromising variety and warp-like speed back in 2010.",
@@ -936,7 +1036,6 @@ At the moment the band is housing their own studio to create their next release.
 
 *CF – It definitely is a result of everybody’s preferences. We got no real masterplan when it comes to creating the sound or writing songs. Everybody adds his influences and the result is Infected Chaos.*
 
-![Infected Chaos](https://all-access-pass.de/wp-content/uploads/2022/06/TRY2-684x457.jpg)
 
 **AAP – What is your writing process? Is composition impulsive and intuitive?**
 
