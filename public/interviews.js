@@ -233,7 +233,9 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 
 
-<p style="background-color: #dfdfdf;"><strong>AAP – Your latest material, the “Backlash” EP has been released at the beginning of 2022. A new single and video for the song “Cataclysm” has just been released in May. How does it feel to finally have your self-titled debut EP out, in the world?</strong></p>
+<p style="background-color: #dfdfdf;"><strong>AAP – Your latest material, the “Backlash” EP has been released at the beginning of 2022 and a new single and video for the song “Cataclysm” has just been released in May.
+
+How does it feel to finally have your self-titled debut EP out, in the world?</strong></p>
 
 *I: It was actually quite spontaneous. Our original plan was to record our first album sometime in 2022.*
 
@@ -327,7 +329,9 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What are some unwritten rules in the industry that you have experienced?</strong></p>
 
-*Not too many as we are still very underground, but so far, I think networking is – as in any industry – very important and helpful. It’s really beneficial to know some people in the scene and it’s also cool for us to get more and more involved.*
+*Not too many as we are still very underground, but so far, I think networking is – as in any industry – very important and helpful.* 
+
+*It’s really beneficial to know some people in the scene and it’s also cool for us to get more and more involved.*
 
  
 
@@ -345,7 +349,9 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What piece of advice would you give bands who are at beginning of their musical road?</strong></p>
 
-*Don’t focus on fitting a certain genre and which label to give yourselves. Your musical style will develop by writing more and more songs. Be creative and be yourselves!*
+*Don’t focus on fitting a certain genre and which label to give yourselves. Your musical style will develop by writing more and more songs.* 
+
+*Be creative and be yourselves!*
 
 <hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
 filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
@@ -398,22 +404,6 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 *I just want to repeat that our next gig is on 13th August at AZ Mülheim. Also check out the other bands in the UNTIER Collective.* 
 
 *And I want to encourage everyone who’s interested in making music to try it out!*
-
- 
-
-[GODMORGON](https://www.facebook.com/godmorgonband/) online:
-
-[FACEBOOK](https://www.facebook.com/godmorgonband)
-
-[INSTAGRAM](https://www.instagram.com/godmorgonband/)
-
-[BANDCAMP](https://godmorgonband.bandcamp.com/)
-
-[SPOTIFY](https://open.spotify.com/artist/1YX8h9oSYeTpbnX02O2EsS?si=m7aX2mnJRGaIKE7Mg1CKqQ&nd=1)
-
-[SOUNDCLOUD](https://soundcloud.com/godmorgonband)
-
-[YOUTUBE](https://www.youtube.com/channel/UCyd098Iug-nPmz9Ep_hAeIQ)
 `,
 
     summary: `Founded in 2019, GODMORGON, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany). `,
