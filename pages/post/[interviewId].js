@@ -66,6 +66,14 @@ export default function InterviewArticle() {
     setMessageLength(0);
   };
 
+  const handleDeleteComment = (index) => {
+    if (confirm("Are you sure you want to delete your comment?")) {
+      const updatedComments = [...comments];
+      updatedComments.splice(index, 1);
+      setComments(updatedComments);
+    }
+  };
+
   return (
     <StyledArticle>
       <TitleContainer>{article?.title}</TitleContainer>
@@ -109,6 +117,9 @@ export default function InterviewArticle() {
           <Comment key={index}>
             <CommentName>User {comment.name} wrote:</CommentName>
             <CommentMessage>{comment.message}</CommentMessage>
+            <DeleteButton onClick={() => handleDeleteComment(index)}>
+              Delete
+            </DeleteButton>
           </Comment>
         ))}
       </CommentsContainer>
@@ -118,8 +129,6 @@ export default function InterviewArticle() {
 
 const TextContainer = styled.div`
   padding: 10px;
-
-  margin-top: 0;
   word-break: normal;
   margin-inline: 10px;
   text-align: justify;
@@ -156,10 +165,19 @@ const ThumbUpIcon = styled(ThumbUps)`
 `;
 const CommentsContainer = styled.div`
   margin-top: 20px;
-  margin-bottom: 200px;
-
   margin-bottom: 100px;
 `;
+
+const DeleteButton = styled.button`
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: #fafafa;
+  border: none;
+  color: #95091b;
+  cursor: pointer;
+`;
+
 const InputContainer = styled.div`
   margin-bottom: 10px;
 `;
