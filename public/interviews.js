@@ -491,7 +491,6 @@ And another thing is that I am constantly trying to grow to not sound as other a
 *TV – My gear is changing constantly and I have a ton of it. Tube amps, cabinets, pedals, effects… But one thing that I use constantly over the past 20 years or so is IBANEZ guitars. I own some great „Prestige“ series Japan made RG series axes, and the playability and quality of those is perfect for my. I have some 7 string instruments also but to be honest I prefer 6 string. I use 7 string for lower notes mainly.*
 
 
-![Toomas Vanem](https://all-access-pass.de/wp-content/uploads/2022/02/MG_8603-1-683x1024.jpg)
 
 
 <p style="background-color: #dfdfdf;"><strong>AAP – When you listen to a new guitar player for the first time what are some of the elements that you for?</strong></p>
@@ -516,7 +515,6 @@ And another thing is the inner power (or emotion, vibe), by that I mean it needs
 
 I learned this lesson when I started my solo artist live gigs and it is super hard at first, but it gets better with the time.*
 
-![Toomas Live](https://all-access-pass.de/wp-content/uploads/2022/02/Philly-1-684x629.png)
 
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Since your writing and playing are so rich and diverse, music-wise, where is your heart?</strong></p>
