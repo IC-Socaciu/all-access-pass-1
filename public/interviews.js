@@ -200,157 +200,208 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
     tags: ["Godmorgon", "punk"],
     title: "Godmorgon Interview",
 
-    text: `Founded in 2019, GODMORGON, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany) that has developed into a death/sludge metal band combining harsh vocals, groovy riffs and raw, straightforward energy.
+    text: `Founded in 2019, [GODMORGON](https://www.facebook.com/godmorgonband/), is a Punk-infused Death Metal/Sludge band from Dortmund (Germany) that has developed into a death/sludge metal band combining harsh vocals, groovy riffs and raw, straightforward energy.
 
-The band’s sound has been shaped by the many different musical influences of the band’s members: hardcore, punk, doom, extreme metal, grindcore and even black metal. Lyrical themes include feminism, anti-capitalism and warnings of an apocalyptic future if humanity continues to let this world go to shit.
+The band’s sound has been shaped by the many different musical influences of the band’s members: hardcore, punk, doom, extreme metal, grindcore and even black metal. 
 
-Current lineup: 
+Lyrical themes include feminism, anti-capitalism and warnings of an apocalyptic future if humanity continues to let this world go to shit.
 
-Itza (Vocals)
+Current [GODMORGON](https://www.facebook.com/godmorgonband/) lineup: 
 
-Marvin (Gitarre)
+**Itza** - vox
 
-Jan (Bass/Vocals)
+**Marvin** - guitar
 
-Simon (Drums)
+**Jan** - bass / vox
 
-As always, a huge *Thank You* to the band for their time, openness and availability!
+**Simon** - drums
 
- 
+*As always, a huge **Thank You** to the band for their time, openness and availability!*
 
-All Access Pass – Hello, GODMORGON and thank you for taking the time to talk to All Access Pass. It’s a pleasure to have you here!
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
- Itza: Thank you for having us!
 
- 
+<p style="background-color: #dfdfdf;"><strong>All Access Pass – Hello, GODMORGON and thank you for taking the time to talk to All Access Pass. It’s a pleasure to have you here!</strong></p>
 
-AAP – For newer fans, let’s meet everyone in GODMORGON!
+ *Itza: Thank you for having us!*
 
- I: The band consists of four people: Marvin on guitar, Jan on bass and backing vocals, Simon on the drums and me, Itza, as the lead vocalist.
 
- 
+ <p style="background-color: #dfdfdf;"><strong>AAP – For newer fans, let’s meet everyone in GODMORGON!</strong></p>
 
-AAP – Your latest material, the “Backlash” EP has been released at the beginning of 2022. A new single and video for the song “Cataclysm” has just been released in May.         How does it feel to finally have your self-titled debut EP out, in the world?
+ *I: The band consists of four people: Marvin on guitar, Jan on bass and backing vocals, Simon on the drums and me, Itza, as the lead vocalist.*
 
-I: It was actually quite spontaneous. Our original plan was to record our first album sometime in 2022. But last winter we had an online gig where we had to submit 1-2 pre-recorded songs for a livestream, preferably with live shot videos. We didn’t have that until then and did the songs in one go. We were very happy with how the audio turned out and decided to put it up on Spotify and other streaming services together with our first recorded song from May 2021: “Backlash”. The videos are also on our GODMORGON YouTube channel.
 
- 
 
-AAP – You are already back in the saddle working on your first full album. How are things progressing?
+<p style="background-color: #dfdfdf;"><strong>AAP – Your latest material, the “Backlash” EP has been released at the beginning of 2022 and a new single and video for the song “Cataclysm” has just been released in May.
 
-I: At the moment not as well as we’d like. We are currently quite busy with personal stuff and also preparing and looking forward to our next live show in August. It’s going to be at AZ Mülheim on 13th August! I’m actually organising the event.
+How does it feel to finally have your self-titled debut EP out, in the world?</strong></p>
 
- 
+*I: It was actually quite spontaneous. Our original plan was to record our first album sometime in 2022.*
 
-AAP – What are some technical details regarding the album? 
+*But last winter we had an online gig where we had to submit 1-2 pre-recorded songs for a livestream, preferably with live shot videos.*
 
-I: As before we are recording and mixing everything ourselves again. Simon has become our “sound guy” and coordinates the recording and does the mixing, of course with feedback from the rest of the band. I think you can really hear the progress in terms of quality of the recordings if you compare e.g. “Backlash” and “Cataclysm”. There’s a lot to learn when it comes to audio engineering. For the cover art we don’t have a specific vision yet, but it is probably going to be in the style of the previous covers, so rather a photo than a drawing. 
+*We didn’t have that until then and did the songs in one go. We were very happy with how the audio turned out and decided to put it up on Spotify and other streaming services together with our first recorded song from May 2021: “Backlash”.*
 
- 
-
-AAP – Your previous musical offerings were 100% DIY. There is a lot of work and effort but I can imagine rewarding as well. How are responsibilities shared within GODMORGON? 
-
-I: As I just mentioned Simon takes care of the recordings. Jan did the Backlash video, in the future it would be cool to make a video together, featuring all band members. The guitar and bass parts of the songs are usually documented in GuitarPro which is done by Marvin. I take care of the management and communication side of things, including social media and write almost all of the lyrics. However, the lyrics for half of our pusblished songs, “Ritual Suicide” and “Backlash”, were written by Jan. So compared to other bands we really try to share the tasks and everyone has a special niche.
+*The videos are also on our GODMORGON YouTube channel.*
 
  
 
-AAP . How are new ideas being created? And does usually the musical backbone or the lyrics come first?
+<p style="background-color: #dfdfdf;"><strong>AAP – You are already back in the saddle working on your first full album. How are things progressing?</strong></p>
 
-I: If someone has a new idea we try to document and send it around or just show it during the next band practice session. Then the others chime in and do their parts. Some of the songs were created based on lyrics but most of the times the instrumentals come first.
+*I: At the moment not as well as we’d like. We are currently quite busy with personal stuff and also preparing and looking forward to our next live show in August. *
+
+*It’s going to be at AZ Mülheim on 13th August! I’m actually organising the event.*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
+
+<p style="background-color: #dfdfdf;"><strong>AAP – What are some technical details regarding the album?</strong></p>
+
+*I: As before we are recording and mixing everything ourselves again. Simon has become our “sound guy” and coordinates the recording and does the mixing, of course with feedback from the rest of the band.* 
+
+*I think you can really hear the progress in terms of quality of the recordings if you compare e.g. “Backlash” and “Cataclysm”.*
+ 
+*There’s a lot to learn when it comes to audio engineering. For the cover art we don’t have a specific vision yet, but it is probably going to be in the style of the previous covers, so rather a photo than a drawing.*
 
  
 
-AAP  – Do you have a practice routine as a band or individually?
+<p style="background-color: #dfdfdf;"><strong>AAP – Your previous musical offerings were 100% DIY. There is a lot of work and effort but I can imagine rewarding as well. How are responsibilities shared within GODMORGON?</strong></p> 
 
-I: We usually meet once a week and most of the practice is done there. We are also quite effective during these sessions. No drinking and just hanging out – we really practice!
+*I: As I just mentioned Simon takes care of the recordings. Jan did the Backlash video, in the future it would be cool to make a video together, featuring all band members.* 
 
- 
+*The guitar and bass parts of the songs are usually documented in GuitarPro which is done by Marvin.* 
 
-AAP – Is every idea taken into consideration when writing music? 
+*I take care of the management and communication side of things, including social media and write almost all of the lyrics.* 
 
-I: Everybody is free to suggest something but everyone in the band has to be ok with it. So if we write new parts everyone has to like it. Otherwise, it will be reworked until everyone is fine with it.
+*However, the lyrics for half of our pusblished songs, “Ritual Suicide” and “Backlash”, were written by Jan.* 
 
- 
-
-AAP – Your musical styles are quite eclectic. Did the musical direction come natural for you or was it something you decided upon?
-
-I: It’s funny because we all listen to different styles of music and have different influences and I think you can really hear it in the finished songs. Marvin really likes musical complexity and is usually the one to suggest a sudden change of pace among other things. Jan has a very different vocal style from me and does long shouts, whereas I usually have a lot to say and pack a lot of lyrics into the songs. There are a lot of other ways in which we differ musically but I think this is what makes our music interesting – it doesn’t exactly fit one specific genre.
+*So compared to other bands we really try to share the tasks and everyone has a special niche.*
 
  
 
-AAP – What does GODMORGON find cliche on the metal scene?
+<p style="background-color: #dfdfdf;"><strong>AAP . How are new ideas being created? And does usually the musical backbone or the lyrics come first?</strong></p>
 
-That metal is only for tough guys! I think that’s very outdated but a lot of bands you see still try to fit this image. For our live show in August, (link redirects to the Facebook event with lineup consisting in Pisscharge and GVLA at AZ Mülheim on 13.8.2022- event organized by Violent Witch Events) I wanted bands with at least one female member to play with us as most shows just have men on stage. And I found a lot of very cool bands!
+*I: If someone has a new idea we try to document and send it around or just show it during the next band practice session. Then the others chime in and do their parts.* 
 
- 
+*Some of the songs were created based on lyrics but most of the times the instrumentals come first.*
 
-AAP – What are some unwritten rules in the industry that you have experienced?
+<p style="background-color: #dfdfdf;"><strong>AAP  – Do you have a practice routine as a band or individually?</strong></p>
 
-Not too many as we are still very underground, but so far, I think networking is – as in any industry – very important and helpful. It’s really beneficial to know some people in the scene and it’s also cool for us to get more and more involved. 
+*I: We usually meet once a week and most of the practice is done there. We are also quite effective during these sessions.* 
 
- 
-
-AAP – Which skills or exp have you gained that help you perform effectively as a musician since the beginning how do they feel that they have evolved as musicians or organisational wise?
-
-I: Apart from improving our musical skills, our songwriting skills have improved too and nowadays we are very fast. Like any other skill, you just improve with practice. As mentioned before, we’ve also learned how important networking is within the local scene. Over time we got to know more and more people which also leads to more opportunities. It was just announced that GODMORGON also joined the local UNTIER Collective. It’s a collective of local bands within the realm of metal and noise because we realised that as bands without labels, we are just stronger together.
+*No drinking and just hanging out – we really practice!*
 
  
 
-AAP – What piece of advice would you give bands who are at beginning of their musical road?
+<p style="background-color: #dfdfdf;"><strong>AAP – Is every idea taken into consideration when writing music?</strong></p> 
 
-Don’t focus on fitting a certain genre and which label to give yourselves. Your musical style will develop by writing more and more songs. Be creative and be yourselves!
+*I: Everybody is free to suggest something but everyone in the band has to be ok with it. So if we write new parts everyone has to like it.* 
 
- 
+*Otherwise, it will be reworked until everyone is fine with it.*
 
-AAP – Is either of you involved in any musical or non-musical side-projects?
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-I: Yes, Simon, Jan and I have two other projects together. One riot grrrl inspired project I initiated because this is also music I listen to and some songs I’ve written just fall into this category. The other one is a grindcore project. Marvin is interested in starting a hardcore side-project.
 
- 
+<p style="background-color: #dfdfdf;"><strong>AAP – Your musical styles are quite eclectic. Did the musical direction come natural for you or was it something you decided upon?</strong></p>
 
-AAP – What do you find challenging in being an artist, both on a positive spin and a negative one?
+*I: It’s funny because we all listen to different styles of music and have different influences and I think you can really hear it in the finished songs.* 
 
-I: It takes time and time is what most of us are lacking. For the management and social media tasks I can always find time to squeeze it in between. But when you want to focus and be creative you usually need a bit more time and you cannot force it. This can be challenging. On the positive side it’s really cool to get feedback from people who listen to your music and be able to share that joy with others.
+*Marvin really likes musical complexity and is usually the one to suggest a sudden change of pace among other things.*
 
- 
+*Jan has a very different vocal style from me and does long shouts, whereas I usually have a lot to say and pack a lot of lyrics into the songs.* 
 
-AAP – Do you consider your voice as an instrument – tool?
-
-I: Definitely! Besides being able to express myself with my lyrics I think, especially with “extreme” vocals you can definitely create a certain atmosphere and get feelings across quite well.
+*There are a lot of other ways in which we differ musically but I think this is what makes our music interesting – it doesn’t exactly fit one specific genre.*
 
  
 
-AAP – How much of your success do you think is achieved through social media? 
+<p style="background-color: #dfdfdf;"><strong>AAP – What does GODMORGON find cliche on the metal scene?</strong></p>
 
-I: Unfortunately, I think it plays a big role unless you just happen to know lots of people in your local scene. When looking for bands for gigs people also look at your follower count to determine whether people would be interested in seeing your show. But first and foremost, we care about music and not generating content all the time. If there’s something worth sharing, we’ll share it though!
+*That metal is only for tough guys! I think that’s very outdated but a lot of bands you see still try to fit this image.* 
 
- 
-
-AAP – Time for the last question, The Random Question: What is invisible but you wish people would see?
-
-I: How much of a positive impact just being friendly can have. It doesn’t cost a thing and we should all try to empower each other instead of trying to outdo one another.
+*For our live show in August, I wanted bands with at least one female member to play with us as most shows just have men on stage. And I found a lot of very cool bands!*
 
  
 
-AAP – Thank you for taking the time to do this, it was really nice meeting you. In case there is anything else you would like to mention and send a message for your fans, please do so!
+<p style="background-color: #dfdfdf;"><strong>AAP – What are some unwritten rules in the industry that you have experienced?</strong></p>
 
-I: Thank you so much for the interview, it was really fun! I just want to repeat that our next gig is on 13th August at AZ Mülheim. Also check out the other bands in the UNTIER Collective. And I want to encourage everyone who’s interested in making music to try it out!
+*Not too many as we are still very underground, but so far, I think networking is – as in any industry – very important and helpful.* 
+
+*It’s really beneficial to know some people in the scene and it’s also cool for us to get more and more involved.*
 
  
 
-GODMORGON ONLINE:
+<p style="background-color: #dfdfdf;"><strong>AAP – Which skills or exp have you gained that help you perform effectively as a musician since the beginning how do they feel that they have evolved as musicians or organisational wise?</strong></p>
 
-FACEBOOK
+*I: Apart from improving our musical skills, our songwriting skills have improved too and nowadays we are very fast.* 
 
-INSTAGRAM
+*Like any other skill, you just improve with practice. As mentioned before, we’ve also learned how important networking is within the local scene.* 
 
-BANDCAMP
+*Over time we got to know more and more people which also leads to more opportunities. It was just announced that GODMORGON also joined the local UNTIER Collective.*
 
-SPOTIFY
+*It’s a collective of local bands within the realm of metal and noise because we realised that as bands without labels, we are just stronger together.*
 
-SOUNDCLOUD
+ 
 
-YOUTUBE
+<p style="background-color: #dfdfdf;"><strong>AAP – What piece of advice would you give bands who are at beginning of their musical road?</strong></p>
+
+*Don’t focus on fitting a certain genre and which label to give yourselves. Your musical style will develop by writing more and more songs.* 
+
+*Be creative and be yourselves!*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Is either of you involved in any musical or non-musical side-projects?</strong></p>
+
+*I: Yes, Simon, Jan and I have two other projects together. One riot grrrl inspired project I initiated because this is also music I listen to and some songs I’ve written just fall into this category.* 
+
+*The other one is a grindcore project. Marvin is interested in starting a hardcore side-project.*
+
+ 
+
+<p style="background-color: #dfdfdf;"><strong>AAP – What do you find challenging in being an artist, both on a positive spin and a negative one?</strong></p>
+
+*I: It takes time and time is what most of us are lacking. For the management and social media tasks I can always find time to squeeze it in between.* 
+
+*But when you want to focus and be creative you usually need a bit more time and you cannot force it. This can be challenging.*
+ 
+*On the positive side it’s really cool to get feedback from people who listen to your music and be able to share that joy with others.*
+
+ 
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Do you consider your voice as an instrument – tool?</strong></p>
+
+*I: Definitely! Besides being able to express myself with my lyrics I think, especially with “extreme” vocals you can definitely create a certain atmosphere and get feelings across quite well.*
+
+ 
+
+<p style="background-color: #dfdfdf;"><strong>AAP – How much of your success do you think is achieved through social media?</strong></p> 
+
+*I: Unfortunately, I think it plays a big role unless you just happen to know lots of people in your local scene.* 
+
+*When looking for bands for gigs people also look at your follower count to determine whether people would be interested in seeing your show.* 
+
+*But first and foremost, we care about music and not generating content all the time. If there’s something worth sharing, we’ll share it though!*
+
+ 
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Time for the last question, The Random Question: What is invisible but you wish people would see?</strong></p>
+
+*I: How much of a positive impact just being friendly can have. It doesn’t cost a thing and we should all try to empower each other instead of trying to outdo one another.*
+
+ 
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Thank you for taking the time to do this, it was really nice meeting you. In case there is anything else you would like to mention and send a message for your fans, please do so!</strong></p>
+
+*I: Thank you so much for the interview, it was really fun!* 
+
+*I just want to repeat that our next gig is on 13th August at AZ Mülheim. Also check out the other bands in the UNTIER Collective.* 
+
+*And I want to encourage everyone who’s interested in making music to try it out!*
 `,
 
     summary: `Founded in 2019, GODMORGON, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany). `,
