@@ -5,6 +5,7 @@ import { interviews } from "@/public/interviews";
 import Markdown from "markdown-to-jsx";
 import { useState, useEffect } from "react";
 import ThumbUps from "@/public/thumbs-up-regular.svg";
+import uuid from "uuid";
 
 export default function InterviewArticle() {
   const router = useRouter();
