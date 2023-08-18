@@ -427,6 +427,9 @@ Over the years Toomas has played in multiple rock bands and projects and has rem
 
 In 2014 [**Toomas Vanem**](https://www.facebook.com/ToomasGuitar/‚) wrote, recorded and produced his first solo instrumental progressive rock music album **“Toomas Vanem I”**, which features American bass legend *Stu Hamm*. 
 
+<img src="https://all-access-pass.de/wp-content/uploads/2022/02/ToomasVanem-II_Digital-Release-Vinyl-Cover_3000px_ver02-1-684x684.jpg" alt="Toomas Vanem II album cover" style="max-width: 300px; max-height: 300px;"> 
+
+
 The compositions on the album are harsh, but also varied and colorful. A collage of different stories / stories about the world and life written in the language of music.
 
 **“Toomas Vanem II”**, was released at the beginning of 2022 and it is self described as *"a unique blend of styles from jazz to metal fusion music that is far beyond the limits of your imagination”*. 
