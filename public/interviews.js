@@ -281,7 +281,7 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What does GODMORGON find cliche on the metal scene?</strong></p>
 
-*That metal is only for tough guys! I think that’s very outdated but a lot of bands you see still try to fit this image. For our live show in August, (link redirects to the Facebook event with lineup consisting in Pisscharge and GVLA at AZ Mülheim on 13.8.2022- event organized by Violent Witch Events) I wanted bands with at least one female member to play with us as most shows just have men on stage. And I found a lot of very cool bands!*
+*That metal is only for tough guys! I think that’s very outdated but a lot of bands you see still try to fit this image. For our live show in August, I wanted bands with at least one female member to play with us as most shows just have men on stage. And I found a lot of very cool bands!*
 
  
 
@@ -341,17 +341,17 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 GODMORGON ONLINE:
 
-FACEBOOK
+[FACEBOOK](https://www.facebook.com/godmorgonband)
 
-INSTAGRAM
+[INSTAGRAM](https://www.instagram.com/godmorgonband/)
 
-BANDCAMP
+[BANDCAMP](https://godmorgonband.bandcamp.com/)
 
-SPOTIFY
+[SPOTIFY](https://open.spotify.com/artist/1YX8h9oSYeTpbnX02O2EsS?si=m7aX2mnJRGaIKE7Mg1CKqQ&nd=1)
 
-SOUNDCLOUD
+[SOUNDCLOUD](https://soundcloud.com/godmorgonband)
 
-YOUTUBE
+[YOUTUBE](https://www.youtube.com/channel/UCyd098Iug-nPmz9Ep_hAeIQ)
 `,
 
     summary: `Founded in 2019, GODMORGON, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany). `,
