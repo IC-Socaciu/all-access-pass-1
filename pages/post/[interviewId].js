@@ -122,6 +122,7 @@ const TextContainer = styled.div`
   margin-top: 0;
   word-break: normal;
   margin-inline: 10px;
+  text-align: justify;
 `;
 const ImageContainer = styled.div`
   max-width: 100%;
