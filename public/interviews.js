@@ -17,7 +17,11 @@ The start of 2022 brought numerous local live performances and topped with the r
 
 [**THE UNDERTAKER**](https://www.facebook.com/rocktaker666) have also just inked a deal with **Split Screen Management**, and are aiming to release their full-length album in 2023. 
 
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 The band declared:
+
 
 *"The Undertaker, aka Grave Diggers, is a heavy rock band that will bring out the darkness of this changing world and the pus of society.*
 
@@ -30,6 +34,10 @@ The band comments on signing:
 *“We are very happy to be part of the Split Screen Management family.  We look forward to seeing you all around the world and seeing what our band and [Split Screen Management](http://www.splitscreenproduction.com/) bring to the world.*
 
 *Everyone who sees this, please support The Undertaker!”*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
 
 **THE UNDERTAKER** line-up:
 
@@ -49,7 +57,6 @@ The band comments on signing:
 *Hello, we’re currently doing a lot of live shows in Tokyo, the center of Japan. And now I’m writing a lot of songs. I’m writing it for the new album.*
 
 
-
 <p style="background-color: #dfdfdf;"><strong>AAP –  Let’s meet the band. Can you tell us a little bit about each member of the band and their role within the group?</strong></p>
 
 *First of all, I’m NEMO, guitar vocalist. Mainly writing new riffs and writing lyrics. And at the live, this is the man who is venting his anger at the center.*
@@ -60,6 +67,9 @@ The band comments on signing:
 
 *The bassist is a session bassist, but he’s a genius. He can listen to the performance with peace of mind.*
 
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP –  Is the current line-up stable or are there different musicians joining the live show?</strong></p>
 
@@ -77,7 +87,8 @@ The band comments on signing:
 
 *Our music is a mixture of 90’s alternative, hard rock, hardcore and rock. Of course, it also smells like good old rock. Think of it as a new sound playing with modern sounds.*
 
-
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP –  Tell us more about your current EP.</strong></p>
 
@@ -103,7 +114,8 @@ The band comments on signing:
 
 *What I don’t like is that the world is getting louder and louder. Maybe it’s mostly because of social net media.*
 
-
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP –  You just signed a new partnership with Split Screen Management. How did the collaboration come about?</strong></p>
 
@@ -133,7 +145,8 @@ The band comments on signing:
 
 *The reaction is good. People are very interested. However, it’s hard to categorize it because it’s a sound I had never heard before.*
 
-
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP –  Do you have any upcoming shows?</strong></p>
 
@@ -189,22 +202,26 @@ The band comments on signing:
 
     text: `Founded in 2019, **GODMORGON**, is a Punk-infused Death Metal/Sludge band from Dortmund (Germany) that has developed into a death/sludge metal band combining harsh vocals, groovy riffs and raw, straightforward energy.
 
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 200px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
+
 The band's sound has been shaped by the many different musical influences of the band's members: hardcore, punk, doom, extreme metal, grindcore and even black metal. Lyrical themes include feminism, anti-capitalism and warnings of an apocalyptic future if humanity continues to let this world go to shit.
 
 Current **GODMORGON** lineup: 
 
-**Itza** (Vocals)
+**Itza** (vox)
 
-**Marvin** (Gitarre)
+**Marvin** (guitar)
 
-**Jan** (Bass/Vocals)
+**Jan** (bass/vox)
 
-**Simon*+ (Drums)
+**Simon** (drums)
 
 As always, a huge *Thank You* to the band for their time, openness and availability!
 
 
-**All Access Pass – Hello, GODMORGON and thank you for taking the time to talk to All Access Pass. It’s a pleasure to have you here!**
+<p style="background-color: #dfdfdf;"><strong>All Access Pass – Hello, GODMORGON and thank you for taking the time to talk to All Access Pass. It’s a pleasure to have you here!</strong></p>
 
 *Itza: Thank you for having us!*
 

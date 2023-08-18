@@ -117,17 +117,14 @@ export default function InterviewArticle() {
 }
 
 const TextContainer = styled.div`
-  padding-left: 20px;
+  padding: 10px;
+
   margin-top: 0;
   word-break: normal;
-  margin-inlsine: 10px;
+  margin-inline: 10px;
 `;
 const ImageContainer = styled.div`
-  max-width: 150px;
-  max-height: 250px;
-  float: left;
-  margin-left: 20px;
-  margin-right: 20px;
+  max-width: 100%;
 `;
 const Image = styled.img`
   max-width: 100%;
@@ -159,6 +156,8 @@ const ThumbUpIcon = styled(ThumbUps)`
 const CommentsContainer = styled.div`
   margin-top: 20px;
   margin-bottom: 200px;
+
+  margin-bottom: 100px;
 `;
 const InputContainer = styled.div`
   margin-bottom: 10px;
