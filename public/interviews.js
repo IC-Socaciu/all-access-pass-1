@@ -287,8 +287,6 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *Some of the songs were created based on lyrics but most of the times the instrumentals come first.*
 
- 
-
 <p style="background-color: #dfdfdf;"><strong>AAP  – Do you have a practice routine as a band or individually?</strong></p>
 
 *I: We usually meet once a week and most of the practice is done there. We are also quite effective during these sessions.* 
