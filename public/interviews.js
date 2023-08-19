@@ -741,7 +741,9 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *Hans is the mastermind behind the lyrics and can tell better about it than me. But of course we all read and get into the texts also to get a riff turning into an actual song.* 
 
-*I see the lyrics on this new album reflecting a lot of things there are somewhat up to date with the actual state of the world and how people are reacting to that. Fucking all the natural resources and exploiting Mother Earth like we did and still do, are bringing serious consequences upon mankind and that will not get any smoother.* 
+*I see the lyrics on this new album reflecting a lot of things there are somewhat up to date with the actual state of the world and how people are reacting to that.* 
+
+*Fucking all the natural resources and exploiting Mother Earth like we did and still do, are bringing serious consequences upon mankind and that will not get any smoother.* 
 
 *Some other things too, such as the science applied to new warfare high tech killing methods for completely unnecessary reasons and the usual disgust towards how fucked up this all became.* 
 
@@ -904,159 +906,247 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
     title: "HARDLAND – Band interview",
 
-    text: `Melodic Alternative Rock quintet HARDLAND blazing out of Utrecht, Netherlands, have just released a new single, ”Merry X-Mas Everybody”, a reinterpretation of Slade’s song, with a HARDLAND characteristic twist: turbulence and melodicity.
+    text: `Melodic Alternative Rock quintet [HARDLAND](https://www.hardland.net/en/) blazing out of Utrecht, Netherlands, have just released a new single, ”Merry X-Mas Everybody”, a reinterpretation of Slade’s song, with a [HARDLAND](https://www.hardland.net/en/) characteristic twist: turbulence and melodicity.
 
-Their most recent album, ”In Control”, was released on August 10ᵗʰ, 2019 via LO41 Records and it embodies 10 distinct tracks, cradling influences from Heavy Rock, AOR, bringing to life original, mature themes, with the 70’s and 80’s earmark.
+Their most recent album, **”In Control”**, was released on August 10ᵗʰ, 2019 via [LO41 Records](https://www.lo41records.com/) and it embodies 10 distinct tracks, cradling influences from Heavy Rock, AOR, bringing to life original, mature themes, with the 70’s and 80’s earmark.
 
-HARDLAND were open for a (too!) short conversation and a transcription is available below.
+[HARDLAND](https://www.hardland.net/en/) were open for a (too!) short conversation and a transcription is available below.
 
 As always, a huge *Thank You* to the band for their time, openness and availability!
 
-AAP – Greetings from MAtW, thank you for taking the time for this interview. How are things in camp HARDLAND?
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-A: Hi Ioana, thanks for having this interview with us! Things are going pretty good for us, in spite of this pandemic year. We’ve been busy writing new material and just finished recording our first ever Christmas single that’s going to rock your socks off!!
+<p style="background-color: #dfdfdf;"><strong>AAP – Greetings from MAtW, thank you for taking the time for this interview. How are things in camp HARDLAND?</strong></p>
 
-AAP – What is the story behind your band name?
+*A: Hi Ioana, thanks for having this interview with us!* 
 
-A: The initial story was that when we were thinking of a great band name we came up with the name HARDLAND. Since most of the bandmembers come from the Heart of the country. But Heartland sounded too countryish, and since we play Melodic Alternative Rock, we decided that HARDLAND would fit perfect in every way. We checked internationally if that name was already taken and at that moment around 2010 no one used it, so we trademarked our name, band logo etc.
+*Things are going pretty good for us, in spite of this pandemic year. We’ve been busy writing new material and just finished recording our first ever [Christmas single](https://www.youtube.com/watch?v=BLLG4MUQKTU&ab_channel=Hardland-Topic) that’s going to rock your socks off!!
 
-Although we weren’t actually a band at that time. It was more of a project of a couple of like-minded friends.Later on I’ve noticed that there’s a band from Greece using our trademarked name!! We have contacted them a few times about it, but they chose to ignore us.
+<p style="background-color: #dfdfdf;"><strong>AAP – What is the story behind your band name?</strong></p>
 
-So now we are thinking of taking it a step further with some legal procedures. It simply doesn’t work like that, you know?
+*A: The initial story was that when we were thinking of a great band name we came up with the name HARDLAND.* 
 
-AAP – How did you get from Heroez to HARDLAND?
+*Since most of the bandmembers come from the Heart of the country. But Heartland sounded too countryish, and since we play Melodic Alternative Rock, we decided that HARDLAND would fit perfect in every way.* 
 
-A: Haha, where did you hear that name, HeroeZ? That was my first band back in the late 70’s of the last century (yep, I’m not exactly a teenager anymore! Lol). It was a Rockband with 5 young guys, ultimately creative and totally gung ho about reaching for the stars! Cool thing is…we quit somewhere around 1980/1981, had a one off sold out reunion show back in 1997 and only recently came back together and decided to finally record an album, after all these years!
+*We checked internationally if that name was already taken and at that moment around 2010 no one used it, so we trademarked our name, band logo etc.*
 
-All the recordings have been taken care of and our drummer is mixing the whole project. No clue if or when it will be released, but I can tell ya, it’s got some mean and dirty rock n roll on there!! Now HARDLAND, the graphic design for our albums was done by the lead guitarist of the HeroeZ and when we recorded our new Christmas single, the drummer of the HeroeZ helped out with some amazing backing vocals. So somehow we’re still intertwined after all these years. Lol. I think that’s really awesome to still being that great of friends after 40+ years!!
+*Although we weren’t actually a band at that time. It was more of a project of a couple of like-minded friends.*
 
-AAP – Let’s meet all the band members and could you share a trait you have in common with your instrument.
+*Later on I’ve noticed that there’s a band from Greece using our trademarked name!! We have contacted them a few times about it, but they chose to ignore us.*
 
-A: Aeilko (lead vocals / lead guitar) I just like to be at the center of attention…perhaps that’s why I do lead vocals and let my guitars scream!!, Paul (lead vocals / rhythm guitar) Paul has that same virtue of wanting to be at the center of attention, but the other half of his personality wants to be the cement that keeps it all together, Eric (drums) Backbone of the band and in real life someone you can rely on, Marco (keyboards / vocoder / coffee) as keyboardist and vocoderer he utilizes lots of weird sounds…exactly what’s coming out of his mouth! Lol….the joker of the band, together with Eric. And Remi (bass / backing vocals) what can I say about him… he’s German! 😊
+*So now we are thinking of taking it a step further with some legal procedures. It simply doesn’t work like that, you know?*
 
-AAP – It all started as a project. How comfortable and stable do you feel with one another today?
+<p style="background-color: #dfdfdf;"><strong>AAP – How did you get from Heroez to HARDLAND?</strong></p>
 
-A: True, as a project Paul and I had all the freedom to do whatever we felt like doing musically. That’s why we wrote way over a hundred songs together. The other guys in the band were no strangers to us. In the days when I had my own Mobile Recording Studio and PA Rental company, Paul and Eric worked with me doing lots of live shows and recordings of all kinds of bands. Remi worked at the same location as Paul back in the day. And Marco and I had a mutual friend who introduced us to one another.
+*A: Haha, where did you hear that name, HeroeZ? That was my first band back in the late 70’s of the last century (yep, I’m not exactly a teenager anymore! Lol).* 
 
-So it felt quite comfortable from day one and we only became tighter and better. Only thing that is different is that we now try to involve everyone into the writing process of new material and that takes away a lot of the speed in the process of recording.
+*It was a Rockband with 5 young guys, ultimately creative and totally gung ho about reaching for the stars! Cool thing is… we quit somewhere around 1980/1981, had a one off sold out reunion show back in 1997 and only recently came back together and decided to finally record an album, after all these years!*
 
-AAP- The song is very important to you and also you avoid repeating yourselves.
+*All the recordings have been taken care of and our drummer is mixing the whole project. No clue if or when it will be released, but I can tell ya, it’s got some mean and dirty rock n roll on there!!* 
+
+*Now HARDLAND, the graphic design for our albums was done by the lead guitarist of the HeroeZ and when we recorded our new Christmas single, the drummer of the HeroeZ helped out with some amazing backing vocals.* 
+
+*So somehow we’re still intertwined after all these years. Lol. I think that’s really awesome to still being that great of friends after 40+ years!!*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Let’s meet all the band members and could you share a trait you have in common with your instrument.</strong></p>
+
+*A: Aeilko (lead vocals / lead guitar) I just like to be at the center of attention… perhaps that’s why I do lead vocals and let my guitars scream!!, Paul (lead vocals / rhythm guitar) Paul has that same virtue of wanting to be at the center of attention, but the other half of his personality wants to be the cement that keeps it all together, Eric (drums) Backbone of the band and in real life someone you can rely on, Marco (keyboards / vocoder / coffee) as keyboardist and vocoderer he utilizes lots of weird sounds…exactly what’s coming out of his mouth!* 
+
+*Lol….the joker of the band, together with Eric. And Remi (bass / backing vocals) what can I say about him… he’s German! 😊*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – It all started as a project. How comfortable and stable do you feel with one another today?</strong></p>
+
+*A: True, as a project Paul and I had all the freedom to do whatever we felt like doing musically. That’s why we wrote way over a hundred songs together.* 
+
+*The other guys in the band were no strangers to us. In the days when I had my own Mobile Recording Studio and PA Rental company, Paul and Eric worked with me doing lots of live shows and recordings of all kinds of bands.* 
+
+*Remi worked at the same location as Paul back in the day. And Marco and I had a mutual friend who introduced us to one another.*
+
+*So it felt quite comfortable from day one and we only became tighter and better. Only thing that is different is that we now try to involve everyone into the writing process of new material and that takes away a lot of the speed in the process of recording.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP - The song is very important to you and also you avoid repeating yourselves.</strong></p>
 
 A: Exactly! We are influenced by so many different styles of music and artists. We couldn’t even do what a band like AC/DC does. No offence, these guys are the best! I’ve got most all of their albums, but to our ears their music is pretty one dimensional. We prefer bands like Queen, or Whitesnake, or even King’s X. They are more versatile in their musical style. That’s what we prefer above all.
 
-AAP – How open are you to collaborations and what would be a genre “limit” that you would not really be influenced by?
+<p style="background-color: #dfdfdf;"><strong>AAP – How open are you to collaborations and what would be a genre “limit” that you would not really be influenced by?</strong></p>
 
-A: If we were offered a chance to collaborate, we would accept that challenge whole heartedly. I don’t think we would block out any style. As long as we would be able to give it our own personal twist and make it our own, we could do any style. As long as the outcome is 100% HARDLAND!
+*A: If we were offered a chance to collaborate, we would accept that challenge whole heartedly.* 
 
-AAP – And how often does overdubbing come to play?
+*I don’t think we would block out any style. As long as we would be able to give it our own personal twist and make it our own, we could do any style. As long as the outcome is 100% HARDLAND!*
 
-A: It totally depends on the type of track we’re recording. We had a song on our first album (‘‘Dream Into Nightmare”) that had 96 tracks if I remember correctly. Lots of vocal overdubs and doubles, triples etc. Loads of different guitar tracks, a ton of different keyboard parts as well. Recording to us means creating something that is still worthwhile listening to after you’ve heard it many times. And preferably every time you listen you can hear something new due to our multi-layered way of mixing. Performing live is straight forward rock n roll!!
+<p style="background-color: #dfdfdf;"><strong>AAP – And how often does overdubbing come to play?</strong></p>
 
-AAP – What is the writing process like?
+*A: It totally depends on the type of track we’re recording. We had a song on our first album (‘‘Dream Into Nightmare”) that had 96 tracks if I remember correctly. Lots of vocal overdubs and doubles, triples etc.* 
 
-A: The writing process for our third album is built on a few pillars. First of all we check if there are any completed songs or bits and pieces from earlier recordings that are worth trying to work out or re-arrange. Same goes for any lyrics that are completely or partly done and seem worthwhile.
+*Loads of different guitar tracks, a ton of different keyboard parts as well. Recording to us means creating something that is still worthwhile listening to after you’ve heard it many times. *
 
-Next pillar is that we write completely new songs from scratch.
+*And preferably every time you listen you can hear something new due to our multi-layered way of mixing. Performing live is straight forward rock n roll!!*
 
-Third pillar is that we look if there are any covers that we have played live or that we think we can totally re-arrange into a HARDLAND version. N
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-one of the before mentioned is mandatory. But are just the three sides we look at things. Up until now I was the only person to (re-)arrange our music, write lyrics, come up with vocal harmonies.
+<p style="background-color: #dfdfdf;"><strong>AAP – What is the writing process like?</strong></p>
 
-The plan is that Marco (our keyboardist) is going to join in writing and maybe (re-)arranging stuff. We’ll see how that works.
+*A: The writing process for our third album is built on a few pillars. First of all we check if there are any completed songs or bits and pieces from earlier recordings that are worth trying to work out or re-arrange. Same goes for any lyrics that are completely or partly done and seem worthwhile.*
 
-AAP – Is composition impulsive and intuitive?
+*Next pillar is that we write completely new songs from scratch.*
 
-A: Writing happens impulsive and intuitive and also fully thought out. Even though I can’t read or write music notes, I sometimes have complete songs fully worked out in my head. I only need to record all the separate parts into the computer and send it over to the rest of the band to see if they want to change or add parts to it. One thing that doesn’t really happen is jamming…we don’t don’t really jam and record ideas.
+*Third pillar is that we look if there are any covers that we have played live or that we think we can totally re-arrange into a HARDLAND version.*
 
-Personally, that doesn’t work for me. I want to be able to jump back and forth into the ideas and jamming often means playing a certain theme over and over…which totally bores the crap outta me! Lol.
+*None of the before mentioned is mandatory. But are just the three sides we look at things. Up until now I was the only person to (re-)arrange our music, write lyrics, come up with vocal harmonies.*
 
-AAP – What is your present practise and rehearsal routine like?
+*The plan is that Marco (our keyboardist) is going to join in writing and maybe (re-)arranging stuff. We’ll see how that works.*
 
-A: Since April we haven’t been able to rehearse due to pandemic lockdowns etc. Once it is safe again to go out on the road we will go and rehearse shortly but fiercely to get ready for live action mode!
+<p style="background-color: #dfdfdf;"><strong>AAP – Is composition impulsive and intuitive?</strong></p>
 
-AAP – How is you collaboration with MetalMessage and Markus Eck and how did it come about?
+*A: Writing happens impulsive and intuitive and also fully thought out. Even though I can’t read or write music notes, I sometimes have complete songs fully worked out in my head.*
 
-A: Before working with Markus we were working with a completely untrustworthy guy from Wales, England. All he wanted was money, but refused to do anything for it. So we got a little more apprehensive than we already were.
+*I only need to record all the separate parts into the computer and send it over to the rest of the band to see if they want to change or add parts to it.* 
 
-Talked to some friends in the business and Markus’ name came across as being a really trustworthy and passionate guy. A really hard worker. Even though I noticed he mostly worked with Metal bands (just his name says it all: Metalmessage), so I wasn’t sure if he was even interested in working with us. Talking to him we had an immediate click…he had heard our music and got impressed by it. The rest is history as they say!
+*One thing that doesn’t really happen is jamming…we don’t don’t really jam and record ideas.*
 
-AAP – I read about “no ego no BS” applying to HARDLAND. Is there a leader in the band?
+*Personally, that doesn’t work for me. I want to be able to jump back and forth into the ideas and jamming often means playing a certain theme over and over…which totally bores the crap outta me! Lol.*
 
-A: Exactly! The only thing that matters is to create the best possible version of a song. We only think along those lines and whoever plays what, doesn’t matter. The first two albums were basically recorded and performed by mainly two guys, Paul and myself. And as Paul and I are completely different guitar players, we used whatever style necessary. It could therefor happen that in a certain song the solo or chord schemes were played by two different people. Just to make sure that the outcome was the best!
+<p style="background-color: #dfdfdf;"><strong>AAP – What is your present practise and rehearsal routine like?</strong></p>
 
-We totally put aside our egos to make sure that whatever we want to record is done the very best way. But with creating a complete band album this time around, I’m sure things will go a little different. Maybe I can tell you afterwards how that worked out!! Lol!
+*A: Since April we haven’t been able to rehearse due to pandemic lockdowns etc. Once it is safe again to go out on the road we will go and rehearse shortly but fiercely to get ready for live action mode!*
 
-MAtW – I saw that responsibilities are shared within the band, from video edits and merch prints, event/sound managing. You are all, also involved in more or less musical side-projects and activities?
+<p style="background-color: #dfdfdf;"><strong>AAP – How is you collaboration with MetalMessage and Markus Eck and how did it come about?</strong></p>
 
-A: True! There’s no use in having people taking care of something that they know nothing about. So we divide the tasks based on our specific qualities and capabilities. And we are very fortunate to have a friends who are extremely talented in things that bands need. Such as videoclips, artwork, graphic design, Photography, etc. There’s a whole team available for us which gives us a very comfortable feeling.
+*A: Before working with Markus we were working with a completely untrustworthy guy from Wales, England. All he wanted was money, but refused to do anything for it. So we got a little more apprehensive than we already were.*
 
-AAP – That brings a lot of variety in your lifestyles as well as your music.
+*Talked to some friends in the business and Markus’ name came across as being a really trustworthy and passionate guy. A really hard worker.* 
 
-A: Correct! The versatility in our music can be heard on our albums. We write and record whatever makes us feel good. We are not stuck to any style or anything. Of course we keep in mind to arrange the songs in a 80’s kinda style, melodic, alternative… but we record just as easily an alternative metal track as we recorded a waltz!! Simply because we wanted to and loved it. An Australian reviewer called us musical daredevils!! I love that title!! We would get bored playing the same things over and over again. And variety in our lifestyles…most definitely. Our family lives totally differ. But we all share the same passion: Music!
+*Even though I noticed he mostly worked with Metal bands (just his name says it all: Metalmessage), so I wasn’t sure if he was even interested in working with us.* 
 
-AAP – Speaking of which. You have a keen eye and view your albums from a buyer’s perspective. Do you have a target audience in mind? Or commercially-wise?
+*Talking to him we had an immediate click…he had heard our music and got impressed by it. The rest is history as they say!*
 
-A: Yeah… we absolutely have a target audience in mind and also focus on our material (artwork / graphic design, but also our merch). We’ve noticed that our music connects best with people from the age of 35+. People who have fond memories of the 80’s and / or love that sound. Young kids seem to listen more to a different kinda music these days.
+<p style="background-color: #dfdfdf;"><strong>AAP – I read about “no ego no BS” applying to HARDLAND. Is there a leader in the band?</strong></p>
 
-With every album we think hard on how to present it. What would we love to see / receive ourselves when buying an album from our favorite bands. That’s why we came up with this very special digi-pack with an extra DVD added to the album. Simply because we would love something like that ourselves and hope that our audience feels the same way.
+*A: Exactly! The only thing that matters is to create the best possible version of a song. We only think along those lines and whoever plays what, doesn’t matter.* 
 
-That we chose a gypsy as our mascot as our cover art, has to do with the fact that our first single was titled “Hot Gypsy” and we loved that idea to take it further and create our own mascot, as what Eddy is to Iron Maiden, is this Gypsy Girl to us!
+*The first two albums were basically recorded and performed by mainly two guys, Paul and myself. And as Paul and I are completely different guitar players, we used whatever style necessary.* 
 
+*It could therefor happen that in a certain song the solo or chord schemes were played by two different people. Just to make sure that the outcome was the best!*
 
+*We totally put aside our egos to make sure that whatever we want to record is done the very best way. But with creating a complete band album this time around, I’m sure things will go a little different.* 
 
-AAP – What do you want people to take away from your music most of all?
+*Maybe I can tell you afterwards how that worked out!! Lol!*
 
-A: We hope that our music touches or resonates with people or will simply give them a good time while listening to it! Especially in the pandemic days people are in need of good vibes. There’s enough stress and misery going on right now. It’s important to be able to take a step back, let your mind relax and wonder away while listening to some great music. Don’t you agree?
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-AAP – As fans and music consumers yourselves, do you favor the old school,  physical medium, or digitalized music?
+<p style="background-color: #dfdfdf;"><strong>AAP – I saw that responsibilities are shared within the band, from video edits and merch prints, event/sound managing. You are all, also involved in more or less musical side-projects and activities?</strong></p>
 
-A: We love all actually. The digital world has become a lot faster consumptively. An MP3 is deleted or not being listened to a lot faster and easier than when people buy a CD or Vinyl. First of all because that is more expensive of course, so people want more out of it! That’s simple. I mean, digital music is a way of throwing new material out there with a chance of trying out new styles.
+*A: True! There’s no use in having people taking care of something that they know nothing about. So we divide the tasks based on our specific qualities and capabilities.* 
 
-Since an MP3 doesn’t usually last as long as a CD or vinyl it doesn’t hurt us artists less if we feel like trying something different. Music that will stand the test of time will still have to be available on CD or Vinyl. So we love every opportunity, as long as people keep listening to music!! It’s up to them to decide in what shape or format they prefer to listen to it!!
+*And we are very fortunate to have a friends who are extremely talented in things that bands need. Such as videoclips, artwork, graphic design, Photography, etc. There’s a whole team available for us which gives us a very comfortable feeling.*
 
-AAP – Remi is learning to play cello. Do you all have similar challenges, musical or non musical?
+<p style="background-color: #dfdfdf;"><strong>AAP – That brings a lot of variety in your lifestyles as well as your music.</strong></p>
 
-A: No, not really… at least not at the moment. Too busy preparing for Christmas! 😊 But whenever it is needed to be able to play an instrument that neither one of us knows how to play, maybe it might trigger something.
+*A: Correct! The versatility in our music can be heard on our albums. We write and record whatever makes us feel good. We are not stuck to any style or anything.* 
 
-MAtW – Computer game scores VS movie soundtracks?
+*Of course we keep in mind to arrange the songs in a 80’s kinda style, melodic, alternative… but we record just as easily an alternative metal track as we recorded a waltz!! Simply because we wanted to and loved it.*
 
-A: We love both! Totally different approach is needed. I have already worked on a movie soundtrack, a long time ago with one of my former bands. It was quite a challenge to write music based on a scene time schedule etc. We learned a lot from doing that. Game scores… would love to. Anywhere people would like to use our music, games, movies, commercials… let’s talk! 😉
+*An Australian reviewer called us musical daredevils!! I love that title!! We would get bored playing the same things over and over again. And variety in our lifestyles…most definitely. Our family lives totally differ.* 
 
-AAP – You also have in sight a band documentary? Any updates or progress?
+*But we all share the same passion: Music!*
 
-A: Yeah..lol, we started that based on filming the making of our first album and first video clip. But then we talked to professionals and they basically talked us out of it. Too much talking heads and somehow we couldn’t get the story out the way we had hoped. It didn’t work out the way we had hoped. But no biggy. You always learn stuff from things like this. We don’t consider it a failure, just a learning process. After all, we’re musicians, not movie directors! Lol.
+<p style="background-color: #dfdfdf;"><strong>AAP – Speaking of which. You have a keen eye and view your albums from a buyer’s perspective. Do you have a target audience in mind? Or commercially-wise?</strong></p>
 
-AAP – What is the most difficult song on “In Control” for each of you (and why)?
+*A: Yeah… we absolutely have a target audience in mind and also focus on our material (artwork / graphic design, but also our merch).* 
 
-A: Two songs actually, The Powers Within, due to the complex rhythm patterns in combination with singing at the same time. And the other one is Love, love, love, due to the harmonies in there that are pretty cool, but also hard to do while playing an instrument at the same time.
+*We’ve noticed that our music connects best with people from the age of 35+. People who have fond memories of the 80’s and / or love that sound. Young kids seem to listen more to a different kinda music these days.*
 
-AAP – As fans and musicians, what does it take for a (nowadays) band to impress you?
+*With every album we think hard on how to present it. What would we love to see / receive ourselves when buying an album from our favorite bands.*
 
-A: Not much, really…it could be a great chorus, or guitar solo, or fantastic drum rhythm…just anything that regular listeners enjoy about a certain song. I can really appreciate the craftmanship of other musicians or vocalists!
+*That’s why we came up with this very special digi-pack with an extra DVD added to the album. Simply because we would love something like that ourselves and hope that our audience feels the same way.*
 
-AAP – How do you define success?
+*That we chose a gypsy as our mascot as our cover art, has to do with the fact that our first single was titled “Hot Gypsy” and we loved that idea to take it further and create our own mascot, as what Eddy is to Iron Maiden, is this Gypsy Girl to us!*
 
-A: That’s a hard one. Success means something different to each and every one of us. How do you measure it, what’s important to you. Just the simple fact that people listen to our music and appreciate it by buying it, or streaming it, or buying merch is a proof of success.
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-Of course, you can measure it by numbers… some think you can only call yourself successful once you’ve sold a million copies of your album or so. But to me it’s not a matter of quantity as it is a matter of positive response to what we do. That’s the greatest gift of all. And of course, the more people that love what we do, the cooler it is. 😊
+<p style="background-color: #dfdfdf;"><strong>AAP – What do you want people to take away from your music most of all?</strong></p>
 
-AAP – What is a compromises that you’re unwilling to make?
+*A: We hope that our music touches or resonates with people or will simply give them a good time while listening to it! Especially in the pandemic days people are in need of good vibes. There’s enough stress and misery going on right now. It’s important to be able to take a step back, let your mind relax and wonder away while listening to some great music. Don’t you agree?*
 
-A: We already passed that one… we could have signed with bigger labels but they wanted to have a say in on how we would present our music etc. We really wanted to be judged by our own qualities and flukes and if that means we miss out on a bigger market, so be it.
+<p style="background-color: #dfdfdf;"><strong>AAP – As fans and music consumers yourselves, do you favor the old school,  physical medium, or digitalized music?</strong></p>
 
-Numbers are great but only when you are appreciated for what you have created. Not by what the label pumped into the project on marketing budget or stuff like that. I see commercials for certain albums, big bucks have been put into that… and really… it sounds like the so ‘hundredth’ copy of some other artist!! Because all labels want you to work with the same people. That’s why diversity has become a lot less these past years. I prefer the indie kinda approach.
+*A: We love all actually. The digital world has become a lot faster consumptively. An MP3 is deleted or not being listened to a lot faster and easier than when people buy a CD or Vinyl.*
 
-AAP – Time for the last question, the Random Question. What’s invisible but you wish people could see?
+*First of all because that is more expensive of course, so people want more out of it! That’s simple. I mean, digital music is a way of throwing new material out there with a chance of trying out new styles.*
 
-A: We are a pretty transparent band, we may not always tell everything there is to tell, but that doesn’t mean we want to hide it. We mainly focus on our music and creativity. And if people like to know something, they can ask us anything and we will always answer their questions.
+*Since an MP3 doesn’t usually last as long as a CD or vinyl it doesn’t hurt us artists less if we feel like trying something different. Music that will stand the test of time will still have to be available on CD or Vinyl. So we love every opportunity, as long as people keep listening to music!! It’s up to them to decide in what shape or format they prefer to listen to it!!*
 
-AAP – In case there is anything that you would like to share and I may have missed, please do so. Thank you once again and hoping to see you live in 2021.
+<p style="background-color: #dfdfdf;"><strong>AAP – Remi is learning to play cello. Do you all have similar challenges, musical or non musical?</strong></p>
 
-A: We just released our first ever Christmas track: **"Merry X-mas Everybody"**. Yep a cover of the famous track by British Rockers **Slade**. It’s always tricky to cover a track that famous and that much loved. But we felt it was the only Christmas song that we cared about covering, as long as we were able to make it our own and come up with an arrangement that would totally fit the typical HARDLAND sound.
+*A: No, not really… at least not at the moment. Too busy preparing for Christmas! 😊 But whenever it is needed to be able to play an instrument that neither one of us knows how to play, maybe it might trigger something.*
 
-And biased as I may be, I think we really succeeded in that. We got kind permission of *EMI Publishing* and the guys from **Slade** to release it and we are very happy with the result. Mixed by ourselves together with a good friend and mastered, as always, at **Abbey Road London** it came out really cool! Especially the Beatle-esque middle section with all the vocals was really fun to record.
+<p style="background-color: #dfdfdf;"><strong>AAP – Computer game scores VS movie soundtracks?</strong></p>
 
-A good friend of mine, the drummer from my very first band, **John Forsting** of **The HeroeZ**, came and contributed some great vocal parts as well. I knew he had a great voice and is as creative as we are with vocal harmonies, so it was actually a no brainer to ask him to join in. People that would like to hear or read more of **HARDLAND** can go to these links and click on every social media, website, or streaming link that shows up. We look forward to hearing the response from your readers / followers.
+*A: We love both! Totally different approach is needed. I have already worked on a movie soundtrack, a long time ago with one of my former bands. It was quite a challenge to write music based on a scene time schedule etc.* 
+
+*We learned a lot from doing that. Game scores… would love to. Anywhere people would like to use our music, games, movies, commercials… let’s talk! 😉*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – You also have in sight a band documentary? Any updates or progress?</strong></p>
+
+*A: Yeah..lol, we started that based on filming the making of our first album and first video clip. But then we talked to professionals and they basically talked us out of it.* 
+
+*Too much talking heads and somehow we couldn’t get the story out the way we had hoped. It didn’t work out the way we had hoped. But no biggy. You always learn stuff from things like this. We don’t consider it a failure, just a learning process. After all, we’re musicians, not movie directors! Lol.*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
+<p style="background-color: #dfdfdf;"><strong>AAP – What is the most difficult song on “In Control” for each of you (and why)?</strong></p>
+
+*A: Two songs actually, The Powers Within, due to the complex rhythm patterns in combination with singing at the same time. And the other one is Love, love, love, due to the harmonies in there that are pretty cool, but also hard to do while playing an instrument at the same time.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – As fans and musicians, what does it take for a (nowadays) band to impress you?</strong></p>
+
+*A: Not much, really…it could be a great chorus, or guitar solo, or fantastic drum rhythm…just anything that regular listeners enjoy about a certain song. I can really appreciate the craftmanship of other musicians or vocalists!*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – How do you define success?</strong></p>
+
+*A: That’s a hard one. Success means something different to each and every one of us. How do you measure it, what’s important to you. Just the simple fact that people listen to our music and appreciate it by buying it, or streaming it, or buying merch is a proof of success.*
+
+*Of course, you can measure it by numbers… some think you can only call yourself successful once you’ve sold a million copies of your album or so.* 
+
+*But to me it’s not a matter of quantity as it is a matter of positive response to what we do. That’s the greatest gift of all. And of course, the more people that love what we do, the cooler it is. 😊*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – What is a compromises that you’re unwilling to make?</strong></p>
+
+*A: We already passed that one… we could have signed with bigger labels but they wanted to have a say in on how we would present our music etc. We really wanted to be judged by our own qualities and flukes and if that means we miss out on a bigger market, so be it.*
+
+*Numbers are great but only when you are appreciated for what you have created. Not by what the label pumped into the project on marketing budget or stuff like that.* 
+
+*I see commercials for certain albums, big bucks have been put into that… and really… it sounds like the so ‘hundredth’ copy of some other artist!! Because all labels want you to work with the same people.* 
+
+*That’s why diversity has become a lot less these past years. I prefer the indie kinda approach.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Time for the last question, the Random Question. What’s invisible but you wish people could see?</strong></p>
+
+*A: We are a pretty transparent band, we may not always tell everything there is to tell, but that doesn’t mean we want to hide it. We mainly focus on our music and creativity. And if people like to know something, they can ask us anything and we will always answer their questions.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – In case there is anything that you would like to share and I may have missed, please do so. Thank you once again and hoping to see you live in 2021.</strong></p>
+
+*A: We just released our first ever Christmas track: **"Merry X-mas Everybody"**. Yep a cover of the famous track by British Rockers **Slade**.* 
+
+*It’s always tricky to cover a track that famous and that much loved. But we felt it was the only Christmas song that we cared about covering, as long as we were able to make it our own and come up with an arrangement that would totally fit the typical HARDLAND sound.*
+
+*And biased as I may be, I think we really succeeded in that. We got kind permission of *EMI Publishing* and the guys from **Slade** to release it and we are very happy with the result.*
+
+*Mixed by ourselves together with a good friend and mastered, as always, at **Abbey Road London** it came out really cool! Especially the Beatle-esque middle section with all the vocals was really fun to record.*
+
+*A good friend of mine, the drummer from my very first band, **John Forsting** of **The HeroeZ**, came and contributed some great vocal parts as well.* 
+
+*I knew he had a great voice and is as creative as we are with vocal harmonies, so it was actually a no brainer to ask him to join in.* 
+
+*People that would like to hear or read more of **HARDLAND** can go to these links and click on every social media, website, or streaming link that shows up. We look forward to hearing the response from your readers / followers.*
 
 `,
 
