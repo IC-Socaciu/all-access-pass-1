@@ -693,11 +693,11 @@ This fact is 100% true: „The world’s most performed living composer, Arvo P�
 
     title: "Reactory Interview",
 
-    text: `Berlin based high-speed thrashers **Reactory** aligned their technicality, uncompromising variety and warp-like speed back in 2010.
+    text: `Berlin based high-speed thrashers [**Reactory**](https://www.facebook.com/REACTORY/) aligned their technicality, uncompromising variety and warp-like speed back in 2010.
 
-Having already released a Demo (2011), the **“Killed by Thrash”** EP (2013), full length albums **“High on Radiation”** (2014) and **“Heavy”** (2016), **Reactory** is currently working on their third full material.
+Having already released a Demo (2011), the **“Killed by Thrash”** EP (2013), full length albums **“High on Radiation”** (2014) and **“Heavy”** (2016), [**Reactory**](https://www.facebook.com/REACTORY/) is currently working on their third full material.
 
-The four catalysts behind **Reactory** Thrash warhead are: **Hänz Hazard** (vox), **Jerry Reactor** (guitar),  **Jonny Master** (bass) and **Caue Dos Santos** (drums).
+The four catalysts behind [**Reactory**](https://www.facebook.com/REACTORY/) Thrash warhead are: **Hänz Hazard** (vox), **Jerry Reactor** (guitar),  **Jonny Master** (bass) and **Caue Dos Santos** (drums).
 
 *As always, a huge **Thank You** to the band for their time, openness and availability!*
 
@@ -707,38 +707,76 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Welcome Thrash masters, greetings from AAP! It’s an honour to have you with us. What is the current mood in Reactory?</strong></p>
 
-*Hello Cristina! Thanks for the interest in Reactory. Right now, to be honest, the mood is great. I mean, we are all tired as hell from a long ride back home to Berlin but very satisfied and proud after a week recording our new album nearby Köln. It was intense and we are really looking forward to bring it out. Personally I am still so pumped about it that I need some time to calm down. Answering this interview is doing the job.*
+*Hello Cristina! Thanks for the interest in Reactory.* 
+
+*Right now, to be honest, the mood is great. I mean, we are all tired as hell from a long ride back home to Berlin but very satisfied and proud after a week recording our new album nearby Köln.* 
+
+*It was intense and we are really looking forward to bring it out.* 
+
+*Personally I am still so pumped about it that I need some time to calm down. Answering this interview is doing the job.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – You guys are working on your 3rd full album – any spoilers?</strong></p>
 
-*All we can say for now is that we put a lot of passion and energy into it during the whole process and some of the best songs we have written up until now are there. Of course we hope thrashers will dig it, but we follow our instinct and at the end of the day, it sounds like us.*
+*All we can say for now is that we put a lot of passion and energy into it during the whole process and some of the best songs we have written up until now are there.* 
 
-<p style="background-color: #dfdfdf;"><strong>AAP – You chose to record the new album at Gernhart Studio, again. How are the recording sessions going?</strong></p>
+*Of course we hope thrashers will dig it, but we follow our instinct and at the end of the day, it sounds like us.*
 
-*We know Martin already and felt like a natural decision to go back there. The sessions were great. From all the albums we recorded, this was the one we were the sharpest on our instruments, preparing months before to go in there and literally thrash those songs the hardest we can. It happened in a span of a week and Martin, besides knowing his shit with all the technical aspects like a boss, also possesses a great musical ear and will push you just right to the point of playing beyond the best you think you can.*
+<p style="background-color: #dfdfdf;"><strong>AAP – You chose to record the new album at [Gernhart Studio](https://www.facebook.com/gernhartstudio78/), again. How are the recording sessions going?</strong></p>
+
+*We know Martin already and felt like a natural decision to go back there. The sessions were great.* 
+
+*From all the albums we recorded, this was the one we were the sharpest on our instruments, preparing months before to go in there and literally thrash those songs the hardest we can.* 
+
+*It happened in a span of a week and Martin, besides knowing his shit with all the technical aspects like a boss, also possesses a great musical ear and will push you just right to the point of playing beyond the best you think you can.*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Any plans for a new video for the upcoming album?</strong></p>
 
-*Sure thing, I’d say even more than one. Probably will follow the style from the ones before but with a crazier twist and talking about the themes present on the new album. Shout out to the Soffocazzo Video maniacs!*
+*Sure thing, I’d say even more than one. Probably will follow the style from the ones before but with a crazier twist and talking about the themes present on the new album. Shout out to the [Soffocazzo Video](https://www.facebook.com/soffocazzo/) maniacs!*
 
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Who writes the lyrics and what are some of the themes on for the new material?</strong></p>
 
-*Hans is the mastermind behind the lyrics and can tell better about it than me. But of course we all read and get into the texts also to get a riff turning into an actual song. I see the lyrics on this new album reflecting a lot of things there are somewhat up to date with the actual state of the world and how people are reacting to that. Fucking all the natural resources and exploiting Mother Earth like we did and still do, are bringing serious consequences upon mankind and that will not get any smoother. Some other things too, such as the science applied to new warfare high tech killing methods for completely unnecessary reasons and the usual disgust towards how fucked up this all became. I could see the dude was angry when shouting his parts during the recording sessions. Not a happy album.*
+*Hans is the mastermind behind the lyrics and can tell better about it than me. But of course we all read and get into the texts also to get a riff turning into an actual song.* 
+
+*I see the lyrics on this new album reflecting a lot of things there are somewhat up to date with the actual state of the world and how people are reacting to that. Fucking all the natural resources and exploiting Mother Earth like we did and still do, are bringing serious consequences upon mankind and that will not get any smoother.* 
+
+*Some other things too, such as the science applied to new warfare high tech killing methods for completely unnecessary reasons and the usual disgust towards how fucked up this all became.* 
+
+*I could see the dude was angry when shouting his parts during the recording sessions. Not a happy album.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What is the songwriting process within Reactory, how do songs come to life?</strong></p>
 
-*Most of the times, Jerry has an idea for a riff, or even a melody and present to us in our basement, or in some cases record already the main thing at his home and send it to us. It may or may not contain an idea for a rhythm, and we start to putting the pieces together from there until we feel like it is right and add vocals to it. Sometimes after the instruments are there we may play a part longer of shorter to fit words to it. We do not really ‘jam’ a lot when talking about creating Reactory stuff but everybody in the band voices their opinions if the thing is really thrashing or just not rocking that hard.*
+*Most of the times, Jerry has an idea for a riff, or even a melody and present to us in our basement, or in some cases record already the main thing at his home and send it to us.* 
+
+*It may or may not contain an idea for a rhythm, and we start to putting the pieces together from there until we feel like it is right and add vocals to it.* 
+
+*Sometimes after the instruments are there we may play a part longer of shorter to fit words to it. We do not really ‘jam’ a lot when talking about creating Reactory stuff but everybody in the band voices their opinions if the thing is really thrashing or just not rocking that hard.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – You have had a stable line-up for a long time. What kind of a relationship is necessary between members in general and in your case?</strong></p>
 
-*Well, we are not the youngest around anymore and I would say it is more than just being able to be stuck in a van for a month or so, of course you gotta do that too, but in our case, we still like to hang together and still have fun playing a gig, or just drinking a beer out of a band/concert situation. I try to stick to the old DBAA philosophy, don’t be an asshole, and it works most of the time. We just took a step further on our silly bromance and the four members got a band tattoo some weeks ago. Must say in all these years, I can not remember one time that shit got serious and someone got really pissed off with the other. We are just chill dudes.*
+*Well, we are not the youngest around anymore and I would say it is more than just being able to be stuck in a van for a month or so, of course you gotta do that too, but in our case, we still like to hang together and still have fun playing a gig, or just drinking a beer out of a band/concert situation.* 
+
+*I try to stick to the old DBAA philosophy, don’t be an asshole, and it works most of the time. We just took a step further on our silly bromance and the four members got a band tattoo some weeks ago.* 
+
+*Must say in all these years, I can not remember one time that shit got serious and someone got really pissed off with the other. We are just chill dudes.*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What is a favorite piece of gear for each of you? (Beer counts as well)</strong></p>
 
-*OK, I am gonna guess this one because I am not answering for them but as for now, I think it is:
+*OK, I am gonna guess this one because I am not answering for them but as for now, I think it is:*
 
-Ulli is still in love with his bass amp. I think it has been a year already since he got the damn thing. But hell, we all love that mean bass sound. Jerry was trying some effect pedals but I would say he is more into his loyal axe. I am a drummer, so I really dig my new cymbals, like drummers do. Hans does not know his mic model. We all drink beer, smoke cigs and doobies if that is all into gear category as well.*
+*Ulli is still in love with his bass amp. I think it has been a year already since he got the damn thing. But hell, we all love that mean bass sound.* 
+
+*Jerry was trying some effect pedals but I would say he is more into his loyal axe.* 
+
+*I am a drummer, so I really dig my new cymbals, like drummers do.* 
+
+*Hans does not know his mic model. We all drink beer, smoke cigs and doobies if that is all into gear category as well.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What would you say your individual strength is musician?</strong></p>
 
@@ -746,11 +784,27 @@ Ulli is still in love with his bass amp. I think it has been a year already sinc
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What is the history of Reactory, how did you come together?</strong></p>
 
-*Jerry and Hans talked about the idea of playing aggressive thrash, around late 2010, the guys have known each other for ages already. Jerry asked Ulli for playing bass and Stachu played the drums on the demo and on the Killed by Thrash EP. I joined the band in the summer of 2013. Already knew Hans, at the time was living on the same floor as Jerry and got to meet Ulli in the band. We are all old punk rockers with a metal heart. Have been playing since then with this line up.*
+*Jerry and Hans talked about the idea of playing aggressive thrash, around late 2010, the guys have known each other for ages already.* 
+
+*Jerry asked Ulli for playing bass and Stachu played the drums on the demo and on the Killed by Thrash EP.* 
+
+*I joined the band in the summer of 2013. Already knew Hans, at the time was living on the same floor as Jerry and got to meet Ulli in the band.* 
+
+*We are all old punk rockers with a metal heart. Have been playing since then with this line up.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – And what was your first contact with music and your instruments? Was the idea to form a band in you from the start?</strong></p>
 
-*I speak for myself on this one. Born and raised in Sao Paulo, I was lucky enough to be in a very musical family, with a broad musical range, from regional music to a bit a classic, and a good portion of 70s rock through old records from my father and his brother who also played instruments. I gravitated towards the whole thing very naturally. Going to concerts from the folk group that my father played at the time was cool, it just felt nice to hang with that bunch of weirdos and as a kid it all seemed very interesting. On the early teenage years I dove head first into punk and by the time I was 15 years old and had the first school concert playing snotty versions of Ratos de Porao, Ramones and Nirvana. I never stopped since then, not even once there was a time where I was bandless after that. Maybe I should start gardening…..*
+*I speak for myself on this one. Born and raised in Sao Paulo, I was lucky enough to be in a very musical family, with a broad musical range, from regional music to a bit a classic, and a good portion of 70s rock through old records from my father and his brother who also played instruments.* 
+
+*I gravitated towards the whole thing very naturally. Going to concerts from the folk group that my father played at the time was cool, it just felt nice to hang with that bunch of weirdos and as a kid it all seemed very interesting.* 
+
+*On the early teenage years I dove head first into punk and by the time I was 15 years old and had the first school concert playing snotty versions of Ratos de Porao, Ramones and Nirvana.*
+ 
+*I never stopped since then, not even once there was a time where I was bandless after that. Maybe I should start gardening...*
+
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Your name is very visual, your imagery and overall concept is pure Thrash and vivid. What is the story behind the name?</strong></p>
 
@@ -758,25 +812,34 @@ Ulli is still in love with his bass amp. I think it has been a year already sinc
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What is your favourite type of venue since you have an individual sound and also carry props as well?</strong></p>
 
-*We do not carry props besides our backdrop and if we can set up our gear, we sure prefer to bring our own backline. I think it is cool if a band wants to put some effort into their live show with props and stuff besides the music, but it is just not our thing too much. My favorite type of venue are the ones were the crowd can go wild, no barricades or security guys, you can hear yourself and the other guys on stage and a fair amount of beer.*
+*We do not carry props besides our backdrop and if we can set up our gear, we sure prefer to bring our own backline.* 
+
+*I think it is cool if a band wants to put some effort into their live show with props and stuff besides the music, but it is just not our thing too much.* 
+
+*My favorite type of venue are the ones were the crowd can go wild, no barricades or security guys, you can hear yourself and the other guys on stage and a fair amount of beer.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Performing live shows at home or abroad: what is better, harder or easier?</strong></p>
 
 *There is not really better. Abroad is more exciting especially if we were not there before but is also harder since you don’t know what to expect from people, culture, down to gear and logistical shenanigans.*
 
-<p style="background-color: #dfdfdf;"><strong>AAP – Speaking of which, will cover art be signed by Doomsday Graphics this time around as well? How did the collaboration start?</strong></p>
+<p style="background-color: #dfdfdf;"><strong>AAP – Speaking of which, will cover art be signed by [Doomsday Graphics](https://www.facebook.com/people/Doomsday-Graphics/100063528068682/) this time around as well? How did the collaboration start?</strong></p>
 
-*Nesha is a good friend of us and already did and still does illustrations for many bands, festivals and venues around the globe. He captured the imagery of the band for the first moment on and he lives in the same city, which makes the whole process a lot easier when discussing ideas in person and not over the internet only. He is in charge for the next album cover.*
+*Nesha is a good friend of us and already did and still does illustrations for many bands, festivals and venues around the globe.* 
+
+*He captured the imagery of the band for the first moment on and he lives in the same city, which makes the whole process a lot easier when discussing ideas in person and not over the internet only. He is in charge for the next album cover.*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – The next months you will be touring quite a lot, got some shows lined up with Exumer. Any expectations?</strong></p>
 
 *We are really looking forward to this one. Many cities and places we haven’t played before, with a new set list presenting the songs from the upcoming album also and a killer package of bands.*
 
-<p style="background-color: #dfdfdf;"><strong>AAP – Some of you were involved in side projects such as Social Chaos and Tankobot – are either still active / are you involved in any more or less musical projects?</strong></p>
+<p style="background-color: #dfdfdf;"><strong>AAP – Some of you were involved in side projects such as [Social Chaos](https://www.facebook.com/socialchaos666/) and [Tankobot](https://www.facebook.com/tankobot/) – are either still active / are you involved in any more or less musical projects?</strong></p>
 
 *I would not say side projects, since Reactory was not around when we were active with these bands. I know Social Chaos is still active and I think Tankobot too.*
 
-<p style="background-color: #dfdfdf;"><strong>AAP – How did the collaboration with FDA Records come about?</strong></p>
+<p style="background-color: #dfdfdf;"><strong>AAP – How did the collaboration with [FDA Records](https://www.facebook.com/FDAREC/) come about?</strong></p>
 
 *Rico approached us and we knew about his work too, having a more death metal output and a good distribution. The records are sold out and it was a good partnership.*
 
@@ -788,13 +851,18 @@ Ulli is still in love with his bass amp. I think it has been a year already sinc
 
 *I think we still have a lot ahead of us and as long as we have fun playing these songs and being as a unit, we gonna do it. What I want to say it that we are looking more to the future than to the past 10 years, that sure, were great too, but now we all are very confident being who we are. Gee, I’m high as fuck!*
 
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
 <p style="background-color: #dfdfdf;"><strong>AAP – How much was instinct and how much was thinking it out when finding own sound and image?</strong></p>
 
-*Sound it is for the most part instinct, like, if your guts and ears and energy feels thrashy enough, and makes you want to headbang to what you are playing you know it is right. Image, like i said about stage props and stuff, we just go on stage the way we were dressed before and there is not much to it. Only untold rule is no flip flops. ButIi just told.*
+*Sound it is for the most part instinct, like, if your guts and ears and energy feels thrashy enough, and makes you want to headbang to what you are playing you know it is right.* 
+
+*Image, like i said about stage props and stuff, we just go on stage the way we were dressed before and there is not much to it. Only untold rule is no flip flops. But I just told.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What is your opinion on sound change – being experimental or setting a trademark?</strong></p>
 
-* I like both and think that is good to some bands and horrible for others. We can try some things as a band but by now, we know like a song of Reactory should sound.*
+*I like both and think that is good to some bands and horrible for others. We can try some things as a band but by now, we know like a song of Reactory should sound.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – For Reactory is Thrash a statement or music / a means of expression? Or both?</strong></p>
 
