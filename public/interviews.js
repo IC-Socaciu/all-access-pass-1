@@ -1130,7 +1130,9 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Time for the last question, the Random Question. What’s invisible but you wish people could see?</strong></p>
 
-*A: We are a pretty transparent band, we may not always tell everything there is to tell, but that doesn’t mean we want to hide it. We mainly focus on our music and creativity. And if people like to know something, they can ask us anything and we will always answer their questions.*
+*A: We are a pretty transparent band, we may not always tell everything there is to tell, but that doesn’t mean we want to hide it. We mainly focus on our music and creativity.* 
+
+*And if people like to know something, they can ask us anything and we will always answer their questions.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – In case there is anything that you would like to share and I may have missed, please do so. Thank you once again and hoping to see you live in 2021.</strong></p>
 
