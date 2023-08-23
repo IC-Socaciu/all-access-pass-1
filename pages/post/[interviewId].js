@@ -109,6 +109,7 @@ export default function InterviewArticle() {
             />
             <CharCount>{messageLength}/150</CharCount>
           </InputContainer>
+
           <ButtonContainer>
             <SubmitButton type="submit">Submit</SubmitButton>
           </ButtonContainer>
@@ -166,6 +167,7 @@ const ThumbUpIcon = styled(ThumbUps)`
 const CommentsContainer = styled.div`
   margin-top: 20px;
   margin-bottom: 100px;
+  padding-bottom: 120px;
 `;
 
 const DeleteButton = styled.button`
@@ -173,9 +175,10 @@ const DeleteButton = styled.button`
   font-size: 16px;
   font-weight: 700;
   background-color: #fafafa;
-  border: none;
+  border: solid 1px #95091b;
   color: #95091b;
   cursor: pointer;
+  position: absolute;
 `;
 
 const InputContainer = styled.div`
