@@ -412,175 +412,273 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
   {
     id: "3",
     page: "1",
-    tags: ["Toomas Vanem", "Merliis Järve"],
+    tags: [
+      "Toomas Vanem",
+      "Merliis Järve",
+      "RoundSound Studios",
+      "Maris Savik",
+    ],
 
     title: "Toomas Vanem Interview",
 
-    text: `Estonian studio and session guitar virtuoso and composer **TOOMAS VANEM**, started his music career in the 1980s.
+    text: `Estonian studio and session guitar virtuoso and composer [TOOMAS VANEM](https://www.facebook.com/ToomasGuitar/‚), started his music career in the 1980s.
 
 Over the years Toomas has played in multiple rock bands and projects and has remarkable career also as session musician.
 
-In 2014 Toomas Vanem wrote, recorded and produced his first solo instrumental progressive rock music album **“Toomas Vanem I”**, which features American bass legend *Stu Hamm*. The compositions on the album are harsh, but also varied and colorful. A collage of different stories / stories about the world and life written in the language of music.
+In 2014 [**Toomas Vanem**](https://www.facebook.com/ToomasGuitar/‚) wrote, recorded and produced his first solo instrumental progressive rock music album **“Toomas Vanem I”**, which features American bass legend *Stu Hamm*. 
 
-**“Toomas Vanem II”**, was released at the beginning of 2022 and it is self described as *“unique blend of styles from jazz to metal fusion music that is far beyond the limits of your imagination”*. 
-**“Toomas Vanem II”** was mixed and produced by **Toomas Vanem** and mastered by **Keijo Koppel** at **RoundSound Studios**. 
-The cover art is signed by **Merliis Järve** and the album design was realized by **Maris Savik**.
 
-In recent news, **TOOMAS VANEM** has been invited to play on festival **SÕRU JAZZ FESTIVAL**, which will be held on 18.06.2022 on the Estonian island of Hiiumaa.
+The compositions on the album are harsh, but also varied and colorful. A collage of different stories / stories about the world and life written in the language of music.
 
+**“Toomas Vanem II”**, was released at the beginning of 2022 and it is self described as *"a unique blend of styles from jazz to metal fusion music that is far beyond the limits of your imagination”*. 
+
+**“Toomas Vanem II”** was mixed and produced by [**Toomas Vanem**](https://www.facebook.com/ToomasGuitar/‚) and mastered by **Keijo Koppel** at [**RoundSound Studios**](https://de-de.facebook.com/RoundSoundStuudio). 
+The cover art is signed by [**Merliis Järve**](https://www.instagram.com/merliisart/?hl=de) and the album design was realized by [**Maris Savik**](https://www.instagram.com/preilimaris/?hl=de).
+
+In recent news, [**Toomas Vanem**](https://www.facebook.com/ToomasGuitar/‚) has been invited to play on festival [**SÕRU JAZZ FESTIVAL**](https://www.facebook.com/sorujazz), which will be held on 18.06.2022 on the Estonian island of Hiiumaa.
 
 
 *As always, a huge **Thank You** for your time, openness and availability!*
 
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-
-**AAP – Hello, Toomas! Welcome on our virtual pages and thank you for taking the time to do this interview with All-Access-Pass!**
+<p style="background-color: #dfdfdf;"><strong>AAP – Hello, Toomas! Welcome on our virtual pages and thank you for taking the time to do this interview with All-Access-Pass!</strong></p>
 
 *Toomas Vanem: Hi, thank you for the opportunity to talk to you! The pleasure is all mine!*
 
 
-**AAP – The year 2022 kicked off with the release of your newest instrumental album, “Toomas Vanem II”.**
+<p style="background-color: #dfdfdf;"><strong>AAP – The year 2022 kicked off with the release of your newest instrumental album, “Toomas Vanem II”.</strong></p>
 
-*TV – Yes, that’s true. This is my second solo album and to be honest it took me a little too long to finish it. My first one was released 2014 so it is 8 years. Hope to rise a tempo little bit with the third one, which is in my mind and few things are also on my hard disks already. I am very grateful to all the fabulous people that helped and supported me to finish “Toomas Vanem II” and pushed me towards the release. Thank you so much!*
+*TV – Yes, that’s true. This is my second solo album and to be honest it took me a little too long to finish it. My first one was released 2014 so it is 8 years.* 
 
+*Hope to rise a tempo little bit with the third one, which is in my mind and few things are also on my hard disks already.*
 
-**AAP – The tracks on the “Toomas Vanem II” album are just as assorted style-wise but the sound and approach are slightly darker and heavier. The influences appear to be infiltrated even more subtly in each song. Looking back to your previous solo material “Toomas Vanem I” do the new ideas start spontaneous or you start with a vision of what you want the album to sound like?**
-
-*TV – Well there is both! I write music quite spontaneously, whatever comes to my mind and whatever mood I am in, and so on. I usually come up with composing about 12-15 songs for album. At some point I stop and start looking back what I have written, and choose tracks that will end up on the album, and finish them. I might change also the arrangements to fit the overall mood a bit for album.
-
-In general I want my album to sound happy and make people feeling good while listening to it. On my first solo album I was experimenting with different styles. On new album the experimenting continues and to be honest my vision or goal for the great instrumental guitar album is kind of old school maybe, but I like Jeff Beck records for instance, where tracks wary little bit genre or style-wise, but there is still Jeff’s guitar playing on top all of them. And you don’t get bored listening. Those are different stories that guitar player is telling you through his music on the album. I have listened to some so called conceptual albums, where for me, there is really only one song happening on the album, all the other tracks are kind of versions of that same song. I try to avoid that with my albums. I like stories! It keeps things fresh for me! With that in mind, my albums are conceptual, just I have a different concept!*
+*I am very grateful to all the fabulous people that helped and supported me to finish **“Toomas Vanem II”** and pushed me towards the release. Thank you so much!*
 
 
-**AAP – How did the collaboration with Andrus Lillepea, Kyle Hughes, Henno Kelp, Runno Tamra come about?**
+<p style="background-color: #dfdfdf;"><strong>AAP – The tracks on the “Toomas Vanem II” album are just as assorted style-wise but the sound and approach are slightly darker and heavier. 
 
-* TV – Andrus and Henno are good buddies of mine and hell of a great professional musicians. They are my partners to do also live shows with when we have a chance to play my music. Kyle Hughes appears on the album as quest star. He somehow heard my first album and liked it so much that contacted me and offered to play tracks to my new album. I said why not, lets do it, and Kyle did his brilliant drumming at UK and send files to me over the internet.*
+The influences appear to be infiltrated even more subtly in each song. 
 
+Looking back to your previous solo material “Toomas Vanem I” do the new ideas start spontaneous or you start with a vision of what you want the album to sound like?</strong></p>
 
-**AAP – Do you have a personal favorite track off the “Toomas Vanem II” album? And why?**
+*TV – Well there is both! I write music quite spontaneously, whatever comes to my mind and whatever mood I am in, and so on.*
+ 
+*I usually come up with composing about 12-15 songs for album. At some point I stop and start looking back what I have written, and choose tracks that will end up on the album, and finish them* 
+
+*I might change also the arrangements to fit the overall mood a bit for album.*
+
+*In general I want my album to sound happy and make people feeling good while listening to it. On my first solo album I was experimenting with different styles.* 
+
+*On new album the experimenting continues and to be honest my vision or goal for the great instrumental guitar album is kind of old school maybe, but I like Jeff Beck records for instance, where tracks wary little bit genre or style-wise, but there is still Jeff’s guitar playing on top all of them.* 
+
+*And you don’t get bored listening. Those are different stories that guitar player is telling you through his music on the album.* 
+
+*I have listened to some so called conceptual albums, where for me, there is really only one song happening on the album, all the other tracks are kind of versions of that same song.* 
+
+*I try to avoid that with my albums. I like stories! It keeps things fresh for me! With that in mind, my albums are conceptual, just I have a different concept!*
+
+<img src="https://all-access-pass.de/wp-content/uploads/2022/02/ToomasVanem-II_Digital-Release-Vinyl-Cover_3000px_ver02-1-684x684.jpg" alt="Toomas Vanem II album cover" style="max-width: 300px; max-height: 300px;"> 
+
+<p style="background-color: #dfdfdf;"><strong>AAP – How did the collaboration with Andrus Lillepea, Kyle Hughes, Henno Kelp, Runno Tamra come about?</strong></p>
+
+*TV – Andrus and Henno are good buddies of mine and hell of a great professional musicians. They are my partners to do also live shows with when we have a chance to play my music.* 
+
+*Kyle Hughes appears on the album as quest star. He somehow heard my first album and liked it so much that contacted me and offered to play tracks to my new album.* 
+
+*I said why not, lets do it, and Kyle did his brilliant drumming at UK and send files to me over the internet.*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Do you have a personal favorite track off the “Toomas Vanem II” album? And why?</strong></p>
 
 *TV – Well, not really. I dig them all.*
 
 
-**AAP – As an artist that masters both, would you tip the scales in favour of melody or virtuosity? Which one is more important or if this is the same case for you?**
+<p style="background-color: #dfdfdf;"><strong>AAP – As an artist that masters both, would you tip the scales in favour of melody or virtuosity? 
 
-*TV – For me, music is melody! The melody could be simple and It could be super complex, but it has to touch your ears as a listener on emotional basis. Music without melody is not music at all for me. There exists music without a melody but I am not super excited about that. I think some sort of virtuosity is also needed to impress listeners and entertain your audience or public. But it does not mean that you must or have play fast. Virtuosity is much more than just random fast shred on the neck of the guitar.*
+Which one is more important or if this is the same case for you?</strong></p>
 
-**AAP – What is you composing approach, you seem to use lot of scales and unusual chords and harmonies. Tell us more about how you write your music?**
+*TV – For me, music is melody! The melody could be simple and It could be super complex, but it has to touch your ears as a listener on emotional basis.*
 
-*TV – The chords and scales are the same thing really. For my compositional concept chords and harmonies comes from scales. On both my albums I have used plenty of unusual exotic scales. By that I mean I try to look away, to the different direction from major/minor or blues scale. Which are also fine. I have used Indian scales (Pantuvarali) and Modes of melodic minor and other stuff. Thing is, I take a scale and write it down on the paper, all the different chords that are possible to construct from that scale notes. Then I start experimenting and playing around with those chords, and compose melodies or riffs out of that scale, and modulate and do other crazy stuff. This is nothing new to jazz musicians or players. But in rock music this is not so common.*
+*Music without melody is not music at all for me. There exists music without a melody but I am not super excited about that. I think some sort of virtuosity is also needed to impress listeners and entertain your audience or public.* 
 
+*But it does not mean that you must or have play fast. Virtuosity is much more than just random fast shred on the neck of the guitar.*
 
-**AAP – When writing new music do you seclude yourself from any influences or, on the contrary, listen to more music and expose yourself to more styles and new artists?**
+<p style="background-color: #dfdfdf;"><strong>AAP – What is you composing approach, you seem to use lot of scales and unusual chords and harmonies. 
 
-*TV – I think that I can not seclude myself from the influences that I have, cause they are deep inside of me anyway. But what I do when I am writing, I try to let go of everything that I have heard and let my imagination fly free. And move fast to the directions that my creative mind wants to go. I don’t want to finish the details as I write, cause this would put breaks and stop the creative juice flowing. I can always come back later, next day and re-polish things when I am arranging/producing the song.
+Tell us more about how you write your music?</strong></p>
 
-And another thing is that I am constantly trying to grow to not sound as other artists and would like to have my own style. But of course everything that is around influences you, by that I mean everything, not just music.*
+*TV – The chords and scales are the same thing really. For my compositional concept chords and harmonies comes from scales.* 
 
+*On both my albums I have used plenty of unusual exotic scales. By that I mean I try to look away, to the different direction from major/minor or blues scale. Which are also fine.*
 
-**AAP – What is your guitar practice routine?**
+*I have used Indian scales (Pantuvarali) and Modes of melodic minor and other stuff.* 
 
-*TV – When I was younger then I think I had some practice routine, But now I just practice when it is needed. And It always happens to be in the last minute…hahaha… Like before new gig with my music from my albums. Try to figure out, how the hell I am gonna play this stuff. But seriously just to get my fingers moving I do from time to time some exercising. It could be Frank Gambali’s „Chop Builder“ video that will get me in shape pretty quickly or some other stuff.*
+*Thing is, I take a scale and write it down on the paper, all the different chords that are possible to construct from that scale notes.* 
 
+*Then I start experimenting and playing around with those chords, and compose melodies or riffs out of that scale, and modulate and do other crazy stuff.* 
 
-**AAP – Do you have any favourite gear piece / setup? You also seem to be quite open to 6+ stringed guitars and instruments.**
+*This is nothing new to jazz musicians or players. But in rock music this is not so common.*
 
-*TV – My gear is changing constantly and I have a ton of it. Tube amps, cabinets, pedals, effects… But one thing that I use constantly over the past 20 years or so is IBANEZ guitars. I own some great „Prestige“ series Japan made RG series axes, and the playability and quality of those is perfect for my. I have some 7 string instruments also but to be honest I prefer 6 string. I use 7 string for lower notes mainly.*
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
+<p style="background-color: #dfdfdf;"><strong>AAP – When writing new music do you seclude yourself from any influences or, on the contrary, listen to more music and expose yourself to more styles and new artists?</strong></p>
 
-![Toomas Vanem](https://all-access-pass.de/wp-content/uploads/2022/02/MG_8603-1-683x1024.jpg)
+*TV – I think that I can not seclude myself from the influences that I have, cause they are deep inside of me anyway. But what I do when I am writing, I try to let go of everything that I have heard and let my imagination fly free.* 
 
+*And move fast to the directions that my creative mind wants to go. I don’t want to finish the details as I write, cause this would put breaks and stop the creative juice flowing.* 
 
-**AAP – When you listen to a new guitar player for the first time what are some of the elements that you for?**
+*I can always come back later, next day and re-polish things when I am arranging/producing the song.*
 
-*TV – I think the most important thing that tunes me on is tone. And this comes from the fingers of the player, and has nothing to do with the gear that he or she is using. Not even from the guitar. Believe or not, but I can hear the players fingers. And when I like what I hear, I am IN. Next thing is the note choice, or how tasteful the player is. Then I might listen to the technical skills of the musician and how clean is the performance or is it muddy as hell.*
+*And another thing is that I am constantly trying to grow to not sound as other artists and would like to have my own style.* 
 
-**AAP –  You’ve been playing and writing music for a great deal of time. Since it is a tool, how do you feel that the guitar has changed over time?**
-
-*TV – This is a good question. When I was a kid I listened to the bands like Led Zeppelin and Deep Purple…and the guitar was essential part of every rock even pop productions. There were great guitar heroes, Richie Blackmore, Eddie Van Halen…
-
-and guitar playing thing happened and evolved super fast, it was invented most of it, back then! 80,s 90,s were the golden area. When you listened back even pop hit songs of that era, the impressive and great guitar solo was always the part of the big production. It was like a cherry on the cake. Somehow winds did change late 90-s and you did not hear anymore those solos as a part of production. Even radio stations started fade out songs when the guitar solo kicks in. Fortunately today we have metal and progressive rock bands like Dream Theatre, who holds the guitar playing flag high enough. And I think there are plenty of fantastic solo guitar players out there, so lets hope for the best, for guitar!*
-
-**AAP – What do you consider as the essential elements of your music?**
-
-*TV – The thing is melody, it has to have it. It is sometimes simple, sometimes more complex but melody is needed, even on solo sections.
-
-And another thing is the inner power (or emotion, vibe), by that I mean it needs to have that amount of power to touch or shake somebody on an emotional level. Even me.*
-
-**AAP – As a solo artist does the direct attention make you feel more exposed? As opposed to being part of a joint effort in a band?**
-
-*TV – As a solo artist It makes you feel super responsible for the whole show. You have to hold the thing together. Everybody’s eyes are on you 100% of the time. You can’t fail! As opposed to be a part of the band, you will have your moments, but 100% attention will be always on the frontman, and he/she has the heavy load on the shoulders.
-
-I learned this lesson when I started my solo artist live gigs and it is super hard at first, but it gets better with the time.*
-
-![Toomas Live](https://all-access-pass.de/wp-content/uploads/2022/02/Philly-1-684x629.png)
+*But of course everything that is around influences you, by that I mean everything, not just music.*
 
 
-**AAP – Since your writing and playing are so rich and diverse, music-wise, where is your heart?**
+
+<img src="https://all-access-pass.de/wp-content/uploads/2022/02/MG_8603-1-683x1024.jpg" alt="Toomas Vanem II album cover" style="max-width: 500px; max-height: 500px;"> 
+
+*TV – When I was younger then I think I had some practice routine, But now I just practice when it is needed.* 
+
+*And It always happens to be in the last minute…hahaha… Like before new gig with my music from my albums. Try to figure out, how the hell I am gonna play this stuff.* 
+
+*But seriously just to get my fingers moving I do from time to time some exercising. It could be Frank Gambali’s „Chop Builder“ video that will get me in shape pretty quickly or some other stuff.*
+
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Do you have any favourite gear piece / setup? You also seem to be quite open to 6+ stringed guitars and instruments.</strong></p>
+
+*TV – My gear is changing constantly and I have a ton of it. Tube amps, cabinets, pedals, effects… But one thing that I use constantly over the past 20 years or so is IBANEZ guitars.* 
+
+*I own some great „Prestige“ series Japan made RG series axes, and the playability and quality of those is perfect for my. I have some 7 string instruments also but to be honest I prefer 6 string. I use 7 string for lower notes mainly.*
+
+
+
+
+<p style="background-color: #dfdfdf;"><strong>AAP – When you listen to a new guitar player for the first time what are some of the elements that you for?</strong></p>
+
+*TV – I think the most important thing that tunes me on is tone. And this comes from the fingers of the player, and has nothing to do with the gear that he or she is using.* 
+
+*Not even from the guitar. Believe or not, but I can hear the players fingers. And when I like what I hear, I am IN.* 
+
+*Next thing is the note choice, or how tasteful the player is. Then I might listen to the technical skills of the musician and how clean is the performance or is it muddy as hell.*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
+<p style="background-color: #dfdfdf;"><strong>AAP –  You’ve been playing and writing music for a great deal of time. Since it is a tool, how do you feel that the guitar has changed over time?</strong></p>
+
+*TV – This is a good question. When I was a kid I listened to the bands like Led Zeppelin and Deep Purple… and the guitar was essential part of every rock even pop productions.* 
+
+*There were great guitar heroes, Richie Blackmore, Eddie Van Halen… and guitar playing thing happened and evolved super fast, it was invented most of it, back then!*
+
+*80,s 90,s were the golden era. When you listened back even pop hit songs of that era, the impressive and great guitar solo was always the part of the big production.* 
+
+*It was like a cherry on the cake. Somehow winds did change late 90-s and you did not hear anymore those solos as a part of production.* 
+
+*Even radio stations started fade out songs when the guitar solo kicks in.* 
+
+*Fortunately today we have metal and progressive rock bands like Dream Theatre, who holds the guitar playing flag high enough. And I think there are plenty of fantastic solo guitar players out there, so lets hope for the best, for guitar!*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – What do you consider as the essential elements of your music?</strong></p>
+
+*TV – The thing is melody, it has to have it. It is sometimes simple, sometimes more complex but melody is needed, even on solo sections.*
+
+*And another thing is the inner power (or emotion, vibe), by that I mean it needs to have that amount of power to touch or shake somebody on an emotional level. Even me.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – As a solo artist does the direct attention make you feel more exposed? As opposed to being part of a joint effort in a band?</strong></p>
+
+*TV – As a solo artist It makes you feel super responsible for the whole show. You have to hold the thing together. Everybody’s eyes are on you 100% of the time. You can’t fail!* 
+
+*As opposed to be a part of the band, you will have your moments, but 100% attention will be always on the frontman, and he/she has the heavy load on the shoulders.*
+
+*I learned this lesson when I started my solo artist live gigs and it is super hard at first, but it gets better with the time.*
+
+
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Since your writing and playing are so rich and diverse, music-wise, where is your heart?</strong></p>
 
 *TV – Metal! and Jazz! And Classical music!* 
 
-**AAP – How would you comment on the experience as a solo artist vs. being a band member?**
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
+<p style="background-color: #dfdfdf;"><strong>AAP – How would you comment on the experience as a solo artist vs. being a band member?</strong></p>
 
 *TV – The experience is amazing and when you get positive feedback It makes you feel that you are doing the right thing. That someone was entertained because of you! This is wonderful feeling!*
 
-**AAP – You studies clarinet as a child but were motivated as a teenager you pick up the guitar after seeing a rehearsal. Tell us about your first memory picking up the guitar? Would you choose a different path now?**
+<p style="background-color: #dfdfdf;"><strong>AAP – You studies clarinet as a child but were motivated as a teenager you pick up the guitar after seeing a rehearsal. Tell us about your first memory picking up the guitar? Would you choose a different path now?</strong></p>
 
-*TV – As long as I remember it was earth shaking feeling. The first memories are that I pick up the guitar, on the local high school band casting, that I was invited buy and they somehow thought that I know how to play a guitar. I did not! I only knew how to play clarinet, and this was totally different animal. Ok I plugged it to an amplifier and I probably knew how to finger open Em chord. And that was it, I was in the band. And I don’t regret anything, I would not choose different path.*
+*TV – As long as I remember it was earth shaking feeling. The first memories are that I pick up the guitar, on the local high school band casting, that I was invited buy and they somehow thought that I know how to play a guitar.*
 
-**AAP – How often does overdubbing come to play?**
+*I did not!* 
+
+*I only knew how to play clarinet, and this was totally different animal. Ok I plugged it to an amplifier and I probably knew how to finger open Em chord.* 
+
+*And that was it, I was in the band. And I don’t regret anything, I would not choose different path.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – How often does overdubbing come to play?</strong></p>
 
 *TV – I do a lot of overdubs at studio, specially on rhythm guitar parts and riffs, to make them fat and more powerful and stereo wise left and right panned.*
 
-**AAP – When do you feel a song is done and can be added on an album?**
+<p style="background-color: #dfdfdf;"><strong>AAP – When do you feel a song is done and can be added on an album?</strong></p>
 
-*TV – I don’t know? I just feel at some point that all the building blocks are in right places and I have to make that decision, otherwise my music will never be released, cause you always can find those little pieces that you want to fix. It is also like you have to let go of your baby, when you feel that it is the time. And the peace of mind follows.*
+*TV – I don’t know? I just feel at some point that all the building blocks are in right places and I have to make that decision, otherwise my music will never be released, cause you always can find those little pieces that you want to fix.* 
 
-**AAP – Are you your biggest and ultimate critic?**
+*It is also like you have to let go of your baby, when you feel that it is the time. And the peace of mind follows.*
 
-*TV – Ooo yes, I am. When I record something, I constantly discover myself in a moment that I need to stop myself not to over improve stuff, that is perfectly fine already.
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-And as my good friend, great guitar guru, wise man once said, “you can’t play better than somebody, the only one that you can play better than is yourself” …I am in that trap forever.*
+<p style="background-color: #dfdfdf;"><strong>AAP – Are you your biggest and ultimate critic?</strong></p>
 
-**AAP – What did you find to be the biggest challenges during the creation process?**
+*TV – Ooo yes, I am. When I record something, I constantly discover myself in a moment that I need to stop myself not to over improve stuff, that is perfectly fine already.*
 
-*TV – Maybe the greatest challenge is to get or set yourself in the right mood, to let the creative flow happen. Sometimes it happens, sometimes not. And you have to accept that! This was not the day. Simple as that and move on.*
+*And as my good friend, great guitar guru, wise man once said, “you can’t play better than somebody, the only one that you can play better than is yourself” …I am in that trap forever.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – What did you find to be the biggest challenges during the creation process?</strong></p>
+
+*TV – Maybe the greatest challenge is to get or set yourself in the right mood, to let the creative flow happen.* 
+
+*Sometimes it happens, sometimes not. And you have to accept that! This was not the day. Simple as that and move on.*
 
 
 
-**AAP – As an artist you are clearly not interested in writing and being associated with commercial music.**
+<p style="background-color: #dfdfdf;"><strong>AAP – As an artist you are clearly not interested in writing and being associated with commercial music.</strong></p>
 
 *TV – I have done some commercials in the past and It is a good money, when you have a right deal. I have nothing against earning some extra bucks.*
 
-**AAP – Outside the music realm, what are some other activities that Toomas enjoys just as much?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Outside the music realm, what are some other activities that Toomas enjoys just as much?**
 
-*TV – As I live countryside, not far from the big city I have my property, and in summertime I like to build stuff. I have some good quality tools for woodworking and I name it constructing. I enjoy it really. I also have a 7,2m long motor boat and in summer the best time is on the sea just cruising or sometimes even try to catch some fish.*
+*TV – As I live countryside, not far from the big city I have my property, and in summertime I like to build stuff.* 
 
-**AAP – Time for the last questions, THE RANDOM QUESTION. Name at least 1 “fact” about Estonia that is 100% true and one that is 100% nonsense?**
+*I have some good quality tools for woodworking and I name it constructing. I enjoy it really.* 
+
+*I also have a 7,2m long motor boat and in summer the best time is on the sea just cruising or sometimes even try to catch some fish.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Time for the last questions, THE RANDOM QUESTION.* 
+
+*Name at least 1 “fact” about Estonia that is 100% true and one that is 100% nonsense?</strong></p>
 
 *TV – For that answer I did some googling.
 
-This fact is 100% true: „The world’s most performed living composer, Arvo Pärt, is an Estonian.“
+This fact is 100% true: „The world’s most performed living composer, Arvo Pärt, is an Estonian.“*
 
-The fact that is completely nonsense to me is: “Estonia has the highest number of supermodels per capita”.*
+*The fact that is completely nonsense to me is: “Estonia has the highest number of supermodels per capita”.*
 
-**AAP – Toomas, thank you once again for your time and interest in speaking to us.**
+<p style="background-color: #dfdfdf;"><strong>AAP – Toomas, thank you once again for your time and interest in speaking to us.</strong></p>
 
-*TV – Thank you and If you have an interest to my music please have listen to it on Spotify or other digital platforms. In case you have interest to physical copies you can find me on Facebook or Instagram and order those from me directly.
+*TV – Thank you and If you have an interest to my music please have listen to it on Spotify or other digital platforms.* 
 
-Take care and good luck!*
+*In case you have interest to physical copies you can find me on Facebook or Instagram and order those from me directly.*
 
-Support **TOOMAS VANEM**’s LP & CD release on Hooandja.
-
-Support **TOOMAS VANEM** by streaming and buying the album on:
-
-SPOTIFY
-
-APPLE MUSIC
-
-BANDCAMP `,
+*Take care and good luck!*`,
 
     summary:
-      "Estonian studio and session guitar virtuoso and composer TOOMAS VANEM, started his music career in the 1980s. ",
+      "Berlin based high-speed thrashers Reactory aligned their technicality, uncompromising variety and warp-like speed back in 2010.",
 
     image:
       "https://all-access-pass.de/wp-content/uploads/2022/02/MG_8495-1-e1644341807768-360x270.jpg",
@@ -595,126 +693,200 @@ BANDCAMP `,
 
     title: "Reactory Interview",
 
-    text: `Berlin based high-speed thrashers **Reactory** aligned their technicality, uncompromising variety and warp-like speed back in 2010.
+    text: `Berlin based high-speed thrashers [**Reactory**](https://www.facebook.com/REACTORY/) aligned their technicality, uncompromising variety and warp-like speed back in 2010.
 
-Having already released a Demo (2011), the **“Killed by Thrash”** EP (2013), full length albums **“High on Radiation”** (2014) and **“Heavy”** (2016), **Reactory** is currently working on their third full material.
+Having already released a Demo (2011), the **“Killed by Thrash”** EP (2013), full length albums **“High on Radiation”** (2014) and **“Heavy”** (2016), [**Reactory**](https://www.facebook.com/REACTORY/) is currently working on their third full material.
 
-The four catalysts behind **Reactory** Thrash warhead are: **Hänz Hazard** (vox), **Jerry Reactor** (guitar),  **Jonny Master** (bass) and **Caue Dos Santos** (drums).
+The four catalysts behind [**Reactory**](https://www.facebook.com/REACTORY/) Thrash warhead are: **Hänz Hazard** (vox), **Jerry Reactor** (guitar),  **Jonny Master** (bass) and **Caue Dos Santos** (drums).
 
 *As always, a huge **Thank You** to the band for their time, openness and availability!*
 
-**AAP – Welcome Thrash masters, greetings from AAP! It’s an honour to have you with us. What is the current mood in Reactory?**
 
-*Hello Cristina! Thanks for the interest in Reactory. Right now, to be honest, the mood is great. I mean, we are all tired as hell from a long ride back home to Berlin but very satisfied and proud after a week recording our new album nearby Köln. It was intense and we are really looking forward to bring it out. Personally I am still so pumped about it that I need some time to calm down. Answering this interview is doing the job.*
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-**AAP – You guys are working on your 3rd full album – any spoilers?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Welcome Thrash masters, greetings from AAP! It’s an honour to have you with us. What is the current mood in Reactory?</strong></p>
 
-*All we can say for now is that we put a lot of passion and energy into it during the whole process and some of the best songs we have written up until now are there. Of course we hope thrashers will dig it, but we follow our instinct and at the end of the day, it sounds like us.*
+*Hello Cristina! Thanks for the interest in Reactory.* 
 
-**AAP – You chose to record the new album at Gernhart Studio, again. How are the recording sessions going?**
+*Right now, to be honest, the mood is great. I mean, we are all tired as hell from a long ride back home to Berlin but very satisfied and proud after a week recording our new album nearby Köln.* 
 
-*We know Martin already and felt like a natural decision to go back there. The sessions were great. From all the albums we recorded, this was the one we were the sharpest on our instruments, preparing months before to go in there and literally thrash those songs the hardest we can. It happened in a span of a week and Martin, besides knowing his shit with all the technical aspects like a boss, also possesses a great musical ear and will push you just right to the point of playing beyond the best you think you can.*
+*It was intense and we are really looking forward to bring it out.* 
 
-**AAP – Any plans for a new video for the upcoming album?**
+*Personally I am still so pumped about it that I need some time to calm down. Answering this interview is doing the job.*
 
-*Sure thing, I’d say even more than one. Probably will follow the style from the ones before but with a crazier twist and talking about the themes present on the new album. Shout out to the Soffocazzo Video maniacs!*
+<p style="background-color: #dfdfdf;"><strong>AAP – You guys are working on your 3rd full album – any spoilers?</strong></p>
+
+*All we can say for now is that we put a lot of passion and energy into it during the whole process and some of the best songs we have written up until now are there.* 
+
+*Of course we hope thrashers will dig it, but we follow our instinct and at the end of the day, it sounds like us.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – You chose to record the new album at [Gernhart Studio](https://www.facebook.com/gernhartstudio78/), again. How are the recording sessions going?</strong></p>
+
+*We know Martin already and felt like a natural decision to go back there. The sessions were great.* 
+
+*From all the albums we recorded, this was the one we were the sharpest on our instruments, preparing months before to go in there and literally thrash those songs the hardest we can.* 
+
+*It happened in a span of a week and Martin, besides knowing his shit with all the technical aspects like a boss, also possesses a great musical ear and will push you just right to the point of playing beyond the best you think you can.*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Any plans for a new video for the upcoming album?</strong></p>
+
+*Sure thing, I’d say even more than one. Probably will follow the style from the ones before but with a crazier twist and talking about the themes present on the new album. Shout out to the [Soffocazzo Video](https://www.facebook.com/soffocazzo/) maniacs!*
 
 
-**AAP – Who writes the lyrics and what are some of the themes on for the new material?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Who writes the lyrics and what are some of the themes on for the new material?</strong></p>
 
-*Hans is the mastermind behind the lyrics and can tell better about it than me. But of course we all read and get into the texts also to get a riff turning into an actual song. I see the lyrics on this new album reflecting a lot of things there are somewhat up to date with the actual state of the world and how people are reacting to that. Fucking all the natural resources and exploiting Mother Earth like we did and still do, are bringing serious consequences upon mankind and that will not get any smoother. Some other things too, such as the science applied to new warfare high tech killing methods for completely unnecessary reasons and the usual disgust towards how fucked up this all became. I could see the dude was angry when shouting his parts during the recording sessions. Not a happy album.*
+*Hans is the mastermind behind the lyrics and can tell better about it than me. But of course we all read and get into the texts also to get a riff turning into an actual song.* 
 
-**AAP – What is the songwriting process within Reactory, how do songs come to life?**
+*I see the lyrics on this new album reflecting a lot of things there are somewhat up to date with the actual state of the world and how people are reacting to that.* 
 
-*Most of the times, Jerry has an idea for a riff, or even a melody and present to us in our basement, or in some cases record already the main thing at his home and send it to us. It may or may not contain an idea for a rhythm, and we start to putting the pieces together from there until we feel like it is right and add vocals to it. Sometimes after the instruments are there we may play a part longer of shorter to fit words to it. We do not really ‘jam’ a lot when talking about creating Reactory stuff but everybody in the band voices their opinions if the thing is really thrashing or just not rocking that hard.*
+*Fucking all the natural resources and exploiting Mother Earth like we did and still do, are bringing serious consequences upon mankind and that will not get any smoother.* 
 
-**AAP – You have had a stable line-up for a long time. What kind of a relationship is necessary between members in general and in your case?**
+*Some other things too, such as the science applied to new warfare high tech killing methods for completely unnecessary reasons and the usual disgust towards how fucked up this all became.* 
 
-*Well, we are not the youngest around anymore and I would say it is more than just being able to be stuck in a van for a month or so, of course you gotta do that too, but in our case, we still like to hang together and still have fun playing a gig, or just drinking a beer out of a band/concert situation. I try to stick to the old DBAA philosophy, don’t be an asshole, and it works most of the time. We just took a step further on our silly bromance and the four members got a band tattoo some weeks ago. Must say in all these years, I can not remember one time that shit got serious and someone got really pissed off with the other. We are just chill dudes.*
+*I could see the dude was angry when shouting his parts during the recording sessions. Not a happy album.*
 
-**AAP – What is a favorite piece of gear for each of you? (Beer counts as well)**
+<p style="background-color: #dfdfdf;"><strong>AAP – What is the songwriting process within Reactory, how do songs come to life?</strong></p>
 
-*OK, I am gonna guess this one because I am not answering for them but as for now, I think it is:
+*Most of the times, Jerry has an idea for a riff, or even a melody and present to us in our basement, or in some cases record already the main thing at his home and send it to us.* 
 
-Ulli is still in love with his bass amp. I think it has been a year already since he got the damn thing. But hell, we all love that mean bass sound. Jerry was trying some effect pedals but I would say he is more into his loyal axe. I am a drummer, so I really dig my new cymbals, like drummers do. Hans does not know his mic model. We all drink beer, smoke cigs and doobies if that is all into gear category as well.*
+*It may or may not contain an idea for a rhythm, and we start to putting the pieces together from there until we feel like it is right and add vocals to it.* 
 
-**AAP – What would you say your individual strength is musician?**
+*Sometimes after the instruments are there we may play a part longer of shorter to fit words to it. We do not really ‘jam’ a lot when talking about creating Reactory stuff but everybody in the band voices their opinions if the thing is really thrashing or just not rocking that hard.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – You have had a stable line-up for a long time. What kind of a relationship is necessary between members in general and in your case?</strong></p>
+
+*Well, we are not the youngest around anymore and I would say it is more than just being able to be stuck in a van for a month or so, of course you gotta do that too, but in our case, we still like to hang together and still have fun playing a gig, or just drinking a beer out of a band/concert situation.* 
+
+*I try to stick to the old DBAA philosophy, don’t be an asshole, and it works most of the time. We just took a step further on our silly bromance and the four members got a band tattoo some weeks ago.* 
+
+*Must say in all these years, I can not remember one time that shit got serious and someone got really pissed off with the other. We are just chill dudes.*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
+<p style="background-color: #dfdfdf;"><strong>AAP – What is a favorite piece of gear for each of you? (Beer counts as well)</strong></p>
+
+*OK, I am gonna guess this one because I am not answering for them but as for now, I think it is:*
+
+*Ulli is still in love with his bass amp. I think it has been a year already since he got the damn thing. But hell, we all love that mean bass sound.* 
+
+*Jerry was trying some effect pedals but I would say he is more into his loyal axe.* 
+
+*I am a drummer, so I really dig my new cymbals, like drummers do.* 
+
+*Hans does not know his mic model. We all drink beer, smoke cigs and doobies if that is all into gear category as well.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – What would you say your individual strength is musician?</strong></p>
 
 *I wouldn’t say we are technical on our instruments but focus more on playing tight and hard as possible and still trying to sound musical and not only playing light-speed all times, being open for an idea or support musically what the other guys are doing.*
 
-**AAP – What is the history of Reactory, how did you come together?**
+<p style="background-color: #dfdfdf;"><strong>AAP – What is the history of Reactory, how did you come together?</strong></p>
 
-*Jerry and Hans talked about the idea of playing aggressive thrash, around late 2010, the guys have known each other for ages already. Jerry asked Ulli for playing bass and Stachu played the drums on the demo and on the Killed by Thrash EP. I joined the band in the summer of 2013. Already knew Hans, at the time was living on the same floor as Jerry and got to meet Ulli in the band. We are all old punk rockers with a metal heart. Have been playing since then with this line up.*
+*Jerry and Hans talked about the idea of playing aggressive thrash, around late 2010, the guys have known each other for ages already.* 
 
-**AAP – And what was your first contact with music and your instruments? Was the idea to form a band in you from the start?**
+*Jerry asked Ulli for playing bass and Stachu played the drums on the demo and on the Killed by Thrash EP.* 
 
-*I speak for myself on this one. Born and raised in Sao Paulo, I was lucky enough to be in a very musical family, with a broad musical range, from regional music to a bit a classic, and a good portion of 70s rock through old records from my father and his brother who also played instruments. I gravitated towards the whole thing very naturally. Going to concerts from the folk group that my father played at the time was cool, it just felt nice to hang with that bunch of weirdos and as a kid it all seemed very interesting. On the early teenage years I dove head first into punk and by the time I was 15 years old and had the first school concert playing snotty versions of Ratos de Porao, Ramones and Nirvana. I never stopped since then, not even once there was a time where I was bandless after that. Maybe I should start gardening…..*
+*I joined the band in the summer of 2013. Already knew Hans, at the time was living on the same floor as Jerry and got to meet Ulli in the band.* 
 
-**AAP – Your name is very visual, your imagery and overall concept is pure Thrash and vivid. What is the story behind the name?**
+*We are all old punk rockers with a metal heart. Have been playing since then with this line up.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – And what was your first contact with music and your instruments? Was the idea to form a band in you from the start?</strong></p>
+
+*I speak for myself on this one. Born and raised in Sao Paulo, I was lucky enough to be in a very musical family, with a broad musical range, from regional music to a bit a classic, and a good portion of 70s rock through old records from my father and his brother who also played instruments.* 
+
+*I gravitated towards the whole thing very naturally. Going to concerts from the folk group that my father played at the time was cool, it just felt nice to hang with that bunch of weirdos and as a kid it all seemed very interesting.* 
+
+*On the early teenage years I dove head first into punk and by the time I was 15 years old and had the first school concert playing snotty versions of Ratos de Porao, Ramones and Nirvana.*
+ 
+*I never stopped since then, not even once there was a time where I was bandless after that. Maybe I should start gardening...*
+
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Your name is very visual, your imagery and overall concept is pure Thrash and vivid. What is the story behind the name?</strong></p>
 
 *I think Hans had the idea for the name and kept in his stash until it was time for it. I really like the name and think it sounds just like our music. Rough and nuclear.*
 
-**AAP – What is your favourite type of venue since you have an individual sound and also carry props as well?**
+<p style="background-color: #dfdfdf;"><strong>AAP – What is your favourite type of venue since you have an individual sound and also carry props as well?</strong></p>
 
-*We do not carry props besides our backdrop and if we can set up our gear, we sure prefer to bring our own backline. I think it is cool if a band wants to put some effort into their live show with props and stuff besides the music, but it is just not our thing too much. My favorite type of venue are the ones were the crowd can go wild, no barricades or security guys, you can hear yourself and the other guys on stage and a fair amount of beer.*
+*We do not carry props besides our backdrop and if we can set up our gear, we sure prefer to bring our own backline.* 
 
-**AAP – Performing live shows at home or abroad: what is better, harder or easier?**
+*I think it is cool if a band wants to put some effort into their live show with props and stuff besides the music, but it is just not our thing too much.* 
+
+*My favorite type of venue are the ones were the crowd can go wild, no barricades or security guys, you can hear yourself and the other guys on stage and a fair amount of beer.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Performing live shows at home or abroad: what is better, harder or easier?</strong></p>
 
 *There is not really better. Abroad is more exciting especially if we were not there before but is also harder since you don’t know what to expect from people, culture, down to gear and logistical shenanigans.*
 
-**AAP – Speaking of which, will cover art be signed by Doomsday Graphics this time around as well? How did the collaboration start?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Speaking of which, will cover art be signed by [Doomsday Graphics](https://www.facebook.com/people/Doomsday-Graphics/100063528068682/) this time around as well? How did the collaboration start?</strong></p>
 
-*Nesha is a good friend of us and already did and still does illustrations for many bands, festivals and venues around the globe. He captured the imagery of the band for the first moment on and he lives in the same city, which makes the whole process a lot easier when discussing ideas in person and not over the internet only. He is in charge for the next album cover.*
+*Nesha is a good friend of us and already did and still does illustrations for many bands, festivals and venues around the globe.* 
 
-**AAP – The next months you will be touring quite a lot, got some shows lined up with Exumer. Any expectations?**
+*He captured the imagery of the band for the first moment on and he lives in the same city, which makes the whole process a lot easier when discussing ideas in person and not over the internet only. He is in charge for the next album cover.*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
+<p style="background-color: #dfdfdf;"><strong>AAP – The next months you will be touring quite a lot, got some shows lined up with Exumer. Any expectations?</strong></p>
 
 *We are really looking forward to this one. Many cities and places we haven’t played before, with a new set list presenting the songs from the upcoming album also and a killer package of bands.*
 
-**AAP – Some of you were involved in side projects such as Social Chaos and Tankobot – are either still active / are you involved in any more or less musical projects?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Some of you were involved in side projects such as [Social Chaos](https://www.facebook.com/socialchaos666/) and [Tankobot](https://www.facebook.com/tankobot/) – are either still active / are you involved in any more or less musical projects?</strong></p>
 
 *I would not say side projects, since Reactory was not around when we were active with these bands. I know Social Chaos is still active and I think Tankobot too.*
 
-**AAP – How did the collaboration with FDA Records come about?**
+<p style="background-color: #dfdfdf;"><strong>AAP – How did the collaboration with [FDA Records](https://www.facebook.com/FDAREC/) come about?</strong></p>
 
 *Rico approached us and we knew about his work too, having a more death metal output and a good distribution. The records are sold out and it was a good partnership.*
 
-**AAP – Is there anything in particular you are looking forward to achieving in the near future or are you open to any opportunity?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Is there anything in particular you are looking forward to achieving in the near future or are you open to any opportunity?</strong></p>
 
 *For the near future, to make this new record come out sounding and looking as good as possible and honestly, not open to ANY opportunity.*
 
-**AAP – You are turning almost 10 years now and not only you have a strong foothold but you have established an identity – how does it feel to stop and look back at all you have experienced so far?**
+<p style="background-color: #dfdfdf;"><strong>AAP – You are turning almost 10 years now and not only you have a strong foothold but you have established an identity – how does it feel to stop and look back at all you have experienced so far?</strong></p>
 
 *I think we still have a lot ahead of us and as long as we have fun playing these songs and being as a unit, we gonna do it. What I want to say it that we are looking more to the future than to the past 10 years, that sure, were great too, but now we all are very confident being who we are. Gee, I’m high as fuck!*
 
-**AAP – How much was instinct and how much was thinking it out when finding own sound and image?**
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-*Sound it is for the most part instinct, like, if your guts and ears and energy feels thrashy enough, and makes you want to headbang to what you are playing you know it is right. Image, like i said about stage props and stuff, we just go on stage the way we were dressed before and there is not much to it. Only untold rule is no flip flops. ButIi just told.*
+<p style="background-color: #dfdfdf;"><strong>AAP – How much was instinct and how much was thinking it out when finding own sound and image?</strong></p>
 
-**AAP – What is your opinion on sound change – being experimental or setting a trademark?**
+*Sound it is for the most part instinct, like, if your guts and ears and energy feels thrashy enough, and makes you want to headbang to what you are playing you know it is right.* 
 
-* I like both and think that is good to some bands and horrible for others. We can try some things as a band but by now, we know like a song of Reactory should sound.*
+*Image, like i said about stage props and stuff, we just go on stage the way we were dressed before and there is not much to it. Only untold rule is no flip flops. But I just told.*
 
-**AAP – For Reactory is Thrash a statement or music / a means of expression? Or both?**
+<p style="background-color: #dfdfdf;"><strong>AAP – What is your opinion on sound change – being experimental or setting a trademark?</strong></p>
+
+*I like both and think that is good to some bands and horrible for others. We can try some things as a band but by now, we know like a song of Reactory should sound.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – For Reactory is Thrash a statement or music / a means of expression? Or both?</strong></p>
 
 *Both. But I am more fond of the pissed off, angry, aggressive thrash than the pizza/beer kind of thrash. Each own on its time.*
 
-**AAP – Any hidden talents and hobbies?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Any hidden talents and hobbies?</strong></p>
 
 *Some I guess. Not naming names though. Mixing drinks, chess brutalism, drunken astronomy and stoned stargazing, performing electric wiring at dangerous places, late hour karaoke and gardening.*
 
-**AAP – Do you prefer live shows or studio time? Both instances have their charm.**
+<p style="background-color: #dfdfdf;"><strong>AAP – Do you prefer live shows or studio time? Both instances have their charm.</strong></p>
 
 *Studio is hard and then is fun. Shows are most fun sure, but we still have to haul our gear out.*
 
-**AAP – I remember the Reactory show in Bucharest back in 2014 like it was yesterday. What would be your best live show memory?**
+<p style="background-color: #dfdfdf;"><strong>AAP – I remember the Reactory show in Bucharest back in 2014 like it was yesterday. What would be your best live show memory?</strong></p>
 
 *From Bucharest specifically I remember a very energetic concert and hanging with the maniacs from Crossbones and the local thrashers afterwards. Great times. Hope we come back soon. Best memory for me are moshers going crazy during the concert. Boring answer but true shit.*
 
-**AAP – Time for the last question, the RANDOM QUESTION: If you had the world’s attention for 30 seconds, what would you say?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Time for the last question, the RANDOM QUESTION: If you had the world’s attention for 30 seconds, what would you say?</strong></p>
 
 *Put your phone down and stop being such a prick. 3 seconds might be enough.*
 
-**AAP – Thanks again for taking the time to do this! If there is anything I may have missed and you would like to mention, please, do!**
+<p style="background-color: #dfdfdf;"><strong>AAP – Thanks again for taking the time to do this! If there is anything I may have missed and you would like to mention, please, do!</strong></p>
 
 *Thank you for your interest in the band and throwing good questions at us. Hope to see you all in the near future and have one or two beers together. THRASH!*`,
 
@@ -734,159 +906,249 @@ Ulli is still in love with his bass amp. I think it has been a year already sinc
 
     title: "HARDLAND – Band interview",
 
-    text: `Melodic Alternative Rock quintet HARDLAND blazing out of Utrecht, Netherlands, have just released a new single, ”Merry X-Mas Everybody”, a reinterpretation of Slade’s song, with a HARDLAND characteristic twist: turbulence and melodicity.
+    text: `Melodic Alternative Rock quintet [HARDLAND](https://www.hardland.net/en/) blazing out of Utrecht, Netherlands, have just released a new single, ”Merry X-Mas Everybody”, a reinterpretation of Slade’s song, with a [HARDLAND](https://www.hardland.net/en/) characteristic twist: turbulence and melodicity.
 
-Their most recent album, ”In Control”, was released on August 10ᵗʰ, 2019 via LO41 Records and it embodies 10 distinct tracks, cradling influences from Heavy Rock, AOR, bringing to life original, mature themes, with the 70’s and 80’s earmark.
+Their most recent album, **”In Control”**, was released on August 10ᵗʰ, 2019 via [LO41 Records](https://www.lo41records.com/) and it embodies 10 distinct tracks, cradling influences from Heavy Rock, AOR, bringing to life original, mature themes, with the 70’s and 80’s earmark.
 
-HARDLAND were open for a (too!) short conversation and a transcription is available below.
+[HARDLAND](https://www.hardland.net/en/) were open for a (too!) short conversation and a transcription is available below.
 
 As always, a huge *Thank You* to the band for their time, openness and availability!
 
-AAP – Greetings from MAtW, thank you for taking the time for this interview. How are things in camp HARDLAND?
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-A: Hi Ioana, thanks for having this interview with us! Things are going pretty good for us, in spite of this pandemic year. We’ve been busy writing new material and just finished recording our first ever Christmas single that’s going to rock your socks off!!
+<p style="background-color: #dfdfdf;"><strong>AAP – Greetings from MAtW, thank you for taking the time for this interview. How are things in camp HARDLAND?</strong></p>
 
-AAP – What is the story behind your band name?
+*A: Hi Ioana, thanks for having this interview with us!* 
 
-A: The initial story was that when we were thinking of a great band name we came up with the name HARDLAND. Since most of the bandmembers come from the Heart of the country. But Heartland sounded too countryish, and since we play Melodic Alternative Rock, we decided that HARDLAND would fit perfect in every way. We checked internationally if that name was already taken and at that moment around 2010 no one used it, so we trademarked our name, band logo etc.
+*Things are going pretty good for us, in spite of this pandemic year. We’ve been busy writing new material and just finished recording our first ever [Christmas single](https://www.youtube.com/watch?v=BLLG4MUQKTU&ab_channel=Hardland-Topic) that’s going to rock your socks off!!
 
-Although we weren’t actually a band at that time. It was more of a project of a couple of like-minded friends.Later on I’ve noticed that there’s a band from Greece using our trademarked name!! We have contacted them a few times about it, but they chose to ignore us.
+<p style="background-color: #dfdfdf;"><strong>AAP – What is the story behind your band name?</strong></p>
 
-So now we are thinking of taking it a step further with some legal procedures. It simply doesn’t work like that, you know?
+*A: The initial story was that when we were thinking of a great band name we came up with the name HARDLAND.* 
 
-AAP – How did you get from Heroez to HARDLAND?
+*Since most of the bandmembers come from the Heart of the country. But Heartland sounded too countryish, and since we play Melodic Alternative Rock, we decided that HARDLAND would fit perfect in every way.* 
 
-A: Haha, where did you hear that name, HeroeZ? That was my first band back in the late 70’s of the last century (yep, I’m not exactly a teenager anymore! Lol). It was a Rockband with 5 young guys, ultimately creative and totally gung ho about reaching for the stars! Cool thing is…we quit somewhere around 1980/1981, had a one off sold out reunion show back in 1997 and only recently came back together and decided to finally record an album, after all these years!
+*We checked internationally if that name was already taken and at that moment around 2010 no one used it, so we trademarked our name, band logo etc.*
 
-All the recordings have been taken care of and our drummer is mixing the whole project. No clue if or when it will be released, but I can tell ya, it’s got some mean and dirty rock n roll on there!! Now HARDLAND, the graphic design for our albums was done by the lead guitarist of the HeroeZ and when we recorded our new Christmas single, the drummer of the HeroeZ helped out with some amazing backing vocals. So somehow we’re still intertwined after all these years. Lol. I think that’s really awesome to still being that great of friends after 40+ years!!
+*Although we weren’t actually a band at that time. It was more of a project of a couple of like-minded friends.*
 
-AAP – Let’s meet all the band members and could you share a trait you have in common with your instrument.
+*Later on I’ve noticed that there’s a band from Greece using our trademarked name!! We have contacted them a few times about it, but they chose to ignore us.*
 
-A: Aeilko (lead vocals / lead guitar) I just like to be at the center of attention…perhaps that’s why I do lead vocals and let my guitars scream!!, Paul (lead vocals / rhythm guitar) Paul has that same virtue of wanting to be at the center of attention, but the other half of his personality wants to be the cement that keeps it all together, Eric (drums) Backbone of the band and in real life someone you can rely on, Marco (keyboards / vocoder / coffee) as keyboardist and vocoderer he utilizes lots of weird sounds…exactly what’s coming out of his mouth! Lol….the joker of the band, together with Eric. And Remi (bass / backing vocals) what can I say about him… he’s German! 😊
+*So now we are thinking of taking it a step further with some legal procedures. It simply doesn’t work like that, you know?*
 
-AAP – It all started as a project. How comfortable and stable do you feel with one another today?
+<p style="background-color: #dfdfdf;"><strong>AAP – How did you get from Heroez to HARDLAND?</strong></p>
 
-A: True, as a project Paul and I had all the freedom to do whatever we felt like doing musically. That’s why we wrote way over a hundred songs together. The other guys in the band were no strangers to us. In the days when I had my own Mobile Recording Studio and PA Rental company, Paul and Eric worked with me doing lots of live shows and recordings of all kinds of bands. Remi worked at the same location as Paul back in the day. And Marco and I had a mutual friend who introduced us to one another.
+*A: Haha, where did you hear that name, HeroeZ? That was my first band back in the late 70’s of the last century (yep, I’m not exactly a teenager anymore! Lol).* 
 
-So it felt quite comfortable from day one and we only became tighter and better. Only thing that is different is that we now try to involve everyone into the writing process of new material and that takes away a lot of the speed in the process of recording.
+*It was a Rockband with 5 young guys, ultimately creative and totally gung ho about reaching for the stars! Cool thing is… we quit somewhere around 1980/1981, had a one off sold out reunion show back in 1997 and only recently came back together and decided to finally record an album, after all these years!*
 
-AAP- The song is very important to you and also you avoid repeating yourselves.
+*All the recordings have been taken care of and our drummer is mixing the whole project. No clue if or when it will be released, but I can tell ya, it’s got some mean and dirty rock n roll on there!!* 
+
+*Now HARDLAND, the graphic design for our albums was done by the lead guitarist of the HeroeZ and when we recorded our new Christmas single, the drummer of the HeroeZ helped out with some amazing backing vocals.* 
+
+*So somehow we’re still intertwined after all these years. Lol. I think that’s really awesome to still being that great of friends after 40+ years!!*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Let’s meet all the band members and could you share a trait you have in common with your instrument.</strong></p>
+
+*A: Aeilko (lead vocals / lead guitar) I just like to be at the center of attention… perhaps that’s why I do lead vocals and let my guitars scream!!, Paul (lead vocals / rhythm guitar) Paul has that same virtue of wanting to be at the center of attention, but the other half of his personality wants to be the cement that keeps it all together, Eric (drums) Backbone of the band and in real life someone you can rely on, Marco (keyboards / vocoder / coffee) as keyboardist and vocoderer he utilizes lots of weird sounds…exactly what’s coming out of his mouth!* 
+
+*Lol….the joker of the band, together with Eric. And Remi (bass / backing vocals) what can I say about him… he’s German! 😊*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – It all started as a project. How comfortable and stable do you feel with one another today?</strong></p>
+
+*A: True, as a project Paul and I had all the freedom to do whatever we felt like doing musically. That’s why we wrote way over a hundred songs together.* 
+
+*The other guys in the band were no strangers to us. In the days when I had my own Mobile Recording Studio and PA Rental company, Paul and Eric worked with me doing lots of live shows and recordings of all kinds of bands.* 
+
+*Remi worked at the same location as Paul back in the day. And Marco and I had a mutual friend who introduced us to one another.*
+
+*So it felt quite comfortable from day one and we only became tighter and better. Only thing that is different is that we now try to involve everyone into the writing process of new material and that takes away a lot of the speed in the process of recording.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP - The song is very important to you and also you avoid repeating yourselves.</strong></p>
 
 A: Exactly! We are influenced by so many different styles of music and artists. We couldn’t even do what a band like AC/DC does. No offence, these guys are the best! I’ve got most all of their albums, but to our ears their music is pretty one dimensional. We prefer bands like Queen, or Whitesnake, or even King’s X. They are more versatile in their musical style. That’s what we prefer above all.
 
-AAP – How open are you to collaborations and what would be a genre “limit” that you would not really be influenced by?
+<p style="background-color: #dfdfdf;"><strong>AAP – How open are you to collaborations and what would be a genre “limit” that you would not really be influenced by?</strong></p>
 
-A: If we were offered a chance to collaborate, we would accept that challenge whole heartedly. I don’t think we would block out any style. As long as we would be able to give it our own personal twist and make it our own, we could do any style. As long as the outcome is 100% HARDLAND!
+*A: If we were offered a chance to collaborate, we would accept that challenge whole heartedly.* 
 
-AAP – And how often does overdubbing come to play?
+*I don’t think we would block out any style. As long as we would be able to give it our own personal twist and make it our own, we could do any style. As long as the outcome is 100% HARDLAND!*
 
-A: It totally depends on the type of track we’re recording. We had a song on our first album (‘‘Dream Into Nightmare”) that had 96 tracks if I remember correctly. Lots of vocal overdubs and doubles, triples etc. Loads of different guitar tracks, a ton of different keyboard parts as well. Recording to us means creating something that is still worthwhile listening to after you’ve heard it many times. And preferably every time you listen you can hear something new due to our multi-layered way of mixing. Performing live is straight forward rock n roll!!
+<p style="background-color: #dfdfdf;"><strong>AAP – And how often does overdubbing come to play?</strong></p>
 
-AAP – What is the writing process like?
+*A: It totally depends on the type of track we’re recording. We had a song on our first album (‘‘Dream Into Nightmare”) that had 96 tracks if I remember correctly. Lots of vocal overdubs and doubles, triples etc.* 
 
-A: The writing process for our third album is built on a few pillars. First of all we check if there are any completed songs or bits and pieces from earlier recordings that are worth trying to work out or re-arrange. Same goes for any lyrics that are completely or partly done and seem worthwhile.
+*Loads of different guitar tracks, a ton of different keyboard parts as well. Recording to us means creating something that is still worthwhile listening to after you’ve heard it many times. *
 
-Next pillar is that we write completely new songs from scratch.
+*And preferably every time you listen you can hear something new due to our multi-layered way of mixing. Performing live is straight forward rock n roll!!*
 
-Third pillar is that we look if there are any covers that we have played live or that we think we can totally re-arrange into a HARDLAND version. N
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-one of the before mentioned is mandatory. But are just the three sides we look at things. Up until now I was the only person to (re-)arrange our music, write lyrics, come up with vocal harmonies.
+<p style="background-color: #dfdfdf;"><strong>AAP – What is the writing process like?</strong></p>
 
-The plan is that Marco (our keyboardist) is going to join in writing and maybe (re-)arranging stuff. We’ll see how that works.
+*A: The writing process for our third album is built on a few pillars. First of all we check if there are any completed songs or bits and pieces from earlier recordings that are worth trying to work out or re-arrange. Same goes for any lyrics that are completely or partly done and seem worthwhile.*
 
-AAP – Is composition impulsive and intuitive?
+*Next pillar is that we write completely new songs from scratch.*
 
-A: Writing happens impulsive and intuitive and also fully thought out. Even though I can’t read or write music notes, I sometimes have complete songs fully worked out in my head. I only need to record all the separate parts into the computer and send it over to the rest of the band to see if they want to change or add parts to it. One thing that doesn’t really happen is jamming…we don’t don’t really jam and record ideas.
+*Third pillar is that we look if there are any covers that we have played live or that we think we can totally re-arrange into a HARDLAND version.*
 
-Personally, that doesn’t work for me. I want to be able to jump back and forth into the ideas and jamming often means playing a certain theme over and over…which totally bores the crap outta me! Lol.
+*None of the before mentioned is mandatory. But are just the three sides we look at things. Up until now I was the only person to (re-)arrange our music, write lyrics, come up with vocal harmonies.*
 
-AAP – What is your present practise and rehearsal routine like?
+*The plan is that Marco (our keyboardist) is going to join in writing and maybe (re-)arranging stuff. We’ll see how that works.*
 
-A: Since April we haven’t been able to rehearse due to pandemic lockdowns etc. Once it is safe again to go out on the road we will go and rehearse shortly but fiercely to get ready for live action mode!
+<p style="background-color: #dfdfdf;"><strong>AAP – Is composition impulsive and intuitive?</strong></p>
 
-AAP – How is you collaboration with MetalMessage and Markus Eck and how did it come about?
+*A: Writing happens impulsive and intuitive and also fully thought out. Even though I can’t read or write music notes, I sometimes have complete songs fully worked out in my head.*
 
-A: Before working with Markus we were working with a completely untrustworthy guy from Wales, England. All he wanted was money, but refused to do anything for it. So we got a little more apprehensive than we already were.
+*I only need to record all the separate parts into the computer and send it over to the rest of the band to see if they want to change or add parts to it.* 
 
-Talked to some friends in the business and Markus’ name came across as being a really trustworthy and passionate guy. A really hard worker. Even though I noticed he mostly worked with Metal bands (just his name says it all: Metalmessage), so I wasn’t sure if he was even interested in working with us. Talking to him we had an immediate click…he had heard our music and got impressed by it. The rest is history as they say!
+*One thing that doesn’t really happen is jamming…we don’t don’t really jam and record ideas.*
 
-AAP – I read about “no ego no BS” applying to HARDLAND. Is there a leader in the band?
+*Personally, that doesn’t work for me. I want to be able to jump back and forth into the ideas and jamming often means playing a certain theme over and over…which totally bores the crap outta me! Lol.*
 
-A: Exactly! The only thing that matters is to create the best possible version of a song. We only think along those lines and whoever plays what, doesn’t matter. The first two albums were basically recorded and performed by mainly two guys, Paul and myself. And as Paul and I are completely different guitar players, we used whatever style necessary. It could therefor happen that in a certain song the solo or chord schemes were played by two different people. Just to make sure that the outcome was the best!
+<p style="background-color: #dfdfdf;"><strong>AAP – What is your present practise and rehearsal routine like?</strong></p>
 
-We totally put aside our egos to make sure that whatever we want to record is done the very best way. But with creating a complete band album this time around, I’m sure things will go a little different. Maybe I can tell you afterwards how that worked out!! Lol!
+*A: Since April we haven’t been able to rehearse due to pandemic lockdowns etc. Once it is safe again to go out on the road we will go and rehearse shortly but fiercely to get ready for live action mode!*
 
-MAtW – I saw that responsibilities are shared within the band, from video edits and merch prints, event/sound managing. You are all, also involved in more or less musical side-projects and activities?
+<p style="background-color: #dfdfdf;"><strong>AAP – How is you collaboration with MetalMessage and Markus Eck and how did it come about?</strong></p>
 
-A: True! There’s no use in having people taking care of something that they know nothing about. So we divide the tasks based on our specific qualities and capabilities. And we are very fortunate to have a friends who are extremely talented in things that bands need. Such as videoclips, artwork, graphic design, Photography, etc. There’s a whole team available for us which gives us a very comfortable feeling.
+*A: Before working with Markus we were working with a completely untrustworthy guy from Wales, England. All he wanted was money, but refused to do anything for it. So we got a little more apprehensive than we already were.*
 
-AAP – That brings a lot of variety in your lifestyles as well as your music.
+*Talked to some friends in the business and Markus’ name came across as being a really trustworthy and passionate guy. A really hard worker.* 
 
-A: Correct! The versatility in our music can be heard on our albums. We write and record whatever makes us feel good. We are not stuck to any style or anything. Of course we keep in mind to arrange the songs in a 80’s kinda style, melodic, alternative… but we record just as easily an alternative metal track as we recorded a waltz!! Simply because we wanted to and loved it. An Australian reviewer called us musical daredevils!! I love that title!! We would get bored playing the same things over and over again. And variety in our lifestyles…most definitely. Our family lives totally differ. But we all share the same passion: Music!
+*Even though I noticed he mostly worked with Metal bands (just his name says it all: Metalmessage), so I wasn’t sure if he was even interested in working with us.* 
 
-AAP – Speaking of which. You have a keen eye and view your albums from a buyer’s perspective. Do you have a target audience in mind? Or commercially-wise?
+*Talking to him we had an immediate click…he had heard our music and got impressed by it. The rest is history as they say!*
 
-A: Yeah… we absolutely have a target audience in mind and also focus on our material (artwork / graphic design, but also our merch). We’ve noticed that our music connects best with people from the age of 35+. People who have fond memories of the 80’s and / or love that sound. Young kids seem to listen more to a different kinda music these days.
+<p style="background-color: #dfdfdf;"><strong>AAP – I read about “no ego no BS” applying to HARDLAND. Is there a leader in the band?</strong></p>
 
-With every album we think hard on how to present it. What would we love to see / receive ourselves when buying an album from our favorite bands. That’s why we came up with this very special digi-pack with an extra DVD added to the album. Simply because we would love something like that ourselves and hope that our audience feels the same way.
+*A: Exactly! The only thing that matters is to create the best possible version of a song. We only think along those lines and whoever plays what, doesn’t matter.* 
 
-That we chose a gypsy as our mascot as our cover art, has to do with the fact that our first single was titled “Hot Gypsy” and we loved that idea to take it further and create our own mascot, as what Eddy is to Iron Maiden, is this Gypsy Girl to us!
+*The first two albums were basically recorded and performed by mainly two guys, Paul and myself. And as Paul and I are completely different guitar players, we used whatever style necessary.* 
 
+*It could therefor happen that in a certain song the solo or chord schemes were played by two different people. Just to make sure that the outcome was the best!*
 
+*We totally put aside our egos to make sure that whatever we want to record is done the very best way. But with creating a complete band album this time around, I’m sure things will go a little different.* 
 
-AAP – What do you want people to take away from your music most of all?
+*Maybe I can tell you afterwards how that worked out!! Lol!*
 
-A: We hope that our music touches or resonates with people or will simply give them a good time while listening to it! Especially in the pandemic days people are in need of good vibes. There’s enough stress and misery going on right now. It’s important to be able to take a step back, let your mind relax and wonder away while listening to some great music. Don’t you agree?
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-AAP – As fans and music consumers yourselves, do you favor the old school,  physical medium, or digitalized music?
+<p style="background-color: #dfdfdf;"><strong>AAP – I saw that responsibilities are shared within the band, from video edits and merch prints, event/sound managing. You are all, also involved in more or less musical side-projects and activities?</strong></p>
 
-A: We love all actually. The digital world has become a lot faster consumptively. An MP3 is deleted or not being listened to a lot faster and easier than when people buy a CD or Vinyl. First of all because that is more expensive of course, so people want more out of it! That’s simple. I mean, digital music is a way of throwing new material out there with a chance of trying out new styles.
+*A: True! There’s no use in having people taking care of something that they know nothing about. So we divide the tasks based on our specific qualities and capabilities.* 
 
-Since an MP3 doesn’t usually last as long as a CD or vinyl it doesn’t hurt us artists less if we feel like trying something different. Music that will stand the test of time will still have to be available on CD or Vinyl. So we love every opportunity, as long as people keep listening to music!! It’s up to them to decide in what shape or format they prefer to listen to it!!
+*And we are very fortunate to have a friends who are extremely talented in things that bands need. Such as videoclips, artwork, graphic design, Photography, etc. There’s a whole team available for us which gives us a very comfortable feeling.*
 
-AAP – Remi is learning to play cello. Do you all have similar challenges, musical or non musical?
+<p style="background-color: #dfdfdf;"><strong>AAP – That brings a lot of variety in your lifestyles as well as your music.</strong></p>
 
-A: No, not really… at least not at the moment. Too busy preparing for Christmas! 😊 But whenever it is needed to be able to play an instrument that neither one of us knows how to play, maybe it might trigger something.
+*A: Correct! The versatility in our music can be heard on our albums. We write and record whatever makes us feel good. We are not stuck to any style or anything.* 
 
-MAtW – Computer game scores VS movie soundtracks?
+*Of course we keep in mind to arrange the songs in a 80’s kinda style, melodic, alternative… but we record just as easily an alternative metal track as we recorded a waltz!! Simply because we wanted to and loved it.*
 
-A: We love both! Totally different approach is needed. I have already worked on a movie soundtrack, a long time ago with one of my former bands. It was quite a challenge to write music based on a scene time schedule etc. We learned a lot from doing that. Game scores… would love to. Anywhere people would like to use our music, games, movies, commercials… let’s talk! 😉
+*An Australian reviewer called us musical daredevils!! I love that title!! We would get bored playing the same things over and over again. And variety in our lifestyles…most definitely. Our family lives totally differ.* 
 
-AAP – You also have in sight a band documentary? Any updates or progress?
+*But we all share the same passion: Music!*
 
-A: Yeah..lol, we started that based on filming the making of our first album and first video clip. But then we talked to professionals and they basically talked us out of it. Too much talking heads and somehow we couldn’t get the story out the way we had hoped. It didn’t work out the way we had hoped. But no biggy. You always learn stuff from things like this. We don’t consider it a failure, just a learning process. After all, we’re musicians, not movie directors! Lol.
+<p style="background-color: #dfdfdf;"><strong>AAP – Speaking of which. You have a keen eye and view your albums from a buyer’s perspective. Do you have a target audience in mind? Or commercially-wise?</strong></p>
 
-AAP – What is the most difficult song on “In Control” for each of you (and why)?
+*A: Yeah… we absolutely have a target audience in mind and also focus on our material (artwork / graphic design, but also our merch).* 
 
-A: Two songs actually, The Powers Within, due to the complex rhythm patterns in combination with singing at the same time. And the other one is Love, love, love, due to the harmonies in there that are pretty cool, but also hard to do while playing an instrument at the same time.
+*We’ve noticed that our music connects best with people from the age of 35+. People who have fond memories of the 80’s and / or love that sound. Young kids seem to listen more to a different kinda music these days.*
 
-AAP – As fans and musicians, what does it take for a (nowadays) band to impress you?
+*With every album we think hard on how to present it. What would we love to see / receive ourselves when buying an album from our favorite bands.*
 
-A: Not much, really…it could be a great chorus, or guitar solo, or fantastic drum rhythm…just anything that regular listeners enjoy about a certain song. I can really appreciate the craftmanship of other musicians or vocalists!
+*That’s why we came up with this very special digi-pack with an extra DVD added to the album. Simply because we would love something like that ourselves and hope that our audience feels the same way.*
 
-AAP – How do you define success?
+*That we chose a gypsy as our mascot as our cover art, has to do with the fact that our first single was titled “Hot Gypsy” and we loved that idea to take it further and create our own mascot, as what Eddy is to Iron Maiden, is this Gypsy Girl to us!*
 
-A: That’s a hard one. Success means something different to each and every one of us. How do you measure it, what’s important to you. Just the simple fact that people listen to our music and appreciate it by buying it, or streaming it, or buying merch is a proof of success.
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-Of course, you can measure it by numbers… some think you can only call yourself successful once you’ve sold a million copies of your album or so. But to me it’s not a matter of quantity as it is a matter of positive response to what we do. That’s the greatest gift of all. And of course, the more people that love what we do, the cooler it is. 😊
+<p style="background-color: #dfdfdf;"><strong>AAP – What do you want people to take away from your music most of all?</strong></p>
 
-AAP – What is a compromises that you’re unwilling to make?
+*A: We hope that our music touches or resonates with people or will simply give them a good time while listening to it! Especially in the pandemic days people are in need of good vibes. There’s enough stress and misery going on right now. It’s important to be able to take a step back, let your mind relax and wonder away while listening to some great music. Don’t you agree?*
 
-A: We already passed that one… we could have signed with bigger labels but they wanted to have a say in on how we would present our music etc. We really wanted to be judged by our own qualities and flukes and if that means we miss out on a bigger market, so be it.
+<p style="background-color: #dfdfdf;"><strong>AAP – As fans and music consumers yourselves, do you favor the old school,  physical medium, or digitalized music?</strong></p>
 
-Numbers are great but only when you are appreciated for what you have created. Not by what the label pumped into the project on marketing budget or stuff like that. I see commercials for certain albums, big bucks have been put into that… and really… it sounds like the so ‘hundredth’ copy of some other artist!! Because all labels want you to work with the same people. That’s why diversity has become a lot less these past years. I prefer the indie kinda approach.
+*A: We love all actually. The digital world has become a lot faster consumptively. An MP3 is deleted or not being listened to a lot faster and easier than when people buy a CD or Vinyl.*
 
-AAP – Time for the last question, the Random Question. What’s invisible but you wish people could see?
+*First of all because that is more expensive of course, so people want more out of it! That’s simple. I mean, digital music is a way of throwing new material out there with a chance of trying out new styles.*
 
-A: We are a pretty transparent band, we may not always tell everything there is to tell, but that doesn’t mean we want to hide it. We mainly focus on our music and creativity. And if people like to know something, they can ask us anything and we will always answer their questions.
+*Since an MP3 doesn’t usually last as long as a CD or vinyl it doesn’t hurt us artists less if we feel like trying something different. Music that will stand the test of time will still have to be available on CD or Vinyl. So we love every opportunity, as long as people keep listening to music!! It’s up to them to decide in what shape or format they prefer to listen to it!!*
 
-AAP – In case there is anything that you would like to share and I may have missed, please do so. Thank you once again and hoping to see you live in 2021.
+<p style="background-color: #dfdfdf;"><strong>AAP – Remi is learning to play cello. Do you all have similar challenges, musical or non musical?</strong></p>
 
-A: We just released our first ever Christmas track: **"Merry X-mas Everybody"**. Yep a cover of the famous track by British Rockers **Slade**. It’s always tricky to cover a track that famous and that much loved. But we felt it was the only Christmas song that we cared about covering, as long as we were able to make it our own and come up with an arrangement that would totally fit the typical HARDLAND sound.
+*A: No, not really… at least not at the moment. Too busy preparing for Christmas! 😊 But whenever it is needed to be able to play an instrument that neither one of us knows how to play, maybe it might trigger something.*
 
-And biased as I may be, I think we really succeeded in that. We got kind permission of *EMI Publishing* and the guys from **Slade** to release it and we are very happy with the result. Mixed by ourselves together with a good friend and mastered, as always, at **Abbey Road London** it came out really cool! Especially the Beatle-esque middle section with all the vocals was really fun to record.
+<p style="background-color: #dfdfdf;"><strong>AAP – Computer game scores VS movie soundtracks?</strong></p>
 
-A good friend of mine, the drummer from my very first band, **John Forsting** of **The HeroeZ**, came and contributed some great vocal parts as well. I knew he had a great voice and is as creative as we are with vocal harmonies, so it was actually a no brainer to ask him to join in. People that would like to hear or read more of **HARDLAND** can go to these links and click on every social media, website, or streaming link that shows up. We look forward to hearing the response from your readers / followers.
+*A: We love both! Totally different approach is needed. I have already worked on a movie soundtrack, a long time ago with one of my former bands. It was quite a challenge to write music based on a scene time schedule etc.* 
+
+*We learned a lot from doing that. Game scores… would love to. Anywhere people would like to use our music, games, movies, commercials… let’s talk! 😉*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – You also have in sight a band documentary? Any updates or progress?</strong></p>
+
+*A: Yeah..lol, we started that based on filming the making of our first album and first video clip. But then we talked to professionals and they basically talked us out of it.* 
+
+*Too much talking heads and somehow we couldn’t get the story out the way we had hoped. It didn’t work out the way we had hoped. But no biggy. You always learn stuff from things like this. We don’t consider it a failure, just a learning process. After all, we’re musicians, not movie directors! Lol.*
+
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
+
+<p style="background-color: #dfdfdf;"><strong>AAP – What is the most difficult song on “In Control” for each of you (and why)?</strong></p>
+
+*A: Two songs actually, The Powers Within, due to the complex rhythm patterns in combination with singing at the same time. And the other one is Love, love, love, due to the harmonies in there that are pretty cool, but also hard to do while playing an instrument at the same time.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – As fans and musicians, what does it take for a (nowadays) band to impress you?</strong></p>
+
+*A: Not much, really…it could be a great chorus, or guitar solo, or fantastic drum rhythm…just anything that regular listeners enjoy about a certain song. I can really appreciate the craftmanship of other musicians or vocalists!*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – How do you define success?</strong></p>
+
+*A: That’s a hard one. Success means something different to each and every one of us. How do you measure it, what’s important to you. Just the simple fact that people listen to our music and appreciate it by buying it, or streaming it, or buying merch is a proof of success.*
+
+*Of course, you can measure it by numbers… some think you can only call yourself successful once you’ve sold a million copies of your album or so.* 
+
+*But to me it’s not a matter of quantity as it is a matter of positive response to what we do. That’s the greatest gift of all. And of course, the more people that love what we do, the cooler it is. 😊*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – What is a compromises that you’re unwilling to make?</strong></p>
+
+*A: We already passed that one… we could have signed with bigger labels but they wanted to have a say in on how we would present our music etc. We really wanted to be judged by our own qualities and flukes and if that means we miss out on a bigger market, so be it.*
+
+*Numbers are great but only when you are appreciated for what you have created. Not by what the label pumped into the project on marketing budget or stuff like that.* 
+
+*I see commercials for certain albums, big bucks have been put into that… and really… it sounds like the so ‘hundredth’ copy of some other artist!! Because all labels want you to work with the same people.* 
+
+*That’s why diversity has become a lot less these past years. I prefer the indie kinda approach.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – Time for the last question, the Random Question. What’s invisible but you wish people could see?</strong></p>
+
+*A: We are a pretty transparent band, we may not always tell everything there is to tell, but that doesn’t mean we want to hide it. We mainly focus on our music and creativity.* 
+
+*And if people like to know something, they can ask us anything and we will always answer their questions.*
+
+<p style="background-color: #dfdfdf;"><strong>AAP – In case there is anything that you would like to share and I may have missed, please do so. Thank you once again and hoping to see you live in 2021.</strong></p>
+
+*A: We just released our first ever Christmas track: **"Merry X-mas Everybody"**. Yep a cover of the famous track by British Rockers **Slade**.* 
+
+*It’s always tricky to cover a track that famous and that much loved. But we felt it was the only Christmas song that we cared about covering, as long as we were able to make it our own and come up with an arrangement that would totally fit the typical HARDLAND sound.*
+
+*And biased as I may be, I think we really succeeded in that. We got kind permission of *EMI Publishing* and the guys from **Slade** to release it and we are very happy with the result.*
+
+*Mixed by ourselves together with a good friend and mastered, as always, at **Abbey Road London** it came out really cool! Especially the Beatle-esque middle section with all the vocals was really fun to record.*
+
+*A good friend of mine, the drummer from my very first band, **John Forsting** of **The HeroeZ**, came and contributed some great vocal parts as well.* 
+
+*I knew he had a great voice and is as creative as we are with vocal harmonies, so it was actually a no brainer to ask him to join in.* 
+
+*People that would like to hear or read more of **HARDLAND** can go to these links and click on every social media, website, or streaming link that shows up. We look forward to hearing the response from your readers / followers.*
 
 `,
 
@@ -944,7 +1206,6 @@ At the moment the band is housing their own studio to create their next release.
 
 *CF – It definitely is a result of everybody’s preferences. We got no real masterplan when it comes to creating the sound or writing songs. Everybody adds his influences and the result is Infected Chaos.*
 
-![Infected Chaos](https://all-access-pass.de/wp-content/uploads/2022/06/TRY2-684x457.jpg)
 
 **AAP – What is your writing process? Is composition impulsive and intuitive?**
 
