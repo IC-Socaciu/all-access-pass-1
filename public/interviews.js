@@ -1169,9 +1169,12 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
     title: "Christian Fischer – Infected Chaos",
 
     text: `The austrian-german metalband [INFECTED CHAOS](https://www.facebook.com/InfectedChaos/) rose from the ashes of former band [Chaosreign](https://www.metal-archives.com/bands/Chaosreign/3540308719) in 2013 and directly started to write their own songs.
-    After intense road-tests – among others supporting the legendary **Possessed** – the band entered the renowned [Iguana Studio](https://www.facebook.com/iguanastudios/?ref=page_internal) and could release its debut **“The Wake of Ares”** in 2015.
+  
+  After intense road-tests – among others supporting the legendary **Possessed** – the band entered the renowned [Iguana Studio](https://www.facebook.com/iguanastudios/?ref=page_internal) and could release its debut **“The Wake of Ares”** in 2015.
 
-Only two years later the successor **“Killing Creator”** was unleashed and led the band through the half of Europe. Well known festivals such as **MetalDays**, **Winterdays of Metal** and **Aaargh!-Festival** were *haunted*.
+Only two years later the successor **“Killing Creator”** was unleashed and led the band through the half of Europe. 
+
+Well known festivals such as [MetalDays](https://www.metaldays.net/),[Winterdays of Metal](https://www.instagram.com/winterdaysofmetal/) and [Aaargh!-Festival](https://www.aaarghfestival.de/) were *haunted*.
 
 In 2021 **“Dead Aesthetics”** was finally recorded and released by [INFECTED CHAOS](https://www.facebook.com/InfectedChaos/).
 
@@ -1188,12 +1191,18 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 How are things going for [INFECTED CHAOS](https://www.facebook.com/InfectedChaos/)?</strong></p>
 
-*Christian Fischer – Greetings All Access Pass! Thanks for doing this interview with us. We’re finally getting back in track now. We spend a lot of time in our rehearsal room working on the successor for Dead Aesthetics“.*
+*Christian Fischer – Greetings All Access Pass! Thanks for doing this interview with us. We’re finally getting back in track now. 
+
+We spend a lot of time in our rehearsal room working on the successor for Dead Aesthetics“.*
 
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Any updates regarding the new material that you are working on?</strong></p>
 
-*CF – What I can say by now is that it’s gonna be an EP before we will be focusing on the next full-length release. We probably will the first time going into a studio to take some pressure off our guitarist Matt who produced all our material so far. The lyrics will continue where „Dead Aesthetics“ ended and will also reveal something about the upcoming album, so, stay tuned!*
+*CF – What I can say by now is that it’s gonna be an EP before we will be focusing on the next full-length release. 
+
+We probably will the first time going into a studio to take some pressure off our guitarist Matt who produced all our material so far. 
+
+The lyrics will continue where „Dead Aesthetics“ ended and will also reveal something about the upcoming album, so, stay tuned!*
 
 
 
@@ -1204,9 +1213,12 @@ How are things going for [INFECTED CHAOS](https://www.facebook.com/InfectedChaos
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Can voice be seen as an instrument?</strong></p>
 
-*CF – Absolutely. I try to develop and vary my vocals as much as possible. I think it is very important for the atmosphere of the song how the vocals sound like and are arranged. I really like spoken words and whispered stuff which can create something very epic within a certain song. But sometimes it just has to be brutal!*
+*CF – Absolutely. I try to develop and vary my vocals as much as possible. I think it is very important for the atmosphere of the song how the vocals sound like and are arranged. 
 
+I really like spoken words and whispered stuff which can create something very epic within a certain song. But sometimes it just has to be brutal!*
 
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Would you say that the musical direction in INFECTED CHAOS is a result of your combined tastes or was it agreed on?</strong></p>
 
@@ -1218,16 +1230,22 @@ How are things going for [INFECTED CHAOS](https://www.facebook.com/InfectedChaos
 *CF – For myself it’s very impulsive. Then comes the time where it must rest and breathe and finally an intuitive phase starts where I start analyzing the song more and more, add some little details and twists in the arrangement until I’m content with the song.*
 
 
-
 <p style="background-color: #dfdfdf;"><strong>APP – Do you imagine how these songs would play out in a live situation?</strong></p>
 
 *CF – First of all we create songs that please ourselves. Everything that comes after this is a bonus. But of course we think about how this riff or that chorus will work live on stage. Will it be kicking? Is it even playable?*
 
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
+<p style="background-color: #dfdfdf;"><strong>AAP – You once said that ‘as a singer and lyricist you do justice to yourself first’. 
 
-<p style="background-color: #dfdfdf;"><strong>AAP – You once said that ‘as a singer and lyricist you do justice to yourself first’. Do you handle the lyrics alone? What is your favourite topic? What gets harder to pen out the melody or the lyrics?</strong></p>
+Do you handle the lyrics alone? What is your favourite topic? What gets harder to pen out the melody or the lyrics?</strong></p>
 
-*CF – I write my lyrics alone but it’s very important to me that the other members can also identify with them. I dig my inspiration form everyday life, you just have to watch the news to find something that pisses you off. Then I wrap my thoughts in nice little disgusting words and that’s it. Basically it’s nevertheless way more difficult for me to write the lyrics than finding melody or rhythm.*
+*CF – I write my lyrics alone but it’s very important to me that the other members can also identify with them. 
+
+I dig my inspiration form everyday life, you just have to watch the news to find something that pisses you off. Then I wrap my thoughts in nice little disgusting words and that’s it. 
+
+Basically it’s nevertheless way more difficult for me to write the lyrics than finding melody or rhythm.*
 
 
 
@@ -1239,27 +1257,36 @@ How are things going for [INFECTED CHAOS](https://www.facebook.com/InfectedChaos
 
 <p style="background-color: #dfdfdf;"><strong>AAP – How are responsibilities shared? Is there a leader in the band?</strong></p>
 
-*CF – Not really. We’re trying to split up the necessary activities. So one is doing more business, another more the awful social media stuff and so on. We’re a democratic band. Sometimes it would be easier to have a leader though. If you know what I mean 😉*
+*CF – Not really. We’re trying to split up the necessary activities. So one is doing more business, another more the awful social media stuff and so on. We’re a democratic band. 
 
+Sometimes it would be easier to have a leader though. If you know what I mean 😉*
 
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – When writing songs do you tend to not listen to anything or on the contrary expose yourself to any bands and styles?</strong></p>
 
-*CF – I’m listening to different kinds of music all the time. It keeps me going onward, so I don’t isolate myself from it when I’m entering the creative mode. I don’t know how the other guys do, considering this.*
-
+*CF – I’m listening to different kinds of music all the time. It keeps me going onward, so I don’t isolate myself from it when I’m entering the creative mode. I don’t know how the other guys do, considering this*
 
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Are you still involved in any side projects? Any non musical hobbies?</strong></p>
 
-*CF – Our guitarists are playing in some grindcore fun projects and our bassist is doing all kind of music that has guitars in it. The rest of us is only in Infected Chaos. What I really like doing is hiking. It’s great for mental health.*
+*CF – Our guitarists are playing in some grindcore fun projects and our bassist is doing all kind of music that has guitars in it. 
+
+The rest of us is only in Infected Chaos. 
+
+What I really like doing is hiking. It’s great for mental health.*
 
 
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Live scene is slowly getting back to life after this long hiatus. How was getting back on stage?</strong></p>
 
-*CF – It was just absolutely awesome to finally be back on stage. We really missed playing live, feeling the energy of the crowd, talking and drinking with the fans and other musicians. Hopefully we can do a lot of live shows in the near future. Let’s see what happens after the summer…*
+*CF – It was just absolutely awesome to finally be back on stage. We really missed playing live, feeling the energy of the crowd, talking and drinking with the fans and other musicians. 
 
+Hopefully we can do a lot of live shows in the near future. Let’s see what happens after the summer…*
 
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Are there particular songs you like to play live more than others?</strong></p>
 
@@ -1269,7 +1296,11 @@ How are things going for [INFECTED CHAOS](https://www.facebook.com/InfectedChaos
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What have been your greatest challenges to date, and your favorite moments?</strong></p>
 
-*CF – The greatest challenges must have been finding suitable replacements for drums and bass. That was a really hard time where we almost quit. One of my personal favorite moments was opening for the almighty Possessed at our second show ever! But in general I enjoy every moment with this band. It doesn’t matter if we’re heading for the next gig, destroy a stage or are just goofing around. The band’s climate is excellent and that makes it easy to have fun.*
+*CF – The greatest challenges must have been finding suitable replacements for drums and bass. That was a really hard time where we almost quit. 
+
+One of my personal favorite moments was opening for the almighty Possessed at our second show ever! But in general I enjoy every moment with this band. It doesn’t matter if we’re heading for the next gig, destroy a stage or are just goofing around. 
+
+The band’s climate is excellent and that makes it easy to have fun.*
 
 
 
@@ -1283,7 +1314,8 @@ How are things going for [INFECTED CHAOS](https://www.facebook.com/InfectedChaos
 
 *CF – Being able to create my vision of brutal music with these insane guys is motivation enough for me. I don’t care about money or stuff like that.*
 
-
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – How do you define success?</strong></p>
 
@@ -1307,11 +1339,16 @@ How are things going for [INFECTED CHAOS](https://www.facebook.com/InfectedChaos
 
 *CF – You must be able to hear that a musician definitely feels and stands for what he/she is doing. Integrity and devotion are most important.*
 
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
+<p style="background-color: #dfdfdf;"><strong>AAP – Personally I don’t believe in pigeonholing a band. 
 
-<p style="background-color: #dfdfdf;"><strong>AAP – Personally I don’t believe in pigeonholing a band. I think that genre tags are somewhat helpful only to give an idea of the general approach of a band. What is your take on this?</strong></p>
+I think that genre tags are somewhat helpful only to give an idea of the general approach of a band. What is your take on this?</strong></p>
 
-*CF – Just the same here. We labeled ourselves Death Metal in the beginning so people have a clue what it’s roughly about, where we come from and so on. But all in all I don’t think this is perfectly fitting for what we#re doing. It’s metal with brutal vocals.*
+*CF – Just the same here. We labeled ourselves Death Metal in the beginning so people have a clue what it’s roughly about, where we come from and so on. 
+
+But all in all I don’t think this is perfectly fitting for what we#re doing. It’s metal with brutal vocals.*
 
 
 
