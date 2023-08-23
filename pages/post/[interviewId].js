@@ -228,6 +228,7 @@ const Comment = styled.div`
   margin-bottom: 20px;
   border: 2px solid #95091b;
   border-radius: 0.25em;
+  padding: 25px;
 `;
 const CommentName = styled.div`
   font-weight: bold;
