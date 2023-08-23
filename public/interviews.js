@@ -1178,150 +1178,152 @@ At the moment the band is housing their own studio to create their next release.
 
 *As always, a huge **Thank You** to the band for their time, openness and availability!*
 
+<hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
+filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 
-**All Access Pass – Greetings and thank you for taking the time to talk to All Access Pass. It is a pleasure to be able to run this interview! How are things going for INFECTED CHAOS?**
+<p style="background-color: #dfdfdf;"><strong>All Access Pass – Greetings and thank you for taking the time to talk to All Access Pass. It is a pleasure to be able to run this interview! How are things going for INFECTED CHAOS?</strong></p>
 
 *Christian Fischer – Greetings All Access Pass! Thanks for doing this interview with us. We’re finally getting back in track now. We spend a lot of time in our rehearsal room working on the successor for Dead Aesthetics“.*
 
 
-**AAP – Any updates regarding the new material that you are working on?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Any updates regarding the new material that you are working on?</strong></p>
 
 *CF – What I can say by now is that it’s gonna be an EP before we will be focusing on the next full-length release. We probably will the first time going into a studio to take some pressure off our guitarist Matt who produced all our material so far. The lyrics will continue where „Dead Aesthetics“ ended and will also reveal something about the upcoming album, so, stay tuned!*
 
 
 
-**AAP – You once said that with each album, you try to do something different from the last one, while also maintaining a similarity. What should we expect from the new material?**
+<p style="background-color: #dfdfdf;"><strong>AAP – You once said that with each album, you try to do something different from the last one, while also maintaining a similarity. What should we expect from the new material?</strong></p>
 
 *CF – That it’s definitely gonna be Infected Chaos, carrying on the typical melodies and riffing but once again be adding some other influences as we all develop as musicians.*
 
 
-**AAP – Can voice be seen as an instrument?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Can voice be seen as an instrument?</strong></p>
 
 *CF – Absolutely. I try to develop and vary my vocals as much as possible. I think it is very important for the atmosphere of the song how the vocals sound like and are arranged. I really like spoken words and whispered stuff which can create something very epic within a certain song. But sometimes it just has to be brutal!*
 
 
 
-**AAP – Would you say that the musical direction in INFECTED CHAOS is a result of your combined tastes or was it agreed on?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Would you say that the musical direction in INFECTED CHAOS is a result of your combined tastes or was it agreed on?</strong></p>
 
 *CF – It definitely is a result of everybody’s preferences. We got no real masterplan when it comes to creating the sound or writing songs. Everybody adds his influences and the result is Infected Chaos.*
 
 
-**AAP – What is your writing process? Is composition impulsive and intuitive?**
+<p style="background-color: #dfdfdf;"><strong>AAP – What is your writing process? Is composition impulsive and intuitive?</strong></p>
 
 *CF – For myself it’s very impulsive. Then comes the time where it must rest and breathe and finally an intuitive phase starts where I start analyzing the song more and more, add some little details and twists in the arrangement until I’m content with the song.*
 
 
 
-**APP – Do you imagine how these songs would play out in a live situation?**
+<p style="background-color: #dfdfdf;"><strong>APP – Do you imagine how these songs would play out in a live situation?</strong></p>
 
 *CF – First of all we create songs that please ourselves. Everything that comes after this is a bonus. But of course we think about how this riff or that chorus will work live on stage. Will it be kicking? Is it even playable?*
 
 
 
-**AAP – You once said that ‘as a singer and lyricist you do justice to yourself first’. Do you handle the lyrics alone? What is your favourite topic? What gets harder to pen out the melody or the lyrics?**
+<p style="background-color: #dfdfdf;"><strong>AAP – You once said that ‘as a singer and lyricist you do justice to yourself first’. Do you handle the lyrics alone? What is your favourite topic? What gets harder to pen out the melody or the lyrics?</strong></p>
 
 *CF – I write my lyrics alone but it’s very important to me that the other members can also identify with them. I dig my inspiration form everyday life, you just have to watch the news to find something that pisses you off. Then I wrap my thoughts in nice little disgusting words and that’s it. Basically it’s nevertheless way more difficult for me to write the lyrics than finding melody or rhythm.*
 
 
 
-**AAP – Is it more comfortable and expressive to write lyrics in English?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Is it more comfortable and expressive to write lyrics in English?</strong></p>
 
 *CF – I think the english words fit the sound best. But I always respect bands vocalising in their mother’s tongue. Like Dordeduh or Solstafir for example. Maybe we’ll try something like that one time, too. Maybe even using our local dialect. Who knows?*
 
 
 
-**AAP – How are responsibilities shared? Is there a leader in the band?**
+<p style="background-color: #dfdfdf;"><strong>AAP – How are responsibilities shared? Is there a leader in the band?</strong></p>
 
 *CF – Not really. We’re trying to split up the necessary activities. So one is doing more business, another more the awful social media stuff and so on. We’re a democratic band. Sometimes it would be easier to have a leader though. If you know what I mean 😉*
 
 
 
-**AAP – When writing songs do you tend to not listen to anything or on the contrary expose yourself to any bands and styles?**
+<p style="background-color: #dfdfdf;"><strong>AAP – When writing songs do you tend to not listen to anything or on the contrary expose yourself to any bands and styles?</strong></p>
 
 *CF – I’m listening to different kinds of music all the time. It keeps me going onward, so I don’t isolate myself from it when I’m entering the creative mode. I don’t know how the other guys do, considering this.*
 
 
 
-**AAP – Are you still involved in any side projects? Any non musical hobbies?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Are you still involved in any side projects? Any non musical hobbies?</strong></p>
 
 *CF – Our guitarists are playing in some grindcore fun projects and our bassist is doing all kind of music that has guitars in it. The rest of us is only in Infected Chaos. What I really like doing is hiking. It’s great for mental health.*
 
 
 
-**AAP – Live scene is slowly getting back to life after this long hiatus. How was getting back on stage?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Live scene is slowly getting back to life after this long hiatus. How was getting back on stage?</strong></p>
 
 *CF – It was just absolutely awesome to finally be back on stage. We really missed playing live, feeling the energy of the crowd, talking and drinking with the fans and other musicians. Hopefully we can do a lot of live shows in the near future. Let’s see what happens after the summer…*
 
 
 
-**AAP – Are there particular songs you like to play live more than others?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Are there particular songs you like to play live more than others?</strong></p>
 
 *CF – Everybody in the band has its own favorites to play. We decide together which songs will be played at the next show. And of course you have some tunes you just HAVE to play. Imagine Iron Maiden not playing The Trooper. Impossible!*
 
 
 
-**AAP – What have been your greatest challenges to date, and your favorite moments?**
+<p style="background-color: #dfdfdf;"><strong>AAP – What have been your greatest challenges to date, and your favorite moments?</strong></p>
 
 *CF – The greatest challenges must have been finding suitable replacements for drums and bass. That was a really hard time where we almost quit. One of my personal favorite moments was opening for the almighty Possessed at our second show ever! But in general I enjoy every moment with this band. It doesn’t matter if we’re heading for the next gig, destroy a stage or are just goofing around. The band’s climate is excellent and that makes it easy to have fun.*
 
 
 
-**AAP – Are you ever nervous before a show?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Are you ever nervous before a show?</strong></p>
 
 *CF – Not really. Just very focused on the gig. I always try to deliver the maximum and even a little bit more. Practicing is very important for this. If I’m feeling safe in what I’m doing I can totally sink into the music and the mood.*
 
 
 
-**AAP – What still keeps you going? How do you get motivated?**
+<p style="background-color: #dfdfdf;"><strong>AAP – What still keeps you going? How do you get motivated?</strong></p>
 
 *CF – Being able to create my vision of brutal music with these insane guys is motivation enough for me. I don’t care about money or stuff like that.*
 
 
 
-**AAP – How do you define success?**
+<p style="background-color: #dfdfdf;"><strong>AAP – How do you define success?</strong></p>
 
 *CF – Success for me is working with my friends in this band. Having a great time together and creating our own vision of extreme metal. Writing good songs is all it’s about. As mentioned before: the rest is bonus.*
 
 
 
-**AAP – What is a compromises that INFECTED CHAOS is unwilling to make?**
+<p style="background-color: #dfdfdf;"><strong>AAP – What is a compromises that INFECTED CHAOS is unwilling to make?</strong></p>
 
 *CF – Sharing the stage with Nazis! FUCK OFF!!!*
 
 
 
-**AAP – What do you want people to take away from your music most of all?**
+<p style="background-color: #dfdfdf;"><strong>AAP – What do you want people to take away from your music most of all?</strong></p>
 
 *CF – Strength!*
 
 
 
-**AAP – As artists and fans, what does it take for a band or musician to impress you?**
+<p style="background-color: #dfdfdf;"><strong>AAP – As artists and fans, what does it take for a band or musician to impress you?</strong></p>
 
 *CF – You must be able to hear that a musician definitely feels and stands for what he/she is doing. Integrity and devotion are most important.*
 
 
 
-**AAP – Personally I don’t believe in pigeonholing a band. I think that genre tags are somewhat helpful only to give an idea of the general approach of a band. What is your take on this?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Personally I don’t believe in pigeonholing a band. I think that genre tags are somewhat helpful only to give an idea of the general approach of a band. What is your take on this?</strong></p>
 
 *CF – Just the same here. We labeled ourselves Death Metal in the beginning so people have a clue what it’s roughly about, where we come from and so on. But all in all I don’t think this is perfectly fitting for what we#re doing. It’s metal with brutal vocals.*
 
 
 
-**AAP – How would you describe yourselves on stage and off stage?**
+<p style="background-color: #dfdfdf;"><strong>AAP – How would you describe yourselves on stage and off stage?</strong></p>
 
-*CF – We#re hard working guys when it comes to creating and performing music. Off stage we sometimes tend to be a little goofy and chaotic. We’re just trying to have a good time.**
+*CF – We#re hard working guys when it comes to creating and performing music. Off stage we sometimes tend to be a little goofy and chaotic. We’re just trying to have a good time.*
 
 
 
-**AAP – Time for the last question, the RANDOM question: What is invisible, but you wish people could see?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Time for the last question, the RANDOM question: What is invisible, but you wish people could see?</strong></p>
 
 *CF – The energy being pushed back and forth between band and fans during a metal show!*
 
 
 
-**AAP – Thank you once again for taking the time to do this! Feel free to add something for your fans and readers or anything I may have missed.**
+<p style="background-color: #dfdfdf;"><strong>AAP – Thank you once again for taking the time to do this! Feel free to add something for your fans and readers or anything I may have missed.</strong></p>
 
 CF – Thanks for this huge interview! Stay metal and support the underground!
 `,
