@@ -1168,21 +1168,25 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
     title: "Christian Fischer – Infected Chaos",
 
-    text: `The austrian-german metalband **INFECTED CHAOS** rose from the ashes of former band **Chaosreign** in 2013 and directly started to write their own songs. After intense road-tests – among others supporting the legendary **Possessed** – the band entered the renowned **Iguana Studio** and could release its debut **“The Wake of Ares”** in 2015.
+    text: `The austrian-german metalband [INFECTED CHAOS](https://www.facebook.com/InfectedChaos/) rose from the ashes of former band [Chaosreign](https://www.metal-archives.com/bands/Chaosreign/3540308719) in 2013 and directly started to write their own songs.
+    After intense road-tests – among others supporting the legendary **Possessed** – the band entered the renowned [Iguana Studio](https://www.facebook.com/iguanastudios/?ref=page_internal) and could release its debut **“The Wake of Ares”** in 2015.
 
-Only two years later the successor **“Killing Creator”** was unleashed and led the band through the half of Europe. Well known festivals such as **MetalDays**, **Winterdays of Metal** and **Aaargh!-Festival** were *haunted*. *
-*In 2021 **“Dead Aesthetics”** was finally recorded and released by **INFECTED CHAOS**.
+Only two years later the successor **“Killing Creator”** was unleashed and led the band through the half of Europe. Well known festivals such as **MetalDays**, **Winterdays of Metal** and **Aaargh!-Festival** were *haunted*.
+
+In 2021 **“Dead Aesthetics”** was finally recorded and released by [INFECTED CHAOS](https://www.facebook.com/InfectedChaos/).
 
 At the moment the band is housing their own studio to create their next release.
 
 
-*As always, a huge **Thank You** to the band for their time, openness and availability!*
+As always, a huge **Thank You** to the band for their time, openness and availability!
 
 <hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
 filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 
-<p style="background-color: #dfdfdf;"><strong>All Access Pass – Greetings and thank you for taking the time to talk to All Access Pass. It is a pleasure to be able to run this interview! How are things going for INFECTED CHAOS?</strong></p>
+<p style="background-color: #dfdfdf;"><strong>All Access Pass – Greetings and thank you for taking the time to talk to All Access Pass. It is a pleasure to be able to run this interview! 
+
+How are things going for [INFECTED CHAOS](https://www.facebook.com/InfectedChaos/)?</strong></p>
 
 *Christian Fischer – Greetings All Access Pass! Thanks for doing this interview with us. We’re finally getting back in track now. We spend a lot of time in our rehearsal room working on the successor for Dead Aesthetics“.*
 
