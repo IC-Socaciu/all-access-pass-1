@@ -15,7 +15,7 @@ Their rich influences ranging from rock, blues, country, hardcore and punk are b
 
 The start of 2022 brought numerous local live performances and topped with the release of their first self-titled digital EP, **“The Undertaker”**, in July 2022. 
 
-[**THE UNDERTAKER**](https://www.facebook.com/rocktaker666) have also just inked a deal with **Split Screen Management**, and are aiming to release their full-length album in 2023. 
+[**THE UNDERTAKER**](https://www.facebook.com/rocktaker666) have also just inked a deal with [Split Screen Management](http://www.splitscreenproduction.com/), and are aiming to release their full-length album in 2023. 
 
 
 <hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
@@ -503,7 +503,9 @@ Which one is more important or if this is the same case for you?</strong></p>
 
 *TV – For me, music is melody! The melody could be simple and It could be super complex, but it has to touch your ears as a listener on emotional basis.*
 
-*Music without melody is not music at all for me. There exists music without a melody but I am not super excited about that. I think some sort of virtuosity is also needed to impress listeners and entertain your audience or public.* 
+*Music without melody is not music at all for me. There exists music without a melody but I am not super excited about that.*
+
+*I think some sort of virtuosity is also needed to impress listeners and entertain your audience or public.* 
 
 *But it does not mean that you must or have play fast. Virtuosity is much more than just random fast shred on the neck of the guitar.*
 
@@ -528,7 +530,9 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – When writing new music do you seclude yourself from any influences or, on the contrary, listen to more music and expose yourself to more styles and new artists?</strong></p>
 
-*TV – I think that I can not seclude myself from the influences that I have, cause they are deep inside of me anyway. But what I do when I am writing, I try to let go of everything that I have heard and let my imagination fly free.* 
+*TV – I think that I can not seclude myself from the influences that I have, cause they are deep inside of me anyway.* 
+
+*But what I do when I am writing, I try to let go of everything that I have heard and let my imagination fly free.* 
 
 *And move fast to the directions that my creative mind wants to go. I don’t want to finish the details as I write, cause this would put breaks and stop the creative juice flowing.* 
 
@@ -541,6 +545,10 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 
 <img src="https://all-access-pass.de/wp-content/uploads/2022/02/MG_8603-1-683x1024.jpg" alt="Toomas Vanem II album cover" style="max-width: 500px; max-height: 500px;"> 
+
+<p style="background-color: #dfdfdf;"><strong>AAP –What is your guitar practice routine?</strong></p>
+
+
 
 *TV – When I was younger then I think I had some practice routine, But now I just practice when it is needed.* 
 
@@ -581,7 +589,9 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *Even radio stations started fade out songs when the guitar solo kicks in.* 
 
-*Fortunately today we have metal and progressive rock bands like Dream Theatre, who holds the guitar playing flag high enough. And I think there are plenty of fantastic solo guitar players out there, so lets hope for the best, for guitar!*
+*Fortunately today we have metal and progressive rock bands like Dream Theatre, who holds the guitar playing flag high enough.* 
+
+*And I think there are plenty of fantastic solo guitar players out there, so lets hope for the best, for guitar!*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What do you consider as the essential elements of your music?</strong></p>
 
@@ -612,7 +622,7 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – You studies clarinet as a child but were motivated as a teenager you pick up the guitar after seeing a rehearsal. Tell us about your first memory picking up the guitar? Would you choose a different path now?</strong></p>
 
-*TV – As long as I remember it was earth shaking feeling. The first memories are that I pick up the guitar, on the local high school band casting, that I was invited buy and they somehow thought that I know how to play a guitar.*
+*TV – As long as I remember it was earth shaking feeling. The first memories are that I pick up the guitar, on the local high school band casting, that I was invited by and they somehow thought that I know how to play a guitar.*
 
 *I did not!* 
 
@@ -651,7 +661,7 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *TV – I have done some commercials in the past and It is a good money, when you have a right deal. I have nothing against earning some extra bucks.*
 
-<p style="background-color: #dfdfdf;"><strong>AAP – Outside the music realm, what are some other activities that Toomas enjoys just as much?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Outside the music realm, what are some other activities that Toomas enjoys just as much?</strong></p>
 
 *TV – As I live countryside, not far from the big city I have my property, and in summertime I like to build stuff.* 
 
@@ -663,15 +673,15 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *Name at least 1 “fact” about Estonia that is 100% true and one that is 100% nonsense?</strong></p>
 
-*TV – For that answer I did some googling.
+*TV – For that answer I did some googling.*
 
-This fact is 100% true: „The world’s most performed living composer, Arvo Pärt, is an Estonian.“*
+*This fact is 100% true: „The world’s most performed living composer, Arvo Pärt, is an Estonian.“*
 
 *The fact that is completely nonsense to me is: “Estonia has the highest number of supermodels per capita”.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Toomas, thank you once again for your time and interest in speaking to us.</strong></p>
 
-*TV – Thank you and If you have an interest to my music please have listen to it on Spotify or other digital platforms.* 
+*TV – Thank you and if you have an interest to my music please have listen to it on Spotify or other digital platforms.* 
 
 *In case you have interest to physical copies you can find me on Facebook or Instagram and order those from me directly.*
 
@@ -921,7 +931,7 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *A: Hi Ioana, thanks for having this interview with us!* 
 
-*Things are going pretty good for us, in spite of this pandemic year. We’ve been busy writing new material and just finished recording our first ever [Christmas single](https://www.youtube.com/watch?v=BLLG4MUQKTU&ab_channel=Hardland-Topic) that’s going to rock your socks off!!
+*Things are going pretty good for us, in spite of this pandemic year. We’ve been busy writing new material and just finished recording our first ever [Christmas single](https://www.youtube.com/watch?v=BLLG4MUQKTU&ab_channel=Hardland-Topic) that’s going to rock your socks off!!*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What is the story behind your band name?</strong></p>
 
@@ -954,7 +964,13 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Let’s meet all the band members and could you share a trait you have in common with your instrument.</strong></p>
 
-*A: Aeilko (lead vocals / lead guitar) I just like to be at the center of attention… perhaps that’s why I do lead vocals and let my guitars scream!!, Paul (lead vocals / rhythm guitar) Paul has that same virtue of wanting to be at the center of attention, but the other half of his personality wants to be the cement that keeps it all together, Eric (drums) Backbone of the band and in real life someone you can rely on, Marco (keyboards / vocoder / coffee) as keyboardist and vocoderer he utilizes lots of weird sounds…exactly what’s coming out of his mouth!* 
+*A: Aeilko (lead vocals / lead guitar) I just like to be at the center of attention… perhaps that’s why I do lead vocals and let my guitars scream!!* 
+
+*Paul (lead vocals / rhythm guitar) Paul has that same virtue of wanting to be at the center of attention, but the other half of his personality wants to be the cement that keeps it all together.* 
+
+*Eric (drums) Backbone of the band and in real life someone you can rely on.* 
+
+*Marco (keyboards / vocoder / coffee) as keyboardist and vocoderer he utilizes lots of weird sounds… exactly what’s coming out of his mouth!* 
 
 *Lol….the joker of the band, together with Eric. And Remi (bass / backing vocals) what can I say about him… he’s German! 😊*
 
@@ -966,11 +982,17 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *Remi worked at the same location as Paul back in the day. And Marco and I had a mutual friend who introduced us to one another.*
 
-*So it felt quite comfortable from day one and we only became tighter and better. Only thing that is different is that we now try to involve everyone into the writing process of new material and that takes away a lot of the speed in the process of recording.*
+*So it felt quite comfortable from day one and we only became tighter and better.* 
+
+*Only thing that is different is that we now try to involve everyone into the writing process of new material and that takes away a lot of the speed in the process of recording.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP - The song is very important to you and also you avoid repeating yourselves.</strong></p>
 
-A: Exactly! We are influenced by so many different styles of music and artists. We couldn’t even do what a band like AC/DC does. No offence, these guys are the best! I’ve got most all of their albums, but to our ears their music is pretty one dimensional. We prefer bands like Queen, or Whitesnake, or even King’s X. They are more versatile in their musical style. That’s what we prefer above all.
+A: Exactly! We are influenced by so many different styles of music and artists.* 
+
+*We couldn’t even do what a band like AC/DC does. No offence, these guys are the best! I’ve got most all of their albums, but to our ears their music is pretty one dimensional.* 
+
+*We prefer bands like Queen, or Whitesnake, or even King’s X. They are more versatile in their musical style. That’s what we prefer above all.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – How open are you to collaborations and what would be a genre “limit” that you would not really be influenced by?</strong></p>
 
@@ -1007,9 +1029,9 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *I only need to record all the separate parts into the computer and send it over to the rest of the band to see if they want to change or add parts to it.* 
 
-*One thing that doesn’t really happen is jamming…we don’t don’t really jam and record ideas.*
+*One thing that doesn’t really happen is jamming… we don’t don’t really jam and record ideas.*
 
-*Personally, that doesn’t work for me. I want to be able to jump back and forth into the ideas and jamming often means playing a certain theme over and over…which totally bores the crap outta me! Lol.*
+*Personally, that doesn’t work for me. I want to be able to jump back and forth into the ideas and jamming often means playing a certain theme over and over… which totally bores the crap outta me! Lol.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What is your present practise and rehearsal routine like?</strong></p>
 
@@ -1040,11 +1062,13 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 <hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
 filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-<p style="background-color: #dfdfdf;"><strong>AAP – I saw that responsibilities are shared within the band, from video edits and merch prints, event/sound managing. You are all, also involved in more or less musical side-projects and activities?</strong></p>
+<p style="background-color: #dfdfdf;"><strong>AAP – I saw that responsibilities are shared within the band, from video edits and merch prints, event/sound managing.
+
+You are all, also involved in more or less musical side-projects and activities?</strong></p>
 
 *A: True! There’s no use in having people taking care of something that they know nothing about. So we divide the tasks based on our specific qualities and capabilities.* 
 
-*And we are very fortunate to have a friends who are extremely talented in things that bands need. Such as videoclips, artwork, graphic design, Photography, etc. There’s a whole team available for us which gives us a very comfortable feeling.*
+*And we are very fortunate to have a friends who are extremely talented in things that bands need. Such as videoclips, artwork, graphic design, photography, etc. There’s a whole team available for us which gives us a very comfortable feeling.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – That brings a lot of variety in your lifestyles as well as your music.</strong></p>
 
@@ -1052,7 +1076,7 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *Of course we keep in mind to arrange the songs in a 80’s kinda style, melodic, alternative… but we record just as easily an alternative metal track as we recorded a waltz!! Simply because we wanted to and loved it.*
 
-*An Australian reviewer called us musical daredevils!! I love that title!! We would get bored playing the same things over and over again. And variety in our lifestyles…most definitely. Our family lives totally differ.* 
+*An Australian reviewer called us musical daredevils!! I love that title!! We would get bored playing the same things over and over again. And variety in our lifestyles… most definitely. Our family lives totally differ.* 
 
 *But we all share the same passion: Music!*
 
@@ -1073,7 +1097,10 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What do you want people to take away from your music most of all?</strong></p>
 
-*A: We hope that our music touches or resonates with people or will simply give them a good time while listening to it! Especially in the pandemic days people are in need of good vibes. There’s enough stress and misery going on right now. It’s important to be able to take a step back, let your mind relax and wonder away while listening to some great music. Don’t you agree?*
+*A: We hope that our music touches or resonates with people or will simply give them a good time while listening to it!
+*
+
+*Especially in the pandemic days people are in need of good vibes. There’s enough stress and misery going on right now. It’s important to be able to take a step back, let your mind relax and wonder away while listening to some great music. Don’t you agree?*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – As fans and music consumers yourselves, do you favor the old school,  physical medium, or digitalized music?</strong></p>
 
@@ -1081,7 +1108,9 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *First of all because that is more expensive of course, so people want more out of it! That’s simple. I mean, digital music is a way of throwing new material out there with a chance of trying out new styles.*
 
-*Since an MP3 doesn’t usually last as long as a CD or vinyl it doesn’t hurt us artists less if we feel like trying something different. Music that will stand the test of time will still have to be available on CD or Vinyl. So we love every opportunity, as long as people keep listening to music!! It’s up to them to decide in what shape or format they prefer to listen to it!!*
+*Since an MP3 doesn’t usually last as long as a CD or vinyl it doesn’t hurt us artists less if we feel like trying something different.* 
+
+*Music that will stand the test of time will still have to be available on CD or Vinyl. So we love every opportunity, as long as people keep listening to music!! It’s up to them to decide in what shape or format they prefer to listen to it!!*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Remi is learning to play cello. Do you all have similar challenges, musical or non musical?</strong></p>
 
@@ -1095,7 +1124,7 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – You also have in sight a band documentary? Any updates or progress?</strong></p>
 
-*A: Yeah..lol, we started that based on filming the making of our first album and first video clip. But then we talked to professionals and they basically talked us out of it.* 
+*A: Yeah... lol, we started that based on filming the making of our first album and first video clip. But then we talked to professionals and they basically talked us out of it.* 
 
 *Too much talking heads and somehow we couldn’t get the story out the way we had hoped. It didn’t work out the way we had hoped. But no biggy. You always learn stuff from things like this. We don’t consider it a failure, just a learning process. After all, we’re musicians, not movie directors! Lol.*
 
@@ -1104,7 +1133,7 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What is the most difficult song on “In Control” for each of you (and why)?</strong></p>
 
-*A: Two songs actually, The Powers Within, due to the complex rhythm patterns in combination with singing at the same time. And the other one is Love, love, love, due to the harmonies in there that are pretty cool, but also hard to do while playing an instrument at the same time.*
+*A: Two songs actually, *"The Powers Within"*, due to the complex rhythm patterns in combination with singing at the same time. And the other one is *"Love, love, love"* due to the harmonies in there that are pretty cool, but also hard to do while playing an instrument at the same time.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – As fans and musicians, what does it take for a (nowadays) band to impress you?</strong></p>
 
@@ -1144,11 +1173,11 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *Mixed by ourselves together with a good friend and mastered, as always, at **Abbey Road London** it came out really cool! Especially the Beatle-esque middle section with all the vocals was really fun to record.*
 
-*A good friend of mine, the drummer from my very first band, **John Forsting** of **The HeroeZ**, came and contributed some great vocal parts as well.* 
+*A good friend of mine, the drummer from my very first band, John Forsting of The HeroeZ, came and contributed some great vocal parts as well.* 
 
 *I knew he had a great voice and is as creative as we are with vocal harmonies, so it was actually a no brainer to ask him to join in.* 
 
-*People that would like to hear or read more of **HARDLAND** can go to these links and click on every social media, website, or streaming link that shows up. We look forward to hearing the response from your readers / followers.*
+*People that would like to hear or read more of HARDLAND can go to these links and click on every social media, website, or streaming link that shows up. We look forward to hearing the response from your readers / followers.*
 
 `,
 

@@ -1,18 +1,14 @@
 import styled from "styled-components";
 
-// export const PreviewText = styled.p`
-//   text-overflow: ellipsis;
-//   white-space: nowrap;
-//   overflow: hidden;
-//   text-align: center;
-//   background-color: grey;
-// `;
 export const StyledResult = styled.p`
   max-width: 100%;
-  max-height: 300px;
+  height: 500px;
   border-radius: 1.2rem;
   text-decoration: none;
   list-style-type: none;
+  max-height: calc(100vh - 200px);
+  overflow-y: scroll;
+  margin-bottom: 120px;
 `;
 export const StyledTags = styled.ul`
   padding-bottom: 10px;
