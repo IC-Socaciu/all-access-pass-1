@@ -9,7 +9,7 @@ import {
   StyledTickets,
   StyledBand,
   StyledVenue,
-} from "./styles";
+} from "@/components/Events/styles";
 import useSWR from "swr";
 
 function formatDate(timestamp) {

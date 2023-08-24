@@ -1,12 +1,5 @@
 import styled from "styled-components";
 
-// export const PreviewText = styled.p`
-//   text-overflow: ellipsis;
-//   white-space: nowrap;
-//   overflow: hidden;
-//   text-align: center;
-//   background-color: grey;
-// `;
 export const StyledResult = styled.p`
   max-width: 100%;
   max-height: 300px;
