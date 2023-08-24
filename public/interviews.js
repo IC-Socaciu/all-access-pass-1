@@ -15,7 +15,7 @@ Their rich influences ranging from rock, blues, country, hardcore and punk are b
 
 The start of 2022 brought numerous local live performances and topped with the release of their first self-titled digital EP, **“The Undertaker”**, in July 2022. 
 
-[**THE UNDERTAKER**](https://www.facebook.com/rocktaker666) have also just inked a deal with **Split Screen Management**, and are aiming to release their full-length album in 2023. 
+[**THE UNDERTAKER**](https://www.facebook.com/rocktaker666) have also just inked a deal with [Split Screen Management](http://www.splitscreenproduction.com/), and are aiming to release their full-length album in 2023. 
 
 
 <hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
@@ -503,7 +503,9 @@ Which one is more important or if this is the same case for you?</strong></p>
 
 *TV – For me, music is melody! The melody could be simple and It could be super complex, but it has to touch your ears as a listener on emotional basis.*
 
-*Music without melody is not music at all for me. There exists music without a melody but I am not super excited about that. I think some sort of virtuosity is also needed to impress listeners and entertain your audience or public.* 
+*Music without melody is not music at all for me. There exists music without a melody but I am not super excited about that.*
+
+*I think some sort of virtuosity is also needed to impress listeners and entertain your audience or public.* 
 
 *But it does not mean that you must or have play fast. Virtuosity is much more than just random fast shred on the neck of the guitar.*
 
@@ -528,7 +530,9 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – When writing new music do you seclude yourself from any influences or, on the contrary, listen to more music and expose yourself to more styles and new artists?</strong></p>
 
-*TV – I think that I can not seclude myself from the influences that I have, cause they are deep inside of me anyway. But what I do when I am writing, I try to let go of everything that I have heard and let my imagination fly free.* 
+*TV – I think that I can not seclude myself from the influences that I have, cause they are deep inside of me anyway.* 
+
+*But what I do when I am writing, I try to let go of everything that I have heard and let my imagination fly free.* 
 
 *And move fast to the directions that my creative mind wants to go. I don’t want to finish the details as I write, cause this would put breaks and stop the creative juice flowing.* 
 
@@ -541,6 +545,10 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 
 <img src="https://all-access-pass.de/wp-content/uploads/2022/02/MG_8603-1-683x1024.jpg" alt="Toomas Vanem II album cover" style="max-width: 500px; max-height: 500px;"> 
+
+<p style="background-color: #dfdfdf;"><strong>AAP –What is your guitar practice routine?</strong></p>
+
+
 
 *TV – When I was younger then I think I had some practice routine, But now I just practice when it is needed.* 
 
