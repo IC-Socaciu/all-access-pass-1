@@ -1062,11 +1062,13 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 <hr style="background-color: #dfdfdf; height: 2px;box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25); width: 100px;
 filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
-<p style="background-color: #dfdfdf;"><strong>AAP – I saw that responsibilities are shared within the band, from video edits and merch prints, event/sound managing. You are all, also involved in more or less musical side-projects and activities?</strong></p>
+<p style="background-color: #dfdfdf;"><strong>AAP – I saw that responsibilities are shared within the band, from video edits and merch prints, event/sound managing.
+
+You are all, also involved in more or less musical side-projects and activities?</strong></p>
 
 *A: True! There’s no use in having people taking care of something that they know nothing about. So we divide the tasks based on our specific qualities and capabilities.* 
 
-*And we are very fortunate to have a friends who are extremely talented in things that bands need. Such as videoclips, artwork, graphic design, Photography, etc. There’s a whole team available for us which gives us a very comfortable feeling.*
+*And we are very fortunate to have a friends who are extremely talented in things that bands need. Such as videoclips, artwork, graphic design, photography, etc. There’s a whole team available for us which gives us a very comfortable feeling.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – That brings a lot of variety in your lifestyles as well as your music.</strong></p>
 
@@ -1074,7 +1076,7 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *Of course we keep in mind to arrange the songs in a 80’s kinda style, melodic, alternative… but we record just as easily an alternative metal track as we recorded a waltz!! Simply because we wanted to and loved it.*
 
-*An Australian reviewer called us musical daredevils!! I love that title!! We would get bored playing the same things over and over again. And variety in our lifestyles…most definitely. Our family lives totally differ.* 
+*An Australian reviewer called us musical daredevils!! I love that title!! We would get bored playing the same things over and over again. And variety in our lifestyles… most definitely. Our family lives totally differ.* 
 
 *But we all share the same passion: Music!*
 
@@ -1095,7 +1097,10 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What do you want people to take away from your music most of all?</strong></p>
 
-*A: We hope that our music touches or resonates with people or will simply give them a good time while listening to it! Especially in the pandemic days people are in need of good vibes. There’s enough stress and misery going on right now. It’s important to be able to take a step back, let your mind relax and wonder away while listening to some great music. Don’t you agree?*
+*A: We hope that our music touches or resonates with people or will simply give them a good time while listening to it!
+*
+
+*Especially in the pandemic days people are in need of good vibes. There’s enough stress and misery going on right now. It’s important to be able to take a step back, let your mind relax and wonder away while listening to some great music. Don’t you agree?*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – As fans and music consumers yourselves, do you favor the old school,  physical medium, or digitalized music?</strong></p>
 
@@ -1103,7 +1108,9 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *First of all because that is more expensive of course, so people want more out of it! That’s simple. I mean, digital music is a way of throwing new material out there with a chance of trying out new styles.*
 
-*Since an MP3 doesn’t usually last as long as a CD or vinyl it doesn’t hurt us artists less if we feel like trying something different. Music that will stand the test of time will still have to be available on CD or Vinyl. So we love every opportunity, as long as people keep listening to music!! It’s up to them to decide in what shape or format they prefer to listen to it!!*
+*Since an MP3 doesn’t usually last as long as a CD or vinyl it doesn’t hurt us artists less if we feel like trying something different.* 
+
+*Music that will stand the test of time will still have to be available on CD or Vinyl. So we love every opportunity, as long as people keep listening to music!! It’s up to them to decide in what shape or format they prefer to listen to it!!*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Remi is learning to play cello. Do you all have similar challenges, musical or non musical?</strong></p>
 
@@ -1117,7 +1124,7 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – You also have in sight a band documentary? Any updates or progress?</strong></p>
 
-*A: Yeah..lol, we started that based on filming the making of our first album and first video clip. But then we talked to professionals and they basically talked us out of it.* 
+*A: Yeah... lol, we started that based on filming the making of our first album and first video clip. But then we talked to professionals and they basically talked us out of it.* 
 
 *Too much talking heads and somehow we couldn’t get the story out the way we had hoped. It didn’t work out the way we had hoped. But no biggy. You always learn stuff from things like this. We don’t consider it a failure, just a learning process. After all, we’re musicians, not movie directors! Lol.*
 
@@ -1126,7 +1133,7 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What is the most difficult song on “In Control” for each of you (and why)?</strong></p>
 
-*A: Two songs actually, The Powers Within, due to the complex rhythm patterns in combination with singing at the same time. And the other one is Love, love, love, due to the harmonies in there that are pretty cool, but also hard to do while playing an instrument at the same time.*
+*A: Two songs actually, *"The Powers Within"*, due to the complex rhythm patterns in combination with singing at the same time. And the other one is *"Love, love, love"* due to the harmonies in there that are pretty cool, but also hard to do while playing an instrument at the same time.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – As fans and musicians, what does it take for a (nowadays) band to impress you?</strong></p>
 
@@ -1166,11 +1173,11 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *Mixed by ourselves together with a good friend and mastered, as always, at **Abbey Road London** it came out really cool! Especially the Beatle-esque middle section with all the vocals was really fun to record.*
 
-*A good friend of mine, the drummer from my very first band, **John Forsting** of **The HeroeZ**, came and contributed some great vocal parts as well.* 
+*A good friend of mine, the drummer from my very first band, John Forsting of The HeroeZ, came and contributed some great vocal parts as well.* 
 
 *I knew he had a great voice and is as creative as we are with vocal harmonies, so it was actually a no brainer to ask him to join in.* 
 
-*People that would like to hear or read more of **HARDLAND** can go to these links and click on every social media, website, or streaming link that shows up. We look forward to hearing the response from your readers / followers.*
+*People that would like to hear or read more of HARDLAND can go to these links and click on every social media, website, or streaming link that shows up. We look forward to hearing the response from your readers / followers.*
 
 `,
 
