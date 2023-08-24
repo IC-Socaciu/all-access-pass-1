@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const StyledResult = styled.p`
   max-width: 100%;
-  height: 300px;
+  height: 500px;
   border-radius: 1.2rem;
   text-decoration: none;
   list-style-type: none;
