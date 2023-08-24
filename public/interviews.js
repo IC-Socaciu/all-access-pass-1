@@ -589,7 +589,9 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *Even radio stations started fade out songs when the guitar solo kicks in.* 
 
-*Fortunately today we have metal and progressive rock bands like Dream Theatre, who holds the guitar playing flag high enough. And I think there are plenty of fantastic solo guitar players out there, so lets hope for the best, for guitar!*
+*Fortunately today we have metal and progressive rock bands like Dream Theatre, who holds the guitar playing flag high enough.* 
+
+*And I think there are plenty of fantastic solo guitar players out there, so lets hope for the best, for guitar!*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What do you consider as the essential elements of your music?</strong></p>
 
@@ -620,7 +622,7 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – You studies clarinet as a child but were motivated as a teenager you pick up the guitar after seeing a rehearsal. Tell us about your first memory picking up the guitar? Would you choose a different path now?</strong></p>
 
-*TV – As long as I remember it was earth shaking feeling. The first memories are that I pick up the guitar, on the local high school band casting, that I was invited buy and they somehow thought that I know how to play a guitar.*
+*TV – As long as I remember it was earth shaking feeling. The first memories are that I pick up the guitar, on the local high school band casting, that I was invited by and they somehow thought that I know how to play a guitar.*
 
 *I did not!* 
 
@@ -659,7 +661,7 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *TV – I have done some commercials in the past and It is a good money, when you have a right deal. I have nothing against earning some extra bucks.*
 
-<p style="background-color: #dfdfdf;"><strong>AAP – Outside the music realm, what are some other activities that Toomas enjoys just as much?**
+<p style="background-color: #dfdfdf;"><strong>AAP – Outside the music realm, what are some other activities that Toomas enjoys just as much?</strong></p>
 
 *TV – As I live countryside, not far from the big city I have my property, and in summertime I like to build stuff.* 
 
@@ -671,15 +673,15 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *Name at least 1 “fact” about Estonia that is 100% true and one that is 100% nonsense?</strong></p>
 
-*TV – For that answer I did some googling.
+*TV – For that answer I did some googling.*
 
-This fact is 100% true: „The world’s most performed living composer, Arvo Pärt, is an Estonian.“*
+*This fact is 100% true: „The world’s most performed living composer, Arvo Pärt, is an Estonian.“*
 
 *The fact that is completely nonsense to me is: “Estonia has the highest number of supermodels per capita”.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Toomas, thank you once again for your time and interest in speaking to us.</strong></p>
 
-*TV – Thank you and If you have an interest to my music please have listen to it on Spotify or other digital platforms.* 
+*TV – Thank you and if you have an interest to my music please have listen to it on Spotify or other digital platforms.* 
 
 *In case you have interest to physical copies you can find me on Facebook or Instagram and order those from me directly.*
 
