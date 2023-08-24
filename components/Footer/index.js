@@ -64,6 +64,7 @@ const ListItem = styled.li`
   list-style-type: none;
   padding: 0px 5px;
   color: ${(props) => (props.active ? "#00ff00" : "#95091b")};
+  width: 150px;
   cursor: pointer;
   a {
     color: #95091b;
