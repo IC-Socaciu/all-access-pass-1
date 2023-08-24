@@ -931,7 +931,7 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *A: Hi Ioana, thanks for having this interview with us!* 
 
-*Things are going pretty good for us, in spite of this pandemic year. We’ve been busy writing new material and just finished recording our first ever [Christmas single](https://www.youtube.com/watch?v=BLLG4MUQKTU&ab_channel=Hardland-Topic) that’s going to rock your socks off!!
+*Things are going pretty good for us, in spite of this pandemic year. We’ve been busy writing new material and just finished recording our first ever [Christmas single](https://www.youtube.com/watch?v=BLLG4MUQKTU&ab_channel=Hardland-Topic) that’s going to rock your socks off!!*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What is the story behind your band name?</strong></p>
 
@@ -964,7 +964,13 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 <p style="background-color: #dfdfdf;"><strong>AAP – Let’s meet all the band members and could you share a trait you have in common with your instrument.</strong></p>
 
-*A: Aeilko (lead vocals / lead guitar) I just like to be at the center of attention… perhaps that’s why I do lead vocals and let my guitars scream!!, Paul (lead vocals / rhythm guitar) Paul has that same virtue of wanting to be at the center of attention, but the other half of his personality wants to be the cement that keeps it all together, Eric (drums) Backbone of the band and in real life someone you can rely on, Marco (keyboards / vocoder / coffee) as keyboardist and vocoderer he utilizes lots of weird sounds…exactly what’s coming out of his mouth!* 
+*A: Aeilko (lead vocals / lead guitar) I just like to be at the center of attention… perhaps that’s why I do lead vocals and let my guitars scream!!* 
+
+*Paul (lead vocals / rhythm guitar) Paul has that same virtue of wanting to be at the center of attention, but the other half of his personality wants to be the cement that keeps it all together.* 
+
+*Eric (drums) Backbone of the band and in real life someone you can rely on.* 
+
+*Marco (keyboards / vocoder / coffee) as keyboardist and vocoderer he utilizes lots of weird sounds… exactly what’s coming out of his mouth!* 
 
 *Lol….the joker of the band, together with Eric. And Remi (bass / backing vocals) what can I say about him… he’s German! 😊*
 
@@ -976,11 +982,17 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *Remi worked at the same location as Paul back in the day. And Marco and I had a mutual friend who introduced us to one another.*
 
-*So it felt quite comfortable from day one and we only became tighter and better. Only thing that is different is that we now try to involve everyone into the writing process of new material and that takes away a lot of the speed in the process of recording.*
+*So it felt quite comfortable from day one and we only became tighter and better.* 
+
+*Only thing that is different is that we now try to involve everyone into the writing process of new material and that takes away a lot of the speed in the process of recording.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP - The song is very important to you and also you avoid repeating yourselves.</strong></p>
 
-A: Exactly! We are influenced by so many different styles of music and artists. We couldn’t even do what a band like AC/DC does. No offence, these guys are the best! I’ve got most all of their albums, but to our ears their music is pretty one dimensional. We prefer bands like Queen, or Whitesnake, or even King’s X. They are more versatile in their musical style. That’s what we prefer above all.
+A: Exactly! We are influenced by so many different styles of music and artists.* 
+
+*We couldn’t even do what a band like AC/DC does. No offence, these guys are the best! I’ve got most all of their albums, but to our ears their music is pretty one dimensional.* 
+
+*We prefer bands like Queen, or Whitesnake, or even King’s X. They are more versatile in their musical style. That’s what we prefer above all.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – How open are you to collaborations and what would be a genre “limit” that you would not really be influenced by?</strong></p>
 
@@ -1017,9 +1029,9 @@ filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));"/>
 
 *I only need to record all the separate parts into the computer and send it over to the rest of the band to see if they want to change or add parts to it.* 
 
-*One thing that doesn’t really happen is jamming…we don’t don’t really jam and record ideas.*
+*One thing that doesn’t really happen is jamming… we don’t don’t really jam and record ideas.*
 
-*Personally, that doesn’t work for me. I want to be able to jump back and forth into the ideas and jamming often means playing a certain theme over and over…which totally bores the crap outta me! Lol.*
+*Personally, that doesn’t work for me. I want to be able to jump back and forth into the ideas and jamming often means playing a certain theme over and over… which totally bores the crap outta me! Lol.*
 
 <p style="background-color: #dfdfdf;"><strong>AAP – What is your present practise and rehearsal routine like?</strong></p>
 
