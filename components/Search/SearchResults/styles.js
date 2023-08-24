@@ -13,6 +13,9 @@ export const StyledResult = styled.p`
   border-radius: 1.2rem;
   text-decoration: none;
   list-style-type: none;
+  max-height: calc(100vh - 200px);
+  overflow-y: scroll;
+  margin-bottom: 120px;
 `;
 export const StyledTags = styled.ul`
   padding-bottom: 10px;
