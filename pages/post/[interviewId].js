@@ -13,6 +13,8 @@ export default function InterviewArticle() {
   const [comments, setComments] = useState([]);
   const [messageLength, setMessageLength] = useState(0);
   const [editIndex, setEditIndex] = useState(-1);
+  const [editName, setEditName] = useState("");
+  const [editMessage, setEditMessage] = useState("");
 
   useEffect(() => {
     const savedLikes = localStorage.getItem(`likes${interviewId}`);
@@ -50,30 +52,43 @@ export default function InterviewArticle() {
     setMessageLength(event.target.value.length);
   };
 
+  const handleEditNameChange = (event) => {
+    setEditName(event.target.value);
+  };
+
+  const handleEditMessageChange = (event) => {
+    setEditMessage(event.target.value);
+  };
+
   const handleFormSubmit = (event) => {
     event.preventDefault();
 
-    if (name === "" || message === "") {
-      alert("Please enter a name and message");
-      return;
-    }
-
-    const newComment = {
-      name,
-      message,
-    };
-
     if (editIndex === -1) {
+      if (name === "" || message === "") {
+        alert("Please enter a name and message");
+        return;
+      }
+
+      const newComment = {
+        name,
+        message,
+      };
+
       setComments([...comments, newComment]);
+      setName("");
+      setMessage("");
+      setMessageLength(0);
     } else {
       const updatedComments = [...comments];
-      updatedComments[editIndex] = newComment;
+      updatedComments[editIndex] = {
+        name: editName || comments[editIndex].name,
+        message: editMessage || comments[editIndex].message,
+      };
       setComments(updatedComments);
       setEditIndex(-1);
+      setEditName("");
+      setEditMessage("");
     }
-
-    setName("");
-    setMessage("");
   };
 
   const handleDeleteComment = (index) => {
@@ -92,16 +107,16 @@ export default function InterviewArticle() {
 
   const handleEditComment = (index) => {
     const commentToEdit = comments[index];
-    setName(commentToEdit.name);
-    setMessage(commentToEdit.message);
+    setEditName(commentToEdit.name);
+    setEditMessage(commentToEdit.message);
     setEditIndex(index);
   };
 
   return (
     <Article>
       <Title>{article.title}</Title>
-      <LikeContainer>
-        <ThumbUpIcon onClick={handleLikeClick} />
+      <LikeContainer onClick={handleLikeClick}>
+        <ThumbUpIcon />
         <LikeCount>{likes}</LikeCount>
       </LikeContainer>
       <Separator />
@@ -151,19 +166,19 @@ export default function InterviewArticle() {
                   <TextInput
                     id="edit-name"
                     type="text"
-                    value={name}
-                    onChange={handleNameChange}
+                    value={editName}
+                    onChange={handleEditNameChange}
                   />
                 </InputContainer>
                 <InputContainer>
                   <Label htmlFor="edit-message">Message:</Label>
                   <TextArea
                     id="edit-message"
-                    value={message}
-                    onChange={handleMessageChange}
+                    value={editMessage}
+                    onChange={handleEditMessageChange}
                     maxLength="150"
                   />
-                  <CharCount>{messageLength}/150</CharCount>
+                  <CharCount>{editMessage.length}/150</CharCount>
                 </InputContainer>
                 <ButtonContainer>
                   <SubmitButton type="submit">Update</SubmitButton>
@@ -200,9 +215,6 @@ const Article = styled.article`
 `;
 
 const Title = styled.h2`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   color: #95091b;
   line-height: 1.4;
   margin-top: 0;
@@ -223,7 +235,6 @@ const ThumbUpIcon = styled.div`
   background-image: url("/thumbs-up-regular.svg");
   background-size: cover;
   margin-inline: 15px;
-  text-decoration: none;
 `;
 
 const LikeCount = styled.span``;
