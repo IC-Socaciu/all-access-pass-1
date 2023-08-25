@@ -38,18 +38,12 @@ export default function Footer({ currentPath }) {
 
 const StyledFooter = styled.footer`
   background-color: #fafafa;
-  color: white;
+  color: #95091b;
   padding: 1.5em;
   position: fixed;
   width: 100%;
   bottom: 0;
   z-index: 9999;
-  text-align: justify;
-  display: flex;
-  flex-direction: row;
-  list-style-type: none;
-  height: 100px;
-  margin-top: -100px;
   box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.25);
   filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.25));
 `;
@@ -57,20 +51,18 @@ const StyledFooter = styled.footer`
 const ListItem = styled.li`
   font-size: 1em;
   font-weight: bolder;
-  display: inline-block;
   display: flex;
-  flex-direction: row;
   align-items: center;
   list-style-type: none;
   padding: 0px 5px;
   color: ${(props) => (props.active ? "#00ff00" : "#95091b")};
-  width: 150px;
+  width: 120px;
   cursor: pointer;
   a {
     color: #95091b;
     text-decoration: none;
     &:hover {
-      font-size: 1.1em;
+      font-size: 1em;
       transform: scale(1.1);
     }
   }
@@ -82,12 +74,13 @@ const LinkList = styled.ul`
   align-items: center;
   width: 100%;
   padding: 0px 5px;
-`;
 
-const Separator = styled.div`
-  color: white;
-  font-size: 1em;
-  font-weight: bolder;
-  display: inline-block;
-  padding: 0 10px;
+  @media (max-width: 768px) {
+    flex-wrap: wrap;
+    justify-content: center;
+    ${ListItem} {
+      width: auto;
+      padding: 10px;
+    }
+  }
 `;
