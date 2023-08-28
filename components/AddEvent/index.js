@@ -36,7 +36,7 @@ export default function AddEvent() {
         <legend>Add Your Event!</legend>
 
         <div>
-          <label htmlFor="bandName">Band Name</label>
+          <label htmlFor="bandName">Band Name (required)</label>
           <input
             id="bandName"
             name="bandName"
@@ -46,14 +46,14 @@ export default function AddEvent() {
         </div>
 
         <div>
-          <label htmlFor="date">Date</label>
+          <label htmlFor="date">Date (required)</label>
           <div>
             <input id="date" name="date" type="date" />
           </div>
         </div>
 
         <div>
-          <label htmlFor="time">Select a time:</label>
+          <label htmlFor="time">Select a time (required):</label>
           <select id="time" name="time">
             <option value="">--Choose a time--</option>
             <option value="19:00">19:00</option>
@@ -105,7 +105,7 @@ export default function AddEvent() {
         </div>
 
         <div>
-          <label htmlFor="venueName">Venue</label>
+          <label htmlFor="venueName">Venue (required)</label>
           <div>
             <select id="venueName" name="venueName">
               <option value="">Select local venue</option>
@@ -141,7 +141,7 @@ export default function AddEvent() {
         </div>
 
         <div>
-          <label htmlFor="ticketsLink">External tickets link</label>
+          <label htmlFor="ticketsLink">External tickets link (required)</label>
           <div>
             <input
               id="ticketsLink"
