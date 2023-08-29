@@ -97,12 +97,11 @@ const StyledTickets = styled.a`
   background-color: #fafafa;
   color: #95091b;
   text-align: left;
-  text-decoration: none;
-  text-transform: uppercase;
   transition: background-color 0.3s;
   &:hover {
     background-color: #95091b;
     color: #fafafa;
+    text-transform: uppercase;
   }
 `;
 const StyledBand = styled.h3`
