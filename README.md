@@ -1,37 +1,36 @@
-# New Next Project
+# All Acess Pass
 
-This project was created from the neue fische `next` template.
+## Capstone Project of the Web Development bootcamp at neuefische
 
-You can [🔗 **use this template on CodeSandbox**](https://codesandbox.io/p/sandbox/github/neuefische/web-exercises/tree/main/templates/next?file=/README.md) or locally by running this command in your Terminal:
+One of the key features of our app is the collection of new interviews with musicians. We go beyond just the mainstream artists and cover emerging talents as well. Our interviews are insightful and provide valuable insights on the music industry and the creative process.
 
-```bash
-npx -y ghcd@latest neuefische/web-exercises/tree/main/templates/next my-app -i
-```
+In addition to interviews, our app allows bands to book their events and promote their shows to a wider audience. Whether you are organizing a small gig or a large concert, our app provides an easy-to-use interface for booking and promoting your events. 
 
-## Development
+Overall, our music app is a must-have for music lovers and musicians alike. 
 
-### Local Development
+<img width="1000" alt="All Access Pass overview" src="https://github.com/IC-Socaciu/all-access-pass-1/assets/125737167/384701ac-51c5-4fe5-9a44-f0c35512d36c">
 
-To work locally, please install the dependencies using `npm i` first.
+### Demo:
 
-Run `npm run dev` to start a development server and open the displayed URL in a browser.
+You can find the hosted version of the capstone project on Vercel - [All Access Pass](https://all-access-pass-1.vercel.app/)
 
-Use `npm run test` to run the tests.
+### Tech Stack
 
-### CodeSandbox Cloud
+- React
+- React Hooks
+- React Router
+- Styled-components
+- localStorage
+- npm
+- Vercel
+- [Binary Jazz API](https://binaryjazz.us/genrenator-api/)
 
-Select the "Preview: 3000" tab to view this project.
+### How to set it up
 
-Select the "Tests: logs" tab to view the tests.
+- clone this repository
+- install all npm dependencies
+- npm install
+- to run the app in development mode npm start, then open http://localhost:3000 to view it in the browser
+- to create a build ready for deploying: npm run build
 
-> The `npm run dev` and `npm run test` scripts run automatically.
 
-### Scripts
-
-You can use the following commands:
-
-- `npm run dev` to start a development server
-- `npm run build` to build the project
-- `npm run start` to start a production server
-- `npm run test` to run the tests
-- `npm run lint` to run the linter
